@@ -1,0 +1,7 @@
+Example 1:
+Input: s = "11011000"
+Output: "11100100"
+
+Example 2:
+Input: s = "10"
+Output: "10"
