@@ -1,0 +1,11 @@
+Example 1:
+Input: words = ["a","b","ba","bca","bda","bdca"]
+Output: 4
+
+Example 2:
+Input: words = ["xbc","pcxbcf","xb","cxbc","pcxbc"]
+Output: 5
+
+Example 3:
+Input: words = ["abcd","dbqca"]
+Output: 1
