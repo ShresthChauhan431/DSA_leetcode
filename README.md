@@ -1,29 +1,39 @@
 # LeetCode Solutions
 
-> **1** problems solved
+> **2** problems solved
 
 ## Topics
 
-- [Array](#array) (1)
-- [Dynamic Programming](#dynamic-programming) (1)
+- [Array](#array) (2)
+- [Dynamic Programming](#dynamic-programming) (2)
+- [Hash Table](#hash-table) (1)
 - [All Problems](#all-problems)
 
 ## Array
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | java |
 
 ## Dynamic Programming
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | java |
+
+## Hash Table
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
 
 ## All Problems
 
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
+| 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | Array, Hash Table, Dynamic Programming | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | Array, Dynamic Programming | java |
 
 ---
