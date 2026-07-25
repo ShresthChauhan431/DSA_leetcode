@@ -1,12 +1,14 @@
 # LeetCode Solutions
 
-> **2** problems solved
+> **3** problems solved
 
 ## Topics
 
 - [Array](#array) (2)
 - [Dynamic Programming](#dynamic-programming) (2)
 - [Hash Table](#hash-table) (1)
+- [Math](#math) (1)
+- [Sorting](#sorting) (1)
 - [All Problems](#all-problems)
 
 ## Array
@@ -29,12 +31,25 @@
 |---|-------|------------|----------|
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
 
+## Math
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | java |
+
+## Sorting
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | java |
+
 ## All Problems
 
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | Array, Hash Table, Dynamic Programming | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | Array, Dynamic Programming | java |
+| 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | Math, Sorting | java |
 
 ---
 
