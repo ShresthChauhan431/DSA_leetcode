@@ -1,15 +1,15 @@
 # LeetCode Solutions
 
-> **4** problems solved
+> **5** problems solved
 
 ## Topics
 
 - [Array](#array) (3)
 - [Dynamic Programming](#dynamic-programming) (3)
-- [Hash Table](#hash-table) (2)
+- [Hash Table](#hash-table) (3)
 - [Math](#math) (1)
 - [Sorting](#sorting) (2)
-- [String](#string) (1)
+- [String](#string) (2)
 - [Two Pointers](#two-pointers) (1)
 - [All Problems](#all-problems)
 
@@ -35,6 +35,7 @@
 |---|-------|------------|----------|
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
+| 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | java |
 
 ## Math
 
@@ -54,6 +55,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
+| 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | java |
 
 ## Two Pointers
 
@@ -67,6 +69,7 @@
 |---|-------|------------|--------|----------|
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | Array, Hash Table, Dynamic Programming | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting | java |
+| 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | Hash Table, String | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | Array, Dynamic Programming | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | Math, Sorting | java |
 
