@@ -1,14 +1,14 @@
 # LeetCode Solutions
 
-> **8** problems solved
+> **9** problems solved
 
 ## Topics
 
-- [Array](#array) (3)
+- [Array](#array) (4)
 - [Dynamic Programming](#dynamic-programming) (3)
 - [Hash Table](#hash-table) (3)
-- [Math](#math) (1)
-- [Sorting](#sorting) (2)
+- [Math](#math) (2)
+- [Sorting](#sorting) (3)
 - [String](#string) (2)
 - [Two Pointers](#two-pointers) (1)
 - [Uncategorized](#uncategorized) (3)
@@ -18,6 +18,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | java |
@@ -42,12 +43,14 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | java |
 
 ## Sorting
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | java |
 
@@ -76,6 +79,7 @@
 
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
+| 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | Array, Math, Sorting | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | Array, Hash Table, Dynamic Programming | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting | java |
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | Hash Table, String | java |
