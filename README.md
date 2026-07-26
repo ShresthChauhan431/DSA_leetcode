@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **13** problems solved
+> **14** problems solved
 
 ## Topics
 
-- [Array](#array) (5)
-- [Dynamic Programming](#dynamic-programming) (7)
+- [Array](#array) (6)
+- [Dynamic Programming](#dynamic-programming) (8)
 - [Hash Table](#hash-table) (3)
 - [Math](#math) (2)
 - [Sorting](#sorting) (3)
@@ -18,6 +18,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | java |
 | 518 | [Coin Change II](./518-coin-change-ii/) | Medium | java |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
@@ -30,6 +31,7 @@
 |---|-------|------------|----------|
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | java |
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | java |
+| 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | java |
 | 518 | [Coin Change II](./518-coin-change-ii/) | Medium | java |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
@@ -89,6 +91,7 @@
 |---|-------|------------|--------|----------|
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | String, Dynamic Programming | java |
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | String, Dynamic Programming | java |
+| 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | Array, Dynamic Programming | java |
 | 518 | [Coin Change II](./518-coin-change-ii/) | Medium | Array, Dynamic Programming | java |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | Array, Math, Sorting | java |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | String, Dynamic Programming | java |
