@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **5** problems solved
+> **6** problems solved
 
 ## Topics
 
@@ -11,6 +11,7 @@
 - [Sorting](#sorting) (2)
 - [String](#string) (2)
 - [Two Pointers](#two-pointers) (1)
+- [Uncategorized](#uncategorized) (1)
 - [All Problems](#all-problems)
 
 ## Array
@@ -63,6 +64,12 @@
 |---|-------|------------|----------|
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 
+## Uncategorized
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 101114 | [Largest Integer With Given Digit Sum](./101114-largest-integer-with-given-digit-sum/) | Easy | java |
+
 ## All Problems
 
 | # | Title | Difficulty | Topics | Language |
@@ -72,6 +79,7 @@
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | Hash Table, String | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | Array, Dynamic Programming | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | Math, Sorting | java |
+| 101114 | [Largest Integer With Given Digit Sum](./101114-largest-integer-with-given-digit-sum/) | Easy | - | java |
 
 ---
 
