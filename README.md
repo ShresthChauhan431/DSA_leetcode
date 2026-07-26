@@ -1,15 +1,15 @@
 # LeetCode Solutions
 
-> **9** problems solved
+> **10** problems solved
 
 ## Topics
 
 - [Array](#array) (4)
-- [Dynamic Programming](#dynamic-programming) (3)
+- [Dynamic Programming](#dynamic-programming) (4)
 - [Hash Table](#hash-table) (3)
 - [Math](#math) (2)
 - [Sorting](#sorting) (3)
-- [String](#string) (2)
+- [String](#string) (3)
 - [Two Pointers](#two-pointers) (1)
 - [Uncategorized](#uncategorized) (3)
 - [All Problems](#all-problems)
@@ -27,6 +27,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 72 | [Edit Distance](./72-edit-distance/) | Medium | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | java |
@@ -58,6 +59,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 72 | [Edit Distance](./72-edit-distance/) | Medium | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | java |
 
@@ -79,6 +81,7 @@
 
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
+| 72 | [Edit Distance](./72-edit-distance/) | Medium | String, Dynamic Programming | java |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | Array, Math, Sorting | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | Array, Hash Table, Dynamic Programming | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting | java |
