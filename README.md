@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **7** problems solved
+> **8** problems solved
 
 ## Topics
 
@@ -11,7 +11,7 @@
 - [Sorting](#sorting) (2)
 - [String](#string) (2)
 - [Two Pointers](#two-pointers) (1)
-- [Uncategorized](#uncategorized) (2)
+- [Uncategorized](#uncategorized) (3)
 - [All Problems](#all-problems)
 
 ## Array
@@ -69,6 +69,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 101114 | [Largest Integer With Given Digit Sum](./101114-aggregate-two-time-series/) | Easy | java |
+| 101114 | [Largest Integer With Given Digit Sum](./101114-count-valid-sequences/) | Easy | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-largest-integer-with-given-digit-sum/) | Easy | java |
 
 ## All Problems
@@ -81,6 +82,7 @@
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | Array, Dynamic Programming | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | Math, Sorting | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-aggregate-two-time-series/) | Easy | - | java |
+| 101114 | [Largest Integer With Given Digit Sum](./101114-count-valid-sequences/) | Easy | - | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-largest-integer-with-given-digit-sum/) | Easy | - | java |
 
 ---
