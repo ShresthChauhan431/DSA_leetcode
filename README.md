@@ -1,14 +1,15 @@
 # LeetCode Solutions
 
-> **14** problems solved
+> **15** problems solved
 
 ## Topics
 
-- [Array](#array) (6)
+- [Array](#array) (7)
 - [Dynamic Programming](#dynamic-programming) (8)
 - [Hash Table](#hash-table) (3)
+- [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Math](#math) (2)
-- [Sorting](#sorting) (3)
+- [Sorting](#sorting) (4)
 - [String](#string) (5)
 - [Two Pointers](#two-pointers) (1)
 - [Uncategorized](#uncategorized) (3)
@@ -23,6 +24,7 @@
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
+| 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | java |
 
 ## Dynamic Programming
@@ -46,6 +48,12 @@
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | java |
 
+## Heap (Priority Queue)
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | java |
+
 ## Math
 
 | # | Title | Difficulty | Language |
@@ -59,6 +67,7 @@
 |---|-------|------------|----------|
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
+| 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | java |
 
 ## String
@@ -97,6 +106,7 @@
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | String, Dynamic Programming | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | Array, Hash Table, Dynamic Programming | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting | java |
+| 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | Array, Sorting, Heap (Priority Queue) | java |
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | Hash Table, String | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | Array, Dynamic Programming | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | Math, Sorting | java |
