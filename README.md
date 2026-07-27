@@ -1,10 +1,11 @@
 # LeetCode Solutions
 
-> **15** problems solved
+> **16** problems solved
 
 ## Topics
 
 - [Array](#array) (7)
+- [Database](#database) (1)
 - [Dynamic Programming](#dynamic-programming) (8)
 - [Hash Table](#hash-table) (3)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
@@ -26,6 +27,12 @@
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | java |
+
+## Database
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 177 | [Nth Highest Salary](./177-nth-highest-salary/) | Medium | mysql |
 
 ## Dynamic Programming
 
@@ -100,6 +107,7 @@
 |---|-------|------------|--------|----------|
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | String, Dynamic Programming | java |
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | String, Dynamic Programming | java |
+| 177 | [Nth Highest Salary](./177-nth-highest-salary/) | Medium | Database | mysql |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | Array, Dynamic Programming | java |
 | 518 | [Coin Change II](./518-coin-change-ii/) | Medium | Array, Dynamic Programming | java |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | Array, Math, Sorting | java |
