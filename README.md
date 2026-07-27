@@ -1,20 +1,22 @@
 # LeetCode Solutions
 
-> **19** problems solved
+> **20** problems solved
 
 ## Topics
 
-- [Array](#array) (8)
+- [Array](#array) (9)
 - [Counting](#counting) (1)
 - [Database](#database) (1)
-- [Dynamic Programming](#dynamic-programming) (8)
+- [Dynamic Programming](#dynamic-programming) (9)
 - [Greedy](#greedy) (2)
 - [Hash Table](#hash-table) (4)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Math](#math) (3)
+- [Monotonic Stack](#monotonic-stack) (1)
 - [Sorting](#sorting) (4)
+- [Stack](#stack) (1)
 - [String](#string) (6)
-- [Two Pointers](#two-pointers) (2)
+- [Two Pointers](#two-pointers) (3)
 - [Uncategorized](#uncategorized) (3)
 - [All Problems](#all-problems)
 
@@ -29,6 +31,7 @@
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-container-with-most-water/) | Easy | java |
+| 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | java |
 
 ## Counting
@@ -54,6 +57,7 @@
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
+| 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | java |
 
 ## Greedy
@@ -86,6 +90,12 @@
 | 2591 | [Distribute Money to Maximum Children](./2591-distribute-money-to-maximum-children/) | Easy | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | java |
 
+## Monotonic Stack
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
+
 ## Sorting
 
 | # | Title | Difficulty | Language |
@@ -94,6 +104,12 @@
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | java |
+
+## Stack
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
 
 ## String
 
@@ -112,6 +128,7 @@
 |---|-------|------------|----------|
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-container-with-most-water/) | Easy | java |
+| 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
 
 ## Uncategorized
 
@@ -139,6 +156,7 @@
 | 2423 | [Remove Letter To Equalize Frequency](./2423-remove-letter-to-equalize-frequency/) | Easy | Hash Table, String, Counting | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-container-with-most-water/) | Easy | Array, Two Pointers, Greedy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-distribute-money-to-maximum-children/) | Easy | Math, Greedy | java |
+| 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | Array, Dynamic Programming | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | Math, Sorting | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-aggregate-two-time-series/) | Easy | - | java |
