@@ -1,0 +1,7 @@
+Example 1:
+Input: word = "abcc"
+Output: true
+
+Example 2:
+Input: word = "aazz"
+Output: false
