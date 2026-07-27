@@ -1,20 +1,20 @@
 # LeetCode Solutions
 
-> **18** problems solved
+> **19** problems solved
 
 ## Topics
 
-- [Array](#array) (7)
+- [Array](#array) (8)
 - [Counting](#counting) (1)
 - [Database](#database) (1)
 - [Dynamic Programming](#dynamic-programming) (8)
-- [Greedy](#greedy) (1)
+- [Greedy](#greedy) (2)
 - [Hash Table](#hash-table) (4)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Math](#math) (3)
 - [Sorting](#sorting) (4)
 - [String](#string) (6)
-- [Two Pointers](#two-pointers) (1)
+- [Two Pointers](#two-pointers) (2)
 - [Uncategorized](#uncategorized) (3)
 - [All Problems](#all-problems)
 
@@ -28,6 +28,7 @@
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | java |
+| 2591 | [Distribute Money to Maximum Children](./2591-container-with-most-water/) | Easy | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | java |
 
 ## Counting
@@ -59,6 +60,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 2591 | [Distribute Money to Maximum Children](./2591-container-with-most-water/) | Easy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-distribute-money-to-maximum-children/) | Easy | java |
 
 ## Hash Table
@@ -109,6 +111,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
+| 2591 | [Distribute Money to Maximum Children](./2591-container-with-most-water/) | Easy | java |
 
 ## Uncategorized
 
@@ -134,6 +137,7 @@
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | Array, Sorting, Heap (Priority Queue) | java |
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | Hash Table, String | java |
 | 2423 | [Remove Letter To Equalize Frequency](./2423-remove-letter-to-equalize-frequency/) | Easy | Hash Table, String, Counting | java |
+| 2591 | [Distribute Money to Maximum Children](./2591-container-with-most-water/) | Easy | Array, Two Pointers, Greedy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-distribute-money-to-maximum-children/) | Easy | Math, Greedy | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | Array, Dynamic Programming | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | Math, Sorting | java |
