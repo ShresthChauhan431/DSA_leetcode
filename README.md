@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-> **21** problems solved
+> **22** problems solved
 
 ## Topics
 
-- [Array](#array) (10)
+- [Array](#array) (11)
 - [Counting](#counting) (1)
 - [Database](#database) (1)
 - [Dynamic Programming](#dynamic-programming) (10)
@@ -12,7 +12,9 @@
 - [Hash Table](#hash-table) (4)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Math](#math) (3)
+- [Matrix](#matrix) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
+- [Prefix Sum](#prefix-sum) (1)
 - [Sorting](#sorting) (4)
 - [Stack](#stack) (1)
 - [String](#string) (6)
@@ -30,6 +32,7 @@
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
 | 983 | [Minimum Cost For Tickets](./983-minimum-cost-for-tickets/) | Medium | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
+| 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-container-with-most-water/) | Easy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
@@ -92,11 +95,23 @@
 | 2591 | [Distribute Money to Maximum Children](./2591-distribute-money-to-maximum-children/) | Easy | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | java |
 
+## Matrix
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | java |
+
 ## Monotonic Stack
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
+
+## Prefix Sum
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | java |
 
 ## Sorting
 
@@ -154,6 +169,7 @@
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | Array, Hash Table, Dynamic Programming | java |
 | 983 | [Minimum Cost For Tickets](./983-minimum-cost-for-tickets/) | Medium | Array, Dynamic Programming | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting | java |
+| 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | Array, Matrix, Prefix Sum | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | Array, Sorting, Heap (Priority Queue) | java |
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | Hash Table, String | java |
 | 2423 | [Remove Letter To Equalize Frequency](./2423-remove-letter-to-equalize-frequency/) | Easy | Hash Table, String, Counting | java |
