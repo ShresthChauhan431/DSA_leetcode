@@ -1,11 +1,12 @@
 # LeetCode Solutions
 
-> **22** problems solved
+> **23** problems solved
 
 ## Topics
 
 - [Array](#array) (11)
 - [Counting](#counting) (1)
+- [Counting Sort](#counting-sort) (1)
 - [Database](#database) (1)
 - [Dynamic Programming](#dynamic-programming) (10)
 - [Greedy](#greedy) (2)
@@ -15,9 +16,9 @@
 - [Matrix](#matrix) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
 - [Prefix Sum](#prefix-sum) (1)
-- [Sorting](#sorting) (4)
+- [Sorting](#sorting) (5)
 - [Stack](#stack) (1)
-- [String](#string) (6)
+- [String](#string) (7)
 - [Two Pointers](#two-pointers) (3)
 - [Uncategorized](#uncategorized) (3)
 - [All Problems](#all-problems)
@@ -43,6 +44,12 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 2423 | [Remove Letter To Equalize Frequency](./2423-remove-letter-to-equalize-frequency/) | Easy | java |
+
+## Counting Sort
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i/) | Medium | java |
 
 ## Database
 
@@ -120,6 +127,7 @@
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | java |
+| 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i/) | Medium | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | java |
 
 ## Stack
@@ -138,6 +146,7 @@
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | java |
 | 2423 | [Remove Letter To Equalize Frequency](./2423-remove-letter-to-equalize-frequency/) | Easy | java |
+| 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i/) | Medium | java |
 
 ## Two Pointers
 
@@ -177,6 +186,7 @@
 | 2591 | [Distribute Money to Maximum Children](./2591-distribute-money-to-maximum-children/) | Easy | Math, Greedy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | Array, Dynamic Programming | java |
+| 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i/) | Medium | String, Sorting, Counting Sort | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | Math, Sorting | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-aggregate-two-time-series/) | Easy | - | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-count-valid-sequences/) | Easy | - | java |
