@@ -1,0 +1,11 @@
+Example 1:
+Input: s = "z"
+Output: "z"
+
+Example 2:
+Input: s = "babab"
+Output: "abbba"
+
+Example 3:
+Input: s = "daccad"
+Output: "acddca"
