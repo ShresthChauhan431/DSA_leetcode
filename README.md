@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-> **23** problems solved
+> **24** problems solved
 
 ## Topics
 
-- [Array](#array) (11)
+- [Array](#array) (12)
 - [Counting](#counting) (1)
 - [Counting Sort](#counting-sort) (1)
 - [Database](#database) (1)
@@ -16,7 +16,7 @@
 - [Matrix](#matrix) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
 - [Prefix Sum](#prefix-sum) (1)
-- [Sorting](#sorting) (5)
+- [Sorting](#sorting) (6)
 - [Stack](#stack) (1)
 - [String](#string) (7)
 - [Two Pointers](#two-pointers) (3)
@@ -27,6 +27,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 56 | [Merge Intervals](./56-merge-intervals/) | Medium | java |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | java |
 | 518 | [Coin Change II](./518-coin-change-ii/) | Medium | java |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
@@ -124,6 +125,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 56 | [Merge Intervals](./56-merge-intervals/) | Medium | java |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | java |
@@ -168,6 +170,7 @@
 
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
+| 56 | [Merge Intervals](./56-merge-intervals/) | Medium | Array, Sorting | java |
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | String, Dynamic Programming | java |
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | String, Dynamic Programming | java |
 | 177 | [Nth Highest Salary](./177-nth-highest-salary/) | Medium | Database | mysql |
