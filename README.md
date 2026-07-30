@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **24** problems solved
+> **25** problems solved
 
 ## Topics
 
@@ -9,16 +9,16 @@
 - [Counting Sort](#counting-sort) (1)
 - [Database](#database) (1)
 - [Dynamic Programming](#dynamic-programming) (10)
-- [Greedy](#greedy) (2)
+- [Greedy](#greedy) (3)
 - [Hash Table](#hash-table) (4)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
-- [Math](#math) (3)
+- [Math](#math) (4)
 - [Matrix](#matrix) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
 - [Prefix Sum](#prefix-sum) (1)
 - [Sorting](#sorting) (6)
 - [Stack](#stack) (1)
-- [String](#string) (7)
+- [String](#string) (8)
 - [Two Pointers](#two-pointers) (3)
 - [Uncategorized](#uncategorized) (3)
 - [All Problems](#all-problems)
@@ -79,6 +79,7 @@
 |---|-------|------------|----------|
 | 2591 | [Distribute Money to Maximum Children](./2591-container-with-most-water/) | Easy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-distribute-money-to-maximum-children/) | Easy | java |
+| 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
 
 ## Hash Table
 
@@ -101,6 +102,7 @@
 |---|-------|------------|----------|
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-distribute-money-to-maximum-children/) | Easy | java |
+| 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | java |
 
 ## Matrix
@@ -148,6 +150,7 @@
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | java |
 | 2423 | [Remove Letter To Equalize Frequency](./2423-remove-letter-to-equalize-frequency/) | Easy | java |
+| 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
 | 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i/) | Medium | java |
 
 ## Two Pointers
@@ -189,6 +192,7 @@
 | 2591 | [Distribute Money to Maximum Children](./2591-distribute-money-to-maximum-children/) | Easy | Math, Greedy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | Array, Dynamic Programming | java |
+| 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | Math, String, Greedy | java |
 | 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i/) | Medium | String, Sorting, Counting Sort | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | Math, Sorting | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-aggregate-two-time-series/) | Easy | - | java |
