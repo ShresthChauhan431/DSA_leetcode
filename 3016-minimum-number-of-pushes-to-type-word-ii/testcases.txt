@@ -1,0 +1,11 @@
+Example 1:
+Input: word = "abcde"
+Output: 5
+
+Example 2:
+Input: word = "xyzxyzxyzxyz"
+Output: 12
+
+Example 3:
+Input: word = "aabbccddeeffgghhiiiiii"
+Output: 24
