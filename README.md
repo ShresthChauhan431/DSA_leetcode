@@ -1,21 +1,22 @@
 # LeetCode Solutions
 
-> **26** problems solved
+> **27** problems solved
 
 ## Topics
 
-- [Array](#array) (12)
-- [Counting](#counting) (2)
+- [Array](#array) (13)
+- [Counting](#counting) (3)
 - [Counting Sort](#counting-sort) (1)
 - [Database](#database) (1)
 - [Dynamic Programming](#dynamic-programming) (10)
 - [Greedy](#greedy) (4)
-- [Hash Table](#hash-table) (5)
+- [Hash Table](#hash-table) (6)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Math](#math) (4)
 - [Matrix](#matrix) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
 - [Prefix Sum](#prefix-sum) (1)
+- [Sliding Window](#sliding-window) (1)
 - [Sorting](#sorting) (7)
 - [Stack](#stack) (1)
 - [String](#string) (9)
@@ -33,6 +34,7 @@
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
 | 983 | [Minimum Cost For Tickets](./983-minimum-cost-for-tickets/) | Medium | java |
+| 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | java |
@@ -44,6 +46,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
 | 2423 | [Remove Letter To Equalize Frequency](./2423-remove-letter-to-equalize-frequency/) | Easy | java |
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | java |
 
@@ -88,6 +91,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
+| 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | java |
 | 2423 | [Remove Letter To Equalize Frequency](./2423-remove-letter-to-equalize-frequency/) | Easy | java |
@@ -125,6 +129,12 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | java |
+
+## Sliding Window
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
 
 ## Sorting
 
@@ -188,6 +198,7 @@
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | String, Dynamic Programming | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | Array, Hash Table, Dynamic Programming | java |
 | 983 | [Minimum Cost For Tickets](./983-minimum-cost-for-tickets/) | Medium | Array, Dynamic Programming | java |
+| 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | Array, Hash Table, Sliding Window, Counting | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting | java |
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | Array, Matrix, Prefix Sum | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | Array, Sorting, Heap (Priority Queue) | java |
