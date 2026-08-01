@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **28** problems solved
+> **29** problems solved
 
 ## Topics
 
@@ -9,15 +9,16 @@
 - [Counting Sort](#counting-sort) (1)
 - [Database](#database) (1)
 - [Dynamic Programming](#dynamic-programming) (11)
-- [Game Theory](#game-theory) (1)
+- [Game Theory](#game-theory) (2)
 - [Greedy](#greedy) (4)
 - [Hash Table](#hash-table) (6)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
-- [Math](#math) (5)
+- [Math](#math) (6)
 - [Matrix](#matrix) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
 - [Prefix Sum](#prefix-sum) (1)
 - [Recursion](#recursion) (1)
+- [Simulation](#simulation) (1)
 - [Sliding Window](#sliding-window) (1)
 - [Sorting](#sorting) (7)
 - [Stack](#stack) (1)
@@ -86,6 +87,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
+| 3222 | [Find the Winning Player in Coin Game](./3222-find-the-winning-player-in-coin-game/) | Easy | java |
 
 ## Greedy
 
@@ -121,6 +123,7 @@
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-distribute-money-to-maximum-children/) | Easy | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
+| 3222 | [Find the Winning Player in Coin Game](./3222-find-the-winning-player-in-coin-game/) | Easy | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | java |
 
 ## Matrix
@@ -146,6 +149,12 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
+
+## Simulation
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 3222 | [Find the Winning Player in Coin Game](./3222-find-the-winning-player-in-coin-game/) | Easy | java |
 
 ## Sliding Window
 
@@ -228,6 +237,7 @@
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | Array, Dynamic Programming | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | Math, String, Greedy | java |
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | Hash Table, String, Greedy, Sorting, Counting | java |
+| 3222 | [Find the Winning Player in Coin Game](./3222-find-the-winning-player-in-coin-game/) | Easy | Math, Simulation, Game Theory | java |
 | 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i/) | Medium | String, Sorting, Counting Sort | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | Math, Sorting | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-aggregate-two-time-series/) | Easy | - | java |
