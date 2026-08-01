@@ -1,21 +1,23 @@
 # LeetCode Solutions
 
-> **27** problems solved
+> **28** problems solved
 
 ## Topics
 
-- [Array](#array) (13)
+- [Array](#array) (14)
 - [Counting](#counting) (3)
 - [Counting Sort](#counting-sort) (1)
 - [Database](#database) (1)
-- [Dynamic Programming](#dynamic-programming) (10)
+- [Dynamic Programming](#dynamic-programming) (11)
+- [Game Theory](#game-theory) (1)
 - [Greedy](#greedy) (4)
 - [Hash Table](#hash-table) (6)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
-- [Math](#math) (4)
+- [Math](#math) (5)
 - [Matrix](#matrix) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
 - [Prefix Sum](#prefix-sum) (1)
+- [Recursion](#recursion) (1)
 - [Sliding Window](#sliding-window) (1)
 - [Sorting](#sorting) (7)
 - [Stack](#stack) (1)
@@ -30,6 +32,7 @@
 |---|-------|------------|----------|
 | 56 | [Merge Intervals](./56-merge-intervals/) | Medium | java |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | java |
+| 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
 | 518 | [Coin Change II](./518-coin-change-ii/) | Medium | java |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
@@ -69,6 +72,7 @@
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | java |
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | java |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | java |
+| 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
 | 518 | [Coin Change II](./518-coin-change-ii/) | Medium | java |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
@@ -76,6 +80,12 @@
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | java |
+
+## Game Theory
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
 
 ## Greedy
 
@@ -107,6 +117,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-distribute-money-to-maximum-children/) | Easy | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
@@ -129,6 +140,12 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | java |
+
+## Recursion
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
 
 ## Sliding Window
 
@@ -193,6 +210,7 @@
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | String, Dynamic Programming | java |
 | 177 | [Nth Highest Salary](./177-nth-highest-salary/) | Medium | Database | mysql |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | Array, Dynamic Programming | java |
+| 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | Array, Math, Dynamic Programming, Recursion, Game Theory | java |
 | 518 | [Coin Change II](./518-coin-change-ii/) | Medium | Array, Dynamic Programming | java |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | Array, Math, Sorting | java |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | String, Dynamic Programming | java |
