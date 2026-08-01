@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **32** problems solved
+> **33** problems solved
 
 ## Topics
 
@@ -24,7 +24,7 @@
 - [Stack](#stack) (1)
 - [String](#string) (9)
 - [Two Pointers](#two-pointers) (3)
-- [Uncategorized](#uncategorized) (5)
+- [Uncategorized](#uncategorized) (6)
 - [All Problems](#all-problems)
 
 ## Array
@@ -209,6 +209,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 101110 | [Minimum Initial Strength to Defeat All Monsters](./101110-minimum-initial-strength-to-defeat-all-monsters/) | Medium | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-aggregate-two-time-series/) | Easy | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-count-valid-sequences/) | Easy | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-largest-integer-with-given-digit-sum/) | Easy | java |
@@ -246,6 +247,7 @@
 | 3238 | [Find the Number of Winning Players](./3238-find-the-number-of-winning-players/) | Easy | Array, Hash Table, Counting | java |
 | 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i/) | Medium | String, Sorting, Counting Sort | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | Math, Sorting | java |
+| 101110 | [Minimum Initial Strength to Defeat All Monsters](./101110-minimum-initial-strength-to-defeat-all-monsters/) | Medium | - | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-aggregate-two-time-series/) | Easy | - | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-count-valid-sequences/) | Easy | - | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-largest-integer-with-given-digit-sum/) | Easy | - | java |
