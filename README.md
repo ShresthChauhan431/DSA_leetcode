@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **31** problems solved
+> **32** problems solved
 
 ## Topics
 
@@ -24,7 +24,7 @@
 - [Stack](#stack) (1)
 - [String](#string) (9)
 - [Two Pointers](#two-pointers) (3)
-- [Uncategorized](#uncategorized) (4)
+- [Uncategorized](#uncategorized) (5)
 - [All Problems](#all-problems)
 
 ## Array
@@ -213,6 +213,7 @@
 | 101114 | [Largest Integer With Given Digit Sum](./101114-count-valid-sequences/) | Easy | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-largest-integer-with-given-digit-sum/) | Easy | java |
 | 101126 | [Count Valid Prefixes](./101126-count-valid-prefixes/) | Easy | java |
+| 101126 | [Count Valid Prefixes](./101126-widest-possible-fence/) | Easy | java |
 
 ## All Problems
 
@@ -249,6 +250,7 @@
 | 101114 | [Largest Integer With Given Digit Sum](./101114-count-valid-sequences/) | Easy | - | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-largest-integer-with-given-digit-sum/) | Easy | - | java |
 | 101126 | [Count Valid Prefixes](./101126-count-valid-prefixes/) | Easy | - | java |
+| 101126 | [Count Valid Prefixes](./101126-widest-possible-fence/) | Easy | - | java |
 
 ---
 
