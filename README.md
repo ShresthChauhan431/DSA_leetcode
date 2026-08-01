@@ -1,17 +1,17 @@
 # LeetCode Solutions
 
-> **29** problems solved
+> **30** problems solved
 
 ## Topics
 
-- [Array](#array) (14)
-- [Counting](#counting) (3)
+- [Array](#array) (15)
+- [Counting](#counting) (4)
 - [Counting Sort](#counting-sort) (1)
 - [Database](#database) (1)
 - [Dynamic Programming](#dynamic-programming) (11)
 - [Game Theory](#game-theory) (2)
 - [Greedy](#greedy) (4)
-- [Hash Table](#hash-table) (6)
+- [Hash Table](#hash-table) (7)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Math](#math) (6)
 - [Matrix](#matrix) (1)
@@ -45,6 +45,7 @@
 | 2591 | [Distribute Money to Maximum Children](./2591-container-with-most-water/) | Easy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | java |
+| 3238 | [Find the Number of Winning Players](./3238-find-the-number-of-winning-players/) | Easy | java |
 
 ## Counting
 
@@ -53,6 +54,7 @@
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
 | 2423 | [Remove Letter To Equalize Frequency](./2423-remove-letter-to-equalize-frequency/) | Easy | java |
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | java |
+| 3238 | [Find the Number of Winning Players](./3238-find-the-number-of-winning-players/) | Easy | java |
 
 ## Counting Sort
 
@@ -108,6 +110,7 @@
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | java |
 | 2423 | [Remove Letter To Equalize Frequency](./2423-remove-letter-to-equalize-frequency/) | Easy | java |
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | java |
+| 3238 | [Find the Number of Winning Players](./3238-find-the-number-of-winning-players/) | Easy | java |
 
 ## Heap (Priority Queue)
 
@@ -238,6 +241,7 @@
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | Math, String, Greedy | java |
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | Hash Table, String, Greedy, Sorting, Counting | java |
 | 3222 | [Find the Winning Player in Coin Game](./3222-find-the-winning-player-in-coin-game/) | Easy | Math, Simulation, Game Theory | java |
+| 3238 | [Find the Number of Winning Players](./3238-find-the-number-of-winning-players/) | Easy | Array, Hash Table, Counting | java |
 | 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i/) | Medium | String, Sorting, Counting Sort | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | Math, Sorting | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-aggregate-two-time-series/) | Easy | - | java |
