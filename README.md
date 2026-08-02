@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **36** problems solved
+> **37** problems solved
 
 ## Topics
 
@@ -24,7 +24,7 @@
 - [Stack](#stack) (1)
 - [String](#string) (9)
 - [Two Pointers](#two-pointers) (3)
-- [Uncategorized](#uncategorized) (9)
+- [Uncategorized](#uncategorized) (10)
 - [All Problems](#all-problems)
 
 ## Array
@@ -217,6 +217,7 @@
 | 101126 | [Count Valid Prefixes](./101126-widest-possible-fence/) | Easy | java |
 | 101132 | [Maximize Pair Strength Using GCD](./101132-count-of-unfinished-tasks-after-each-shift/) | Easy | java |
 | 101132 | [Maximize Pair Strength Using GCD](./101132-count-subarrays-with-even-odd-ratio-i/) | Easy | java |
+| 101132 | [Maximize Pair Strength Using GCD](./101132-count-subarrays-with-even-odd-ratio-ii/) | Easy | java |
 | 101132 | [Maximize Pair Strength Using GCD](./101132-maximize-pair-strength-using-gcd/) | Easy | java |
 
 ## All Problems
@@ -258,6 +259,7 @@
 | 101126 | [Count Valid Prefixes](./101126-widest-possible-fence/) | Easy | - | java |
 | 101132 | [Maximize Pair Strength Using GCD](./101132-count-of-unfinished-tasks-after-each-shift/) | Easy | - | java |
 | 101132 | [Maximize Pair Strength Using GCD](./101132-count-subarrays-with-even-odd-ratio-i/) | Easy | - | java |
+| 101132 | [Maximize Pair Strength Using GCD](./101132-count-subarrays-with-even-odd-ratio-ii/) | Easy | - | java |
 | 101132 | [Maximize Pair Strength Using GCD](./101132-maximize-pair-strength-using-gcd/) | Easy | - | java |
 
 ---
