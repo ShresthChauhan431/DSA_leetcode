@@ -1,13 +1,13 @@
 # LeetCode Solutions
 
-> **37** problems solved
+> **38** problems solved
 
 ## Topics
 
 - [Array](#array) (15)
 - [Counting](#counting) (4)
 - [Counting Sort](#counting-sort) (1)
-- [Database](#database) (1)
+- [Database](#database) (2)
 - [Dynamic Programming](#dynamic-programming) (11)
 - [Game Theory](#game-theory) (2)
 - [Greedy](#greedy) (4)
@@ -67,6 +67,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 177 | [Nth Highest Salary](./177-nth-highest-salary/) | Medium | mysql |
+| 577 | [Employee Bonus](./577-employee-bonus/) | Easy | mysql |
 
 ## Dynamic Programming
 
@@ -231,6 +232,7 @@
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | Array, Dynamic Programming | java |
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | Array, Math, Dynamic Programming, Recursion, Game Theory | java |
 | 518 | [Coin Change II](./518-coin-change-ii/) | Medium | Array, Dynamic Programming | java |
+| 577 | [Employee Bonus](./577-employee-bonus/) | Easy | Database | mysql |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | Array, Math, Sorting | java |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | String, Dynamic Programming | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | Array, Hash Table, Dynamic Programming | java |
