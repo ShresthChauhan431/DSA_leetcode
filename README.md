@@ -213,6 +213,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 4010 | [Maximize Pair Strength Using GCD](./4010-count-subarrays-with-even-odd-ratio-i/) | Easy | java |
 | 4010 | [Maximize Pair Strength Using GCD](./4010-maximize-pair-strength-using-gcd/) | Easy | java |
 | 101110 | [Minimum Initial Strength to Defeat All Monsters](./101110-minimum-initial-strength-to-defeat-all-monsters/) | Medium | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-aggregate-two-time-series/) | Easy | java |
@@ -221,7 +222,6 @@
 | 101126 | [Count Valid Prefixes](./101126-count-valid-prefixes/) | Easy | java |
 | 101126 | [Count Valid Prefixes](./101126-widest-possible-fence/) | Easy | java |
 | 101132 | [Maximize Pair Strength Using GCD](./101132-count-of-unfinished-tasks-after-each-shift/) | Easy | java |
-| 101132 | [Maximize Pair Strength Using GCD](./101132-count-subarrays-with-even-odd-ratio-i/) | Easy | java |
 | 101132 | [Maximize Pair Strength Using GCD](./101132-count-subarrays-with-even-odd-ratio-ii/) | Easy | java |
 
 ## All Problems
@@ -257,6 +257,7 @@
 | 3238 | [Find the Number of Winning Players](./3238-find-the-number-of-winning-players/) | Easy | Array, Hash Table, Counting | java |
 | 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i/) | Medium | String, Sorting, Counting Sort | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | Math, Sorting | java |
+| 4010 | [Maximize Pair Strength Using GCD](./4010-count-subarrays-with-even-odd-ratio-i/) | Easy | - | java |
 | 4010 | [Maximize Pair Strength Using GCD](./4010-maximize-pair-strength-using-gcd/) | Easy | - | java |
 | 101110 | [Minimum Initial Strength to Defeat All Monsters](./101110-minimum-initial-strength-to-defeat-all-monsters/) | Medium | - | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-aggregate-two-time-series/) | Easy | - | java |
@@ -265,7 +266,6 @@
 | 101126 | [Count Valid Prefixes](./101126-count-valid-prefixes/) | Easy | - | java |
 | 101126 | [Count Valid Prefixes](./101126-widest-possible-fence/) | Easy | - | java |
 | 101132 | [Maximize Pair Strength Using GCD](./101132-count-of-unfinished-tasks-after-each-shift/) | Easy | - | java |
-| 101132 | [Maximize Pair Strength Using GCD](./101132-count-subarrays-with-even-odd-ratio-i/) | Easy | - | java |
 | 101132 | [Maximize Pair Strength Using GCD](./101132-count-subarrays-with-even-odd-ratio-ii/) | Easy | - | java |
 
 ---
