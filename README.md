@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **38** problems solved
+> **39** problems solved
 
 ## Topics
 
@@ -11,7 +11,7 @@
 - [Dynamic Programming](#dynamic-programming) (11)
 - [Game Theory](#game-theory) (2)
 - [Greedy](#greedy) (4)
-- [Hash Table](#hash-table) (7)
+- [Hash Table](#hash-table) (8)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Math](#math) (6)
 - [Matrix](#matrix) (1)
@@ -19,10 +19,10 @@
 - [Prefix Sum](#prefix-sum) (1)
 - [Recursion](#recursion) (1)
 - [Simulation](#simulation) (1)
-- [Sliding Window](#sliding-window) (1)
+- [Sliding Window](#sliding-window) (2)
 - [Sorting](#sorting) (7)
 - [Stack](#stack) (1)
-- [String](#string) (9)
+- [String](#string) (10)
 - [Two Pointers](#two-pointers) (3)
 - [Uncategorized](#uncategorized) (10)
 - [All Problems](#all-problems)
@@ -105,6 +105,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
@@ -164,6 +165,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
 
 ## Sorting
@@ -188,6 +190,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | java |
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | java |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | java |
@@ -225,6 +228,7 @@
 
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
+| 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window | java |
 | 56 | [Merge Intervals](./56-merge-intervals/) | Medium | Array, Sorting | java |
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | String, Dynamic Programming | java |
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | String, Dynamic Programming | java |
