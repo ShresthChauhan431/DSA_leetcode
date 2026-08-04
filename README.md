@@ -1,29 +1,32 @@
 # LeetCode Solutions
 
-> **40** problems solved
+> **41** problems solved
 
 ## Topics
 
-- [Array](#array) (16)
+- [Array](#array) (17)
+- [Bit Manipulation](#bit-manipulation) (1)
+- [Bitmask](#bitmask) (1)
 - [Counting](#counting) (4)
 - [Counting Sort](#counting-sort) (1)
 - [Database](#database) (2)
-- [Dynamic Programming](#dynamic-programming) (11)
+- [Dynamic Programming](#dynamic-programming) (12)
 - [Game Theory](#game-theory) (2)
 - [Greedy](#greedy) (4)
 - [Hash Table](#hash-table) (9)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Math](#math) (6)
 - [Matrix](#matrix) (1)
+- [Meet in the Middle](#meet-in-the-middle) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
 - [Prefix Sum](#prefix-sum) (1)
 - [Recursion](#recursion) (1)
 - [Simulation](#simulation) (1)
 - [Sliding Window](#sliding-window) (2)
-- [Sorting](#sorting) (8)
+- [Sorting](#sorting) (9)
 - [Stack](#stack) (1)
 - [String](#string) (10)
-- [Two Pointers](#two-pointers) (3)
+- [Two Pointers](#two-pointers) (4)
 - [Uncategorized](#uncategorized) (10)
 - [All Problems](#all-problems)
 
@@ -42,11 +45,24 @@
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | java |
+| 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-container-with-most-water/) | Easy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | java |
 | 3238 | [Find the Number of Winning Players](./3238-find-the-number-of-winning-players/) | Easy | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
+
+## Bit Manipulation
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
+
+## Bitmask
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 
 ## Counting
 
@@ -83,6 +99,7 @@
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
 | 983 | [Minimum Cost For Tickets](./983-minimum-cost-for-tickets/) | Medium | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
+| 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | java |
 
@@ -139,6 +156,12 @@
 |---|-------|------------|----------|
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | java |
 
+## Meet in the Middle
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
+
 ## Monotonic Stack
 
 | # | Title | Difficulty | Language |
@@ -178,6 +201,7 @@
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | java |
+| 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | java |
 | 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i/) | Medium | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | java |
@@ -209,6 +233,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
+| 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-container-with-most-water/) | Easy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
 
@@ -248,6 +273,7 @@
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting | java |
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | Array, Matrix, Prefix Sum | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | Array, Sorting, Heap (Priority Queue) | java |
+| 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | Array, Two Pointers, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Bitmask | java |
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | Hash Table, String | java |
 | 2423 | [Remove Letter To Equalize Frequency](./2423-remove-letter-to-equalize-frequency/) | Easy | Hash Table, String, Counting | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-container-with-most-water/) | Easy | Array, Two Pointers, Greedy | java |
