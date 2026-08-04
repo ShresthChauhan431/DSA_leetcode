@@ -1,17 +1,17 @@
 # LeetCode Solutions
 
-> **39** problems solved
+> **40** problems solved
 
 ## Topics
 
-- [Array](#array) (15)
+- [Array](#array) (16)
 - [Counting](#counting) (4)
 - [Counting Sort](#counting-sort) (1)
 - [Database](#database) (2)
 - [Dynamic Programming](#dynamic-programming) (11)
 - [Game Theory](#game-theory) (2)
 - [Greedy](#greedy) (4)
-- [Hash Table](#hash-table) (8)
+- [Hash Table](#hash-table) (9)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Math](#math) (6)
 - [Matrix](#matrix) (1)
@@ -20,7 +20,7 @@
 - [Recursion](#recursion) (1)
 - [Simulation](#simulation) (1)
 - [Sliding Window](#sliding-window) (2)
-- [Sorting](#sorting) (7)
+- [Sorting](#sorting) (8)
 - [Stack](#stack) (1)
 - [String](#string) (10)
 - [Two Pointers](#two-pointers) (3)
@@ -46,6 +46,7 @@
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | java |
 | 3238 | [Find the Number of Winning Players](./3238-find-the-number-of-winning-players/) | Easy | java |
+| 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
 
 ## Counting
 
@@ -113,6 +114,7 @@
 | 2423 | [Remove Letter To Equalize Frequency](./2423-remove-letter-to-equalize-frequency/) | Easy | java |
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | java |
 | 3238 | [Find the Number of Winning Players](./3238-find-the-number-of-winning-players/) | Easy | java |
+| 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
 
 ## Heap (Priority Queue)
 
@@ -179,6 +181,7 @@
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | java |
 | 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i/) | Medium | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | java |
+| 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
 
 ## Stack
 
@@ -257,6 +260,7 @@
 | 3238 | [Find the Number of Winning Players](./3238-find-the-number-of-winning-players/) | Easy | Array, Hash Table, Counting | java |
 | 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i/) | Medium | String, Sorting, Counting Sort | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | Math, Sorting | java |
+| 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | Array, Hash Table, Sorting | java |
 | 4010 | [Maximize Pair Strength Using GCD](./4010-count-subarrays-with-even-odd-ratio-i/) | Easy | - | java |
 | 4010 | [Maximize Pair Strength Using GCD](./4010-maximize-pair-strength-using-gcd/) | Easy | - | java |
 | 4012 | [Count of Unfinished Tasks After Each Shift](./4012-count-of-unfinished-tasks-after-each-shift/) | Medium | - | java |
