@@ -1,17 +1,20 @@
 # LeetCode Solutions
 
-> **41** problems solved
+> **42** problems solved
 
 ## Topics
 
 - [Array](#array) (17)
 - [Bit Manipulation](#bit-manipulation) (1)
 - [Bitmask](#bitmask) (1)
+- [Breadth-First Search](#breadth-first-search) (1)
 - [Counting](#counting) (4)
 - [Counting Sort](#counting-sort) (1)
 - [Database](#database) (2)
+- [Depth-First Search](#depth-first-search) (1)
 - [Dynamic Programming](#dynamic-programming) (12)
 - [Game Theory](#game-theory) (2)
+- [Graph Theory](#graph-theory) (1)
 - [Greedy](#greedy) (4)
 - [Hash Table](#hash-table) (9)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
@@ -64,6 +67,12 @@
 |---|-------|------------|----------|
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 
+## Breadth-First Search
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | Medium | java |
+
 ## Counting
 
 | # | Title | Difficulty | Language |
@@ -85,6 +94,12 @@
 |---|-------|------------|----------|
 | 177 | [Nth Highest Salary](./177-nth-highest-salary/) | Medium | mysql |
 | 577 | [Employee Bonus](./577-employee-bonus/) | Easy | mysql |
+
+## Depth-First Search
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | Medium | java |
 
 ## Dynamic Programming
 
@@ -109,6 +124,12 @@
 |---|-------|------------|----------|
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
 | 3222 | [Find the Winning Player in Coin Game](./3222-find-the-winning-player-in-coin-game/) | Easy | java |
+
+## Graph Theory
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | Medium | java |
 
 ## Greedy
 
@@ -284,6 +305,7 @@
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | Hash Table, String, Greedy, Sorting, Counting | java |
 | 3222 | [Find the Winning Player in Coin Game](./3222-find-the-winning-player-in-coin-game/) | Easy | Math, Simulation, Game Theory | java |
 | 3238 | [Find the Number of Winning Players](./3238-find-the-number-of-winning-players/) | Easy | Array, Hash Table, Counting | java |
+| 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | Medium | Depth-First Search, Breadth-First Search, Graph Theory | java |
 | 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i/) | Medium | String, Sorting, Counting Sort | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | Math, Sorting | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | Array, Hash Table, Sorting | java |
