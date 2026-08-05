@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-> **42** problems solved
+> **43** problems solved
 
 ## Topics
 
-- [Array](#array) (17)
+- [Array](#array) (18)
 - [Bit Manipulation](#bit-manipulation) (1)
 - [Bitmask](#bitmask) (1)
 - [Breadth-First Search](#breadth-first-search) (1)
@@ -12,15 +12,16 @@
 - [Counting Sort](#counting-sort) (1)
 - [Database](#database) (2)
 - [Depth-First Search](#depth-first-search) (1)
-- [Dynamic Programming](#dynamic-programming) (12)
-- [Game Theory](#game-theory) (2)
+- [Dynamic Programming](#dynamic-programming) (13)
+- [Game Theory](#game-theory) (3)
 - [Graph Theory](#graph-theory) (1)
 - [Greedy](#greedy) (4)
 - [Hash Table](#hash-table) (9)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
-- [Math](#math) (6)
+- [Math](#math) (7)
 - [Matrix](#matrix) (1)
 - [Meet in the Middle](#meet-in-the-middle) (1)
+- [Minimax](#minimax) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
 - [Prefix Sum](#prefix-sum) (1)
 - [Recursion](#recursion) (1)
@@ -30,6 +31,7 @@
 - [Stack](#stack) (1)
 - [String](#string) (10)
 - [Two Pointers](#two-pointers) (4)
+- [Zero-Sum Game](#zero-sum-game) (1)
 - [Uncategorized](#uncategorized) (10)
 - [All Problems](#all-problems)
 
@@ -43,6 +45,7 @@
 | 518 | [Coin Change II](./518-coin-change-ii/) | Medium | java |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
+| 877 | [Stone Game](./877-stone-game/) | Medium | java |
 | 983 | [Minimum Cost For Tickets](./983-minimum-cost-for-tickets/) | Medium | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
@@ -112,6 +115,7 @@
 | 518 | [Coin Change II](./518-coin-change-ii/) | Medium | java |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
+| 877 | [Stone Game](./877-stone-game/) | Medium | java |
 | 983 | [Minimum Cost For Tickets](./983-minimum-cost-for-tickets/) | Medium | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
@@ -123,6 +127,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
+| 877 | [Stone Game](./877-stone-game/) | Medium | java |
 | 3222 | [Find the Winning Player in Coin Game](./3222-find-the-winning-player-in-coin-game/) | Easy | java |
 
 ## Graph Theory
@@ -166,6 +171,7 @@
 |---|-------|------------|----------|
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
+| 877 | [Stone Game](./877-stone-game/) | Medium | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-distribute-money-to-maximum-children/) | Easy | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
 | 3222 | [Find the Winning Player in Coin Game](./3222-find-the-winning-player-in-coin-game/) | Easy | java |
@@ -182,6 +188,12 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
+
+## Minimax
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 877 | [Stone Game](./877-stone-game/) | Medium | java |
 
 ## Monotonic Stack
 
@@ -258,6 +270,12 @@
 | 2591 | [Distribute Money to Maximum Children](./2591-container-with-most-water/) | Easy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
 
+## Zero-Sum Game
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 877 | [Stone Game](./877-stone-game/) | Medium | java |
+
 ## Uncategorized
 
 | # | Title | Difficulty | Language |
@@ -289,6 +307,7 @@
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | Array, Math, Sorting | java |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | String, Dynamic Programming | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | Array, Hash Table, Dynamic Programming | java |
+| 877 | [Stone Game](./877-stone-game/) | Medium | Array, Math, Dynamic Programming, Minimax, Game Theory, Zero-Sum Game | java |
 | 983 | [Minimum Cost For Tickets](./983-minimum-cost-for-tickets/) | Medium | Array, Dynamic Programming | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | Array, Hash Table, Sliding Window, Counting | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting | java |
