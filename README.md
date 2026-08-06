@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **43** problems solved
+> **44** problems solved
 
 ## Topics
 
@@ -13,12 +13,13 @@
 - [Database](#database) (2)
 - [Depth-First Search](#depth-first-search) (1)
 - [Dynamic Programming](#dynamic-programming) (13)
+- [Enumeration](#enumeration) (1)
 - [Game Theory](#game-theory) (3)
 - [Graph Theory](#graph-theory) (1)
 - [Greedy](#greedy) (4)
 - [Hash Table](#hash-table) (9)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
-- [Math](#math) (7)
+- [Math](#math) (8)
 - [Matrix](#matrix) (1)
 - [Meet in the Middle](#meet-in-the-middle) (1)
 - [Minimax](#minimax) (1)
@@ -122,6 +123,12 @@
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | java |
 
+## Enumeration
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 3345 | [Smallest Divisible Digit Product I](./3345-smallest-divisible-digit-product-i/) | Easy | java |
+
 ## Game Theory
 
 | # | Title | Difficulty | Language |
@@ -175,6 +182,7 @@
 | 2591 | [Distribute Money to Maximum Children](./2591-distribute-money-to-maximum-children/) | Easy | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
 | 3222 | [Find the Winning Player in Coin Game](./3222-find-the-winning-player-in-coin-game/) | Easy | java |
+| 3345 | [Smallest Divisible Digit Product I](./3345-smallest-divisible-digit-product-i/) | Easy | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | java |
 
 ## Matrix
@@ -325,6 +333,7 @@
 | 3222 | [Find the Winning Player in Coin Game](./3222-find-the-winning-player-in-coin-game/) | Easy | Math, Simulation, Game Theory | java |
 | 3238 | [Find the Number of Winning Players](./3238-find-the-number-of-winning-players/) | Easy | Array, Hash Table, Counting | java |
 | 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | Medium | Depth-First Search, Breadth-First Search, Graph Theory | java |
+| 3345 | [Smallest Divisible Digit Product I](./3345-smallest-divisible-digit-product-i/) | Easy | Math, Enumeration | java |
 | 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i/) | Medium | String, Sorting, Counting Sort | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | Math, Sorting | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | Array, Hash Table, Sorting | java |
