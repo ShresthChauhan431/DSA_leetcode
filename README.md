@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-> **44** problems solved
+> **45** problems solved
 
 ## Topics
 
-- [Array](#array) (18)
+- [Array](#array) (19)
 - [Bit Manipulation](#bit-manipulation) (1)
 - [Bitmask](#bitmask) (1)
 - [Breadth-First Search](#breadth-first-search) (1)
@@ -42,6 +42,7 @@
 |---|-------|------------|----------|
 | 56 | [Merge Intervals](./56-merge-intervals/) | Medium | java |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | java |
+| 485 | [Max Consecutive Ones](./485-max-consecutive-ones/) | Easy | java |
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
 | 518 | [Coin Change II](./518-coin-change-ii/) | Medium | java |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
@@ -309,6 +310,7 @@
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | String, Dynamic Programming | java |
 | 177 | [Nth Highest Salary](./177-nth-highest-salary/) | Medium | Database | mysql |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | Array, Dynamic Programming | java |
+| 485 | [Max Consecutive Ones](./485-max-consecutive-ones/) | Easy | Array | java |
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | Array, Math, Dynamic Programming, Recursion, Game Theory | java |
 | 518 | [Coin Change II](./518-coin-change-ii/) | Medium | Array, Dynamic Programming | java |
 | 577 | [Employee Bonus](./577-employee-bonus/) | Easy | Database | mysql |
