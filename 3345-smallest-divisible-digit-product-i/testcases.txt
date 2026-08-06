@@ -1,0 +1,7 @@
+Example 1:
+Input: n = 10, t = 2
+Output: 10
+
+Example 2:
+Input: n = 15, t = 3
+Output: 16
