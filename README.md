@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-> **47** problems solved
+> **48** problems solved
 
 ## Topics
 
-- [Array](#array) (19)
+- [Array](#array) (20)
 - [Bit Manipulation](#bit-manipulation) (1)
 - [Bitmask](#bitmask) (1)
 - [Breadth-First Search](#breadth-first-search) (2)
@@ -17,7 +17,7 @@
 - [Game Theory](#game-theory) (3)
 - [Graph Theory](#graph-theory) (2)
 - [Greedy](#greedy) (4)
-- [Hash Table](#hash-table) (9)
+- [Hash Table](#hash-table) (10)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Math](#math) (8)
 - [Matrix](#matrix) (1)
@@ -32,7 +32,7 @@
 - [Stack](#stack) (1)
 - [String](#string) (10)
 - [Two Pointers](#two-pointers) (4)
-- [Union-Find](#union-find) (1)
+- [Union-Find](#union-find) (2)
 - [Zero-Sum Game](#zero-sum-game) (1)
 - [Uncategorized](#uncategorized) (10)
 - [All Problems](#all-problems)
@@ -42,6 +42,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 56 | [Merge Intervals](./56-merge-intervals/) | Medium | java |
+| 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | java |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | java |
 | 485 | [Max Consecutive Ones](./485-max-consecutive-ones/) | Easy | java |
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
@@ -163,6 +164,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
+| 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
@@ -288,6 +290,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
 
 ## Zero-Sum Game
@@ -319,6 +322,7 @@
 | 56 | [Merge Intervals](./56-merge-intervals/) | Medium | Array, Sorting | java |
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | String, Dynamic Programming | java |
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | String, Dynamic Programming | java |
+| 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | Array, Hash Table, Union-Find | java |
 | 177 | [Nth Highest Salary](./177-nth-highest-salary/) | Medium | Database | mysql |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | Array, Dynamic Programming | java |
 | 485 | [Max Consecutive Ones](./485-max-consecutive-ones/) | Easy | Array | java |
