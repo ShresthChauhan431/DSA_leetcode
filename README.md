@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **50** problems solved
+> **51** problems solved
 
 ## Topics
 
@@ -8,15 +8,15 @@
 - [Binary Search](#binary-search) (1)
 - [Bit Manipulation](#bit-manipulation) (2)
 - [Bitmask](#bitmask) (2)
-- [Breadth-First Search](#breadth-first-search) (2)
+- [Breadth-First Search](#breadth-first-search) (3)
 - [Counting](#counting) (4)
 - [Counting Sort](#counting-sort) (1)
 - [Database](#database) (3)
-- [Depth-First Search](#depth-first-search) (2)
+- [Depth-First Search](#depth-first-search) (3)
 - [Dynamic Programming](#dynamic-programming) (14)
 - [Enumeration](#enumeration) (1)
 - [Game Theory](#game-theory) (3)
-- [Graph Theory](#graph-theory) (2)
+- [Graph Theory](#graph-theory) (3)
 - [Greedy](#greedy) (4)
 - [Hash Table](#hash-table) (11)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
@@ -34,7 +34,7 @@
 - [Stack](#stack) (1)
 - [String](#string) (11)
 - [Two Pointers](#two-pointers) (5)
-- [Union-Find](#union-find) (2)
+- [Union-Find](#union-find) (3)
 - [Zero-Sum Game](#zero-sum-game) (1)
 - [Uncategorized](#uncategorized) (10)
 - [All Problems](#all-problems)
@@ -91,6 +91,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
+| 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | java |
 | 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | Medium | java |
 
 ## Counting
@@ -121,6 +122,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
+| 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | java |
 | 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | Medium | java |
 
 ## Dynamic Programming
@@ -161,6 +163,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
+| 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | java |
 | 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | Medium | java |
 
 ## Greedy
@@ -317,6 +320,7 @@
 |---|-------|------------|----------|
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
+| 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | java |
 
 ## Zero-Sum Game
 
@@ -368,6 +372,7 @@
 | 1683 | [Invalid Tweets](./1683-invalid-tweets/) | Easy | Database | mysql |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | Array, Two Pointers, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Bitmask | java |
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | Hash Table, String | java |
+| 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | Array, Two Pointers, Binary Search, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Ordered Set, Bitmask | java |
 | 2423 | [Remove Letter To Equalize Frequency](./2423-remove-letter-to-equalize-frequency/) | Easy | Hash Table, String, Counting | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-container-with-most-water/) | Easy | Array, Two Pointers, Greedy | java |
