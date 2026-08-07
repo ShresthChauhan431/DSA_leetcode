@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **45** problems solved
+> **46** problems solved
 
 ## Topics
 
@@ -10,7 +10,7 @@
 - [Breadth-First Search](#breadth-first-search) (1)
 - [Counting](#counting) (4)
 - [Counting Sort](#counting-sort) (1)
-- [Database](#database) (2)
+- [Database](#database) (3)
 - [Depth-First Search](#depth-first-search) (1)
 - [Dynamic Programming](#dynamic-programming) (13)
 - [Enumeration](#enumeration) (1)
@@ -99,6 +99,7 @@
 |---|-------|------------|----------|
 | 177 | [Nth Highest Salary](./177-nth-highest-salary/) | Medium | mysql |
 | 577 | [Employee Bonus](./577-employee-bonus/) | Easy | mysql |
+| 1683 | [Invalid Tweets](./1683-invalid-tweets/) | Easy | mysql |
 
 ## Depth-First Search
 
@@ -323,6 +324,7 @@
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting | java |
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | Array, Matrix, Prefix Sum | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | Array, Sorting, Heap (Priority Queue) | java |
+| 1683 | [Invalid Tweets](./1683-invalid-tweets/) | Easy | Database | mysql |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | Array, Two Pointers, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Bitmask | java |
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | Hash Table, String | java |
 | 2423 | [Remove Letter To Equalize Frequency](./2423-remove-letter-to-equalize-frequency/) | Easy | Hash Table, String, Counting | java |
