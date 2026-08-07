@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-> **48** problems solved
+> **49** problems solved
 
 ## Topics
 
-- [Array](#array) (20)
+- [Array](#array) (21)
 - [Bit Manipulation](#bit-manipulation) (1)
 - [Bitmask](#bitmask) (1)
 - [Breadth-First Search](#breadth-first-search) (2)
@@ -17,7 +17,7 @@
 - [Game Theory](#game-theory) (3)
 - [Graph Theory](#graph-theory) (2)
 - [Greedy](#greedy) (4)
-- [Hash Table](#hash-table) (10)
+- [Hash Table](#hash-table) (11)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Math](#math) (8)
 - [Matrix](#matrix) (1)
@@ -28,9 +28,9 @@
 - [Recursion](#recursion) (1)
 - [Simulation](#simulation) (1)
 - [Sliding Window](#sliding-window) (2)
-- [Sorting](#sorting) (9)
+- [Sorting](#sorting) (10)
 - [Stack](#stack) (1)
-- [String](#string) (10)
+- [String](#string) (11)
 - [Two Pointers](#two-pointers) (4)
 - [Union-Find](#union-find) (2)
 - [Zero-Sum Game](#zero-sum-game) (1)
@@ -41,6 +41,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 49 | [Group Anagrams](./49-group-anagrams/) | Medium | java |
 | 56 | [Merge Intervals](./56-merge-intervals/) | Medium | java |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | java |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | java |
@@ -164,6 +165,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
+| 49 | [Group Anagrams](./49-group-anagrams/) | Medium | java |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
@@ -246,6 +248,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 49 | [Group Anagrams](./49-group-anagrams/) | Medium | java |
 | 56 | [Merge Intervals](./56-merge-intervals/) | Medium | java |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
@@ -267,6 +270,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
+| 49 | [Group Anagrams](./49-group-anagrams/) | Medium | java |
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | java |
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | java |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | java |
@@ -319,6 +323,7 @@
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window | java |
+| 49 | [Group Anagrams](./49-group-anagrams/) | Medium | Array, Hash Table, String, Sorting | java |
 | 56 | [Merge Intervals](./56-merge-intervals/) | Medium | Array, Sorting | java |
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | String, Dynamic Programming | java |
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | String, Dynamic Programming | java |
