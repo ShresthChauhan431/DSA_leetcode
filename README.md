@@ -1,18 +1,19 @@
 # LeetCode Solutions
 
-> **49** problems solved
+> **50** problems solved
 
 ## Topics
 
-- [Array](#array) (21)
-- [Bit Manipulation](#bit-manipulation) (1)
-- [Bitmask](#bitmask) (1)
+- [Array](#array) (22)
+- [Binary Search](#binary-search) (1)
+- [Bit Manipulation](#bit-manipulation) (2)
+- [Bitmask](#bitmask) (2)
 - [Breadth-First Search](#breadth-first-search) (2)
 - [Counting](#counting) (4)
 - [Counting Sort](#counting-sort) (1)
 - [Database](#database) (3)
 - [Depth-First Search](#depth-first-search) (2)
-- [Dynamic Programming](#dynamic-programming) (13)
+- [Dynamic Programming](#dynamic-programming) (14)
 - [Enumeration](#enumeration) (1)
 - [Game Theory](#game-theory) (3)
 - [Graph Theory](#graph-theory) (2)
@@ -21,17 +22,18 @@
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Math](#math) (8)
 - [Matrix](#matrix) (1)
-- [Meet in the Middle](#meet-in-the-middle) (1)
+- [Meet in the Middle](#meet-in-the-middle) (2)
 - [Minimax](#minimax) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
+- [Ordered Set](#ordered-set) (1)
 - [Prefix Sum](#prefix-sum) (1)
 - [Recursion](#recursion) (1)
 - [Simulation](#simulation) (1)
 - [Sliding Window](#sliding-window) (2)
-- [Sorting](#sorting) (10)
+- [Sorting](#sorting) (11)
 - [Stack](#stack) (1)
 - [String](#string) (11)
-- [Two Pointers](#two-pointers) (4)
+- [Two Pointers](#two-pointers) (5)
 - [Union-Find](#union-find) (2)
 - [Zero-Sum Game](#zero-sum-game) (1)
 - [Uncategorized](#uncategorized) (10)
@@ -57,23 +59,32 @@
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
+| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | cpp |
 | 2591 | [Distribute Money to Maximum Children](./2591-container-with-most-water/) | Easy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | java |
 | 3238 | [Find the Number of Winning Players](./3238-find-the-number-of-winning-players/) | Easy | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
 
+## Binary Search
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | cpp |
+
 ## Bit Manipulation
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
+| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | cpp |
 
 ## Bitmask
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
+| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | cpp |
 
 ## Breadth-First Search
 
@@ -127,6 +138,7 @@
 | 983 | [Minimum Cost For Tickets](./983-minimum-cost-for-tickets/) | Medium | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
+| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | cpp |
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | java |
 
@@ -206,6 +218,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
+| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | cpp |
 
 ## Minimax
 
@@ -218,6 +231,12 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
+
+## Ordered Set
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | cpp |
 
 ## Prefix Sum
 
@@ -254,6 +273,7 @@
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
+| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | cpp |
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | java |
 | 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i/) | Medium | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | java |
@@ -287,6 +307,7 @@
 |---|-------|------------|----------|
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
+| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | cpp |
 | 2591 | [Distribute Money to Maximum Children](./2591-container-with-most-water/) | Easy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
 
@@ -347,6 +368,7 @@
 | 1683 | [Invalid Tweets](./1683-invalid-tweets/) | Easy | Database | mysql |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | Array, Two Pointers, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Bitmask | java |
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | Hash Table, String | java |
+| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | Array, Two Pointers, Binary Search, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Ordered Set, Bitmask | cpp |
 | 2423 | [Remove Letter To Equalize Frequency](./2423-remove-letter-to-equalize-frequency/) | Easy | Hash Table, String, Counting | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-container-with-most-water/) | Easy | Array, Two Pointers, Greedy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-distribute-money-to-maximum-children/) | Easy | Math, Greedy | java |
