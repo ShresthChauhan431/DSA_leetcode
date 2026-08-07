@@ -1,21 +1,21 @@
 # LeetCode Solutions
 
-> **46** problems solved
+> **47** problems solved
 
 ## Topics
 
 - [Array](#array) (19)
 - [Bit Manipulation](#bit-manipulation) (1)
 - [Bitmask](#bitmask) (1)
-- [Breadth-First Search](#breadth-first-search) (1)
+- [Breadth-First Search](#breadth-first-search) (2)
 - [Counting](#counting) (4)
 - [Counting Sort](#counting-sort) (1)
 - [Database](#database) (3)
-- [Depth-First Search](#depth-first-search) (1)
+- [Depth-First Search](#depth-first-search) (2)
 - [Dynamic Programming](#dynamic-programming) (13)
 - [Enumeration](#enumeration) (1)
 - [Game Theory](#game-theory) (3)
-- [Graph Theory](#graph-theory) (1)
+- [Graph Theory](#graph-theory) (2)
 - [Greedy](#greedy) (4)
 - [Hash Table](#hash-table) (9)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
@@ -32,6 +32,7 @@
 - [Stack](#stack) (1)
 - [String](#string) (10)
 - [Two Pointers](#two-pointers) (4)
+- [Union-Find](#union-find) (1)
 - [Zero-Sum Game](#zero-sum-game) (1)
 - [Uncategorized](#uncategorized) (10)
 - [All Problems](#all-problems)
@@ -76,6 +77,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
 | 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | Medium | java |
 
 ## Counting
@@ -105,6 +107,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
 | 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | Medium | java |
 
 ## Dynamic Programming
@@ -143,6 +146,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
 | 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | Medium | java |
 
 ## Greedy
@@ -280,6 +284,12 @@
 | 2591 | [Distribute Money to Maximum Children](./2591-container-with-most-water/) | Easy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
 
+## Union-Find
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
+
 ## Zero-Sum Game
 
 | # | Title | Difficulty | Language |
@@ -323,6 +333,7 @@
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | Array, Hash Table, Sliding Window, Counting | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting | java |
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | Array, Matrix, Prefix Sum | java |
+| 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | Array, Sorting, Heap (Priority Queue) | java |
 | 1683 | [Invalid Tweets](./1683-invalid-tweets/) | Easy | Database | mysql |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | Array, Two Pointers, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Bitmask | java |
