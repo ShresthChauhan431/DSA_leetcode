@@ -1,10 +1,12 @@
 # LeetCode Solutions
 
-> **51** problems solved
+> **52** problems solved
 
 ## Topics
 
-- [Array](#array) (22)
+- [Algorithm X](#algorithm-x) (1)
+- [Array](#array) (23)
+- [Backtracking](#backtracking) (1)
 - [Binary Search](#binary-search) (1)
 - [Bit Manipulation](#bit-manipulation) (2)
 - [Bitmask](#bitmask) (2)
@@ -39,11 +41,18 @@
 - [Uncategorized](#uncategorized) (10)
 - [All Problems](#all-problems)
 
+## Algorithm X
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 51 | [N-Queens](./51-n-queens/) | Hard | java |
+
 ## Array
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | java |
+| 51 | [N-Queens](./51-n-queens/) | Hard | java |
 | 56 | [Merge Intervals](./56-merge-intervals/) | Medium | java |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | java |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | java |
@@ -65,6 +74,12 @@
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | java |
 | 3238 | [Find the Number of Winning Players](./3238-find-the-number-of-winning-players/) | Easy | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
+
+## Backtracking
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 51 | [N-Queens](./51-n-queens/) | Hard | java |
 
 ## Binary Search
 
@@ -349,6 +364,7 @@
 |---|-------|------------|--------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window | java |
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | Array, Hash Table, String, Sorting | java |
+| 51 | [N-Queens](./51-n-queens/) | Hard | Array, Backtracking, Algorithm X | java |
 | 56 | [Merge Intervals](./56-merge-intervals/) | Medium | Array, Sorting | java |
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | String, Dynamic Programming | java |
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | String, Dynamic Programming | java |
