@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **53** problems solved
+> **54** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (2)
-- [Array](#array) (23)
+- [Array](#array) (24)
 - [Backtracking](#backtracking) (2)
 - [Binary Search](#binary-search) (1)
 - [Bit Manipulation](#bit-manipulation) (2)
@@ -20,10 +20,10 @@
 - [Game Theory](#game-theory) (3)
 - [Graph Theory](#graph-theory) (3)
 - [Greedy](#greedy) (4)
-- [Hash Table](#hash-table) (11)
+- [Hash Table](#hash-table) (12)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Math](#math) (8)
-- [Matrix](#matrix) (1)
+- [Matrix](#matrix) (2)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Minimax](#minimax) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
@@ -52,6 +52,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 36 | [Valid Sudoku](./36-valid-sudoku/) | Medium | java |
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | java |
 | 51 | [N-Queens](./51-n-queens/) | Hard | java |
 | 56 | [Merge Intervals](./56-merge-intervals/) | Medium | java |
@@ -197,6 +198,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
+| 36 | [Valid Sudoku](./36-valid-sudoku/) | Medium | java |
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | java |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
@@ -231,6 +233,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 36 | [Valid Sudoku](./36-valid-sudoku/) | Medium | java |
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | java |
 
 ## Meet in the Middle
@@ -365,6 +368,7 @@
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window | java |
+| 36 | [Valid Sudoku](./36-valid-sudoku/) | Medium | Array, Hash Table, Matrix | java |
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | Array, Hash Table, String, Sorting | java |
 | 51 | [N-Queens](./51-n-queens/) | Hard | Array, Backtracking, Algorithm X | java |
 | 52 | [N-Queens II](./52-n-queens-ii/) | Hard | Backtracking, Algorithm X | java |
