@@ -1,18 +1,19 @@
 # LeetCode Solutions
 
-> **54** problems solved
+> **55** problems solved
 
 ## Topics
 
-- [Algorithm X](#algorithm-x) (2)
-- [Array](#array) (24)
-- [Backtracking](#backtracking) (2)
+- [Algorithm X](#algorithm-x) (3)
+- [Array](#array) (25)
+- [Backtracking](#backtracking) (3)
 - [Binary Search](#binary-search) (1)
 - [Bit Manipulation](#bit-manipulation) (2)
 - [Bitmask](#bitmask) (2)
 - [Breadth-First Search](#breadth-first-search) (3)
 - [Counting](#counting) (4)
 - [Counting Sort](#counting-sort) (1)
+- [Dancing Links](#dancing-links) (1)
 - [Database](#database) (3)
 - [Depth-First Search](#depth-first-search) (3)
 - [Dynamic Programming](#dynamic-programming) (14)
@@ -20,10 +21,10 @@
 - [Game Theory](#game-theory) (3)
 - [Graph Theory](#graph-theory) (3)
 - [Greedy](#greedy) (4)
-- [Hash Table](#hash-table) (12)
+- [Hash Table](#hash-table) (13)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Math](#math) (8)
-- [Matrix](#matrix) (2)
+- [Matrix](#matrix) (3)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Minimax](#minimax) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
@@ -45,6 +46,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | java |
 | 51 | [N-Queens](./51-n-queens/) | Hard | java |
 | 52 | [N-Queens II](./52-n-queens-ii/) | Hard | java |
 
@@ -53,6 +55,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 36 | [Valid Sudoku](./36-valid-sudoku/) | Medium | java |
+| 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | java |
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | java |
 | 51 | [N-Queens](./51-n-queens/) | Hard | java |
 | 56 | [Merge Intervals](./56-merge-intervals/) | Medium | java |
@@ -81,6 +84,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | java |
 | 51 | [N-Queens](./51-n-queens/) | Hard | java |
 | 52 | [N-Queens II](./52-n-queens-ii/) | Hard | java |
 
@@ -126,6 +130,12 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i/) | Medium | java |
+
+## Dancing Links
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | java |
 
 ## Database
 
@@ -199,6 +209,7 @@
 |---|-------|------------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
 | 36 | [Valid Sudoku](./36-valid-sudoku/) | Medium | java |
+| 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | java |
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | java |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
@@ -234,6 +245,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 36 | [Valid Sudoku](./36-valid-sudoku/) | Medium | java |
+| 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | java |
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | java |
 
 ## Meet in the Middle
@@ -369,6 +381,7 @@
 |---|-------|------------|--------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window | java |
 | 36 | [Valid Sudoku](./36-valid-sudoku/) | Medium | Array, Hash Table, Matrix | java |
+| 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | Array, Hash Table, Backtracking, Matrix, Algorithm X, Dancing Links | java |
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | Array, Hash Table, String, Sorting | java |
 | 51 | [N-Queens](./51-n-queens/) | Hard | Array, Backtracking, Algorithm X | java |
 | 52 | [N-Queens II](./52-n-queens-ii/) | Hard | Backtracking, Algorithm X | java |
