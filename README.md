@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **56** problems solved
+> **57** problems solved
 
 ## Topics
 
@@ -39,7 +39,7 @@
 - [Two Pointers](#two-pointers) (5)
 - [Union-Find](#union-find) (3)
 - [Zero-Sum Game](#zero-sum-game) (1)
-- [Uncategorized](#uncategorized) (11)
+- [Uncategorized](#uncategorized) (12)
 - [All Problems](#all-problems)
 
 ## Algorithm X
@@ -373,6 +373,7 @@
 | 101114 | [Largest Integer With Given Digit Sum](./101114-count-valid-sequences/) | Easy | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-largest-integer-with-given-digit-sum/) | Easy | java |
 | 101124 | [Minimum Total Price After Applying Discounts](./101124-minimum-total-price-after-applying-discounts/) | Medium | java |
+| 101124 | [Minimum Total Price After Applying Discounts](./101124-weighted-sum-of-a-tree/) | Medium | java |
 | 101126 | [Count Valid Prefixes](./101126-count-valid-prefixes/) | Easy | java |
 | 101126 | [Count Valid Prefixes](./101126-widest-possible-fence/) | Easy | java |
 
@@ -434,6 +435,7 @@
 | 101114 | [Largest Integer With Given Digit Sum](./101114-count-valid-sequences/) | Easy | - | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-largest-integer-with-given-digit-sum/) | Easy | - | java |
 | 101124 | [Minimum Total Price After Applying Discounts](./101124-minimum-total-price-after-applying-discounts/) | Medium | - | java |
+| 101124 | [Minimum Total Price After Applying Discounts](./101124-weighted-sum-of-a-tree/) | Medium | - | java |
 | 101126 | [Count Valid Prefixes](./101126-count-valid-prefixes/) | Easy | - | java |
 | 101126 | [Count Valid Prefixes](./101126-widest-possible-fence/) | Easy | - | java |
 
