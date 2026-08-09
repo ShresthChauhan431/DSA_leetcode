@@ -1,14 +1,14 @@
 # LeetCode Solutions
 
-> **58** problems solved
+> **59** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (26)
-- [Backtracking](#backtracking) (4)
+- [Array](#array) (27)
+- [Backtracking](#backtracking) (5)
 - [Binary Search](#binary-search) (1)
-- [Bit Manipulation](#bit-manipulation) (2)
+- [Bit Manipulation](#bit-manipulation) (3)
 - [Bitmask](#bitmask) (2)
 - [Breadth-First Search](#breadth-first-search) (3)
 - [Counting](#counting) (4)
@@ -21,7 +21,7 @@
 - [Game Theory](#game-theory) (3)
 - [Graph Theory](#graph-theory) (3)
 - [Greedy](#greedy) (4)
-- [Hash Table](#hash-table) (13)
+- [Hash Table](#hash-table) (14)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Math](#math) (8)
 - [Matrix](#matrix) (4)
@@ -64,6 +64,7 @@
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | java |
 | 485 | [Max Consecutive Ones](./485-max-consecutive-ones/) | Easy | java |
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
+| 491 | [Non-decreasing Subsequences](./491-non-decreasing-subsequences/) | Medium | java |
 | 518 | [Coin Change II](./518-coin-change-ii/) | Medium | java |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
@@ -89,6 +90,7 @@
 | 51 | [N-Queens](./51-n-queens/) | Hard | java |
 | 52 | [N-Queens II](./52-n-queens-ii/) | Hard | java |
 | 79 | [Word Search](./79-word-search/) | Medium | java |
+| 491 | [Non-decreasing Subsequences](./491-non-decreasing-subsequences/) | Medium | java |
 
 ## Binary Search
 
@@ -100,6 +102,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 491 | [Non-decreasing Subsequences](./491-non-decreasing-subsequences/) | Medium | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | java |
 
@@ -215,6 +218,7 @@
 | 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | java |
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | java |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | java |
+| 491 | [Non-decreasing Subsequences](./491-non-decreasing-subsequences/) | Medium | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
@@ -401,6 +405,7 @@
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | Array, Dynamic Programming | java |
 | 485 | [Max Consecutive Ones](./485-max-consecutive-ones/) | Easy | Array | java |
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | Array, Math, Dynamic Programming, Recursion, Game Theory | java |
+| 491 | [Non-decreasing Subsequences](./491-non-decreasing-subsequences/) | Medium | Array, Hash Table, Backtracking, Bit Manipulation | java |
 | 518 | [Coin Change II](./518-coin-change-ii/) | Medium | Array, Dynamic Programming | java |
 | 577 | [Employee Bonus](./577-employee-bonus/) | Easy | Database | mysql |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | Array, Math, Sorting | java |
