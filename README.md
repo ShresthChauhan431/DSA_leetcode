@@ -1,12 +1,12 @@
 # LeetCode Solutions
 
-> **57** problems solved
+> **58** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (25)
-- [Backtracking](#backtracking) (3)
+- [Array](#array) (26)
+- [Backtracking](#backtracking) (4)
 - [Binary Search](#binary-search) (1)
 - [Bit Manipulation](#bit-manipulation) (2)
 - [Bitmask](#bitmask) (2)
@@ -15,7 +15,7 @@
 - [Counting Sort](#counting-sort) (1)
 - [Dancing Links](#dancing-links) (1)
 - [Database](#database) (3)
-- [Depth-First Search](#depth-first-search) (3)
+- [Depth-First Search](#depth-first-search) (4)
 - [Dynamic Programming](#dynamic-programming) (14)
 - [Enumeration](#enumeration) (1)
 - [Game Theory](#game-theory) (3)
@@ -24,7 +24,7 @@
 - [Hash Table](#hash-table) (13)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Math](#math) (8)
-- [Matrix](#matrix) (3)
+- [Matrix](#matrix) (4)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Minimax](#minimax) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
@@ -35,7 +35,7 @@
 - [Sliding Window](#sliding-window) (2)
 - [Sorting](#sorting) (11)
 - [Stack](#stack) (1)
-- [String](#string) (11)
+- [String](#string) (12)
 - [Two Pointers](#two-pointers) (5)
 - [Union-Find](#union-find) (3)
 - [Zero-Sum Game](#zero-sum-game) (1)
@@ -59,6 +59,7 @@
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | java |
 | 51 | [N-Queens](./51-n-queens/) | Hard | java |
 | 56 | [Merge Intervals](./56-merge-intervals/) | Medium | java |
+| 79 | [Word Search](./79-word-search/) | Medium | java |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | java |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | java |
 | 485 | [Max Consecutive Ones](./485-max-consecutive-ones/) | Easy | java |
@@ -87,6 +88,7 @@
 | 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | java |
 | 51 | [N-Queens](./51-n-queens/) | Hard | java |
 | 52 | [N-Queens II](./52-n-queens-ii/) | Hard | java |
+| 79 | [Word Search](./79-word-search/) | Medium | java |
 
 ## Binary Search
 
@@ -149,6 +151,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 79 | [Word Search](./79-word-search/) | Medium | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | java |
 | 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | Medium | java |
@@ -246,6 +249,7 @@
 |---|-------|------------|----------|
 | 36 | [Valid Sudoku](./36-valid-sudoku/) | Medium | java |
 | 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | java |
+| 79 | [Word Search](./79-word-search/) | Medium | java |
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | java |
 
 ## Meet in the Middle
@@ -327,6 +331,7 @@
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | java |
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | java |
+| 79 | [Word Search](./79-word-search/) | Medium | java |
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | java |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
@@ -389,6 +394,7 @@
 | 52 | [N-Queens II](./52-n-queens-ii/) | Hard | Backtracking, Algorithm X | java |
 | 56 | [Merge Intervals](./56-merge-intervals/) | Medium | Array, Sorting | java |
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | String, Dynamic Programming | java |
+| 79 | [Word Search](./79-word-search/) | Medium | Array, String, Backtracking, Depth-First Search, Matrix | java |
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | String, Dynamic Programming | java |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | Array, Hash Table, Union-Find | java |
 | 177 | [Nth Highest Salary](./177-nth-highest-salary/) | Medium | Database | mysql |
