@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **60** problems solved
+> **61** problems solved
 
 ## Topics
 
@@ -16,13 +16,16 @@
 - [Dancing Links](#dancing-links) (1)
 - [Database](#database) (3)
 - [Depth-First Search](#depth-first-search) (4)
+- [Design](#design) (1)
+- [Doubly-Linked List](#doubly-linked-list) (1)
 - [Dynamic Programming](#dynamic-programming) (14)
 - [Enumeration](#enumeration) (2)
 - [Game Theory](#game-theory) (3)
 - [Graph Theory](#graph-theory) (3)
 - [Greedy](#greedy) (4)
-- [Hash Table](#hash-table) (14)
+- [Hash Table](#hash-table) (15)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
+- [Linked List](#linked-list) (1)
 - [Math](#math) (8)
 - [Matrix](#matrix) (4)
 - [Meet in the Middle](#meet-in-the-middle) (2)
@@ -162,6 +165,18 @@
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | java |
 | 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | Medium | java |
 
+## Design
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
+
+## Doubly-Linked List
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
+
 ## Dynamic Programming
 
 | # | Title | Difficulty | Language |
@@ -223,6 +238,7 @@
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | java |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | java |
 | 491 | [Non-decreasing Subsequences](./491-non-decreasing-subsequences/) | Medium | java |
+| 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
@@ -237,6 +253,12 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | java |
+
+## Linked List
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
 
 ## Math
 
@@ -413,6 +435,7 @@
 | 518 | [Coin Change II](./518-coin-change-ii/) | Medium | Array, Dynamic Programming | java |
 | 577 | [Employee Bonus](./577-employee-bonus/) | Easy | Database | mysql |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | Array, Math, Sorting | java |
+| 706 | [Design HashMap](./706-lru-cache/) | Easy | Hash Table, Linked List, Design, Doubly-Linked List | java |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | String, Dynamic Programming | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | Array, Hash Table, Dynamic Programming | java |
 | 877 | [Stone Game](./877-stone-game/) | Medium | Array, Math, Dynamic Programming, Minimax, Game Theory, Zero-Sum Game | java |
