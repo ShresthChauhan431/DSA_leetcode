@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **61** problems solved
+> **62** problems solved
 
 ## Topics
 
@@ -16,16 +16,16 @@
 - [Dancing Links](#dancing-links) (1)
 - [Database](#database) (3)
 - [Depth-First Search](#depth-first-search) (4)
-- [Design](#design) (1)
+- [Design](#design) (2)
 - [Doubly-Linked List](#doubly-linked-list) (1)
 - [Dynamic Programming](#dynamic-programming) (14)
 - [Enumeration](#enumeration) (2)
 - [Game Theory](#game-theory) (3)
 - [Graph Theory](#graph-theory) (3)
 - [Greedy](#greedy) (4)
-- [Hash Table](#hash-table) (15)
-- [Heap (Priority Queue)](#heap-priority-queue) (1)
-- [Linked List](#linked-list) (1)
+- [Hash Table](#hash-table) (16)
+- [Heap (Priority Queue)](#heap-priority-queue) (2)
+- [Linked List](#linked-list) (2)
 - [Math](#math) (8)
 - [Matrix](#matrix) (4)
 - [Meet in the Middle](#meet-in-the-middle) (2)
@@ -169,6 +169,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 355 | [Design Twitter](./355-design-twitter/) | Medium | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
 
 ## Doubly-Linked List
@@ -237,6 +238,7 @@
 | 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | java |
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | java |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | java |
+| 355 | [Design Twitter](./355-design-twitter/) | Medium | java |
 | 491 | [Non-decreasing Subsequences](./491-non-decreasing-subsequences/) | Medium | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
@@ -252,12 +254,14 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 355 | [Design Twitter](./355-design-twitter/) | Medium | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | java |
 
 ## Linked List
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 355 | [Design Twitter](./355-design-twitter/) | Medium | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
 
 ## Math
@@ -428,6 +432,7 @@
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | String, Dynamic Programming | java |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | Array, Hash Table, Union-Find | java |
 | 177 | [Nth Highest Salary](./177-nth-highest-salary/) | Medium | Database | mysql |
+| 355 | [Design Twitter](./355-design-twitter/) | Medium | Hash Table, Linked List, Design, Heap (Priority Queue) | java |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | Array, Dynamic Programming | java |
 | 485 | [Max Consecutive Ones](./485-max-consecutive-ones/) | Easy | Array | java |
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | Array, Math, Dynamic Programming, Recursion, Game Theory | java |
