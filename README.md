@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **64** problems solved
+> **65** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (29)
+- [Array](#array) (30)
 - [Backtracking](#backtracking) (6)
 - [Binary Search](#binary-search) (1)
 - [Bit Manipulation](#bit-manipulation) (4)
@@ -24,8 +24,8 @@
 - [Game Theory](#game-theory) (3)
 - [Graph Theory](#graph-theory) (3)
 - [Greedy](#greedy) (4)
-- [Hash Table](#hash-table) (17)
-- [Heap (Priority Queue)](#heap-priority-queue) (3)
+- [Hash Table](#hash-table) (18)
+- [Heap (Priority Queue)](#heap-priority-queue) (4)
 - [Linked List](#linked-list) (2)
 - [Math](#math) (8)
 - [Matrix](#matrix) (4)
@@ -36,10 +36,11 @@
 - [Prefix Sum](#prefix-sum) (1)
 - [Recursion](#recursion) (1)
 - [Simulation](#simulation) (1)
-- [Sliding Window](#sliding-window) (3)
+- [Sliding Window](#sliding-window) (4)
 - [Sorting](#sorting) (12)
 - [Stack](#stack) (1)
 - [String](#string) (12)
+- [Treap](#treap) (1)
 - [Two Pointers](#two-pointers) (6)
 - [Union-Find](#union-find) (3)
 - [Zero-Sum Game](#zero-sum-game) (1)
@@ -66,6 +67,7 @@
 | 79 | [Word Search](./79-word-search/) | Medium | java |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | java |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | java |
+| 480 | [Sliding Window Median](./480-sliding-window-median/) | Hard | java |
 | 485 | [Max Consecutive Ones](./485-max-consecutive-ones/) | Easy | java |
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
 | 491 | [Non-decreasing Subsequences](./491-non-decreasing-subsequences/) | Medium | java |
@@ -248,6 +250,7 @@
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | java |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | java |
 | 355 | [Design Twitter](./355-design-twitter/) | Medium | java |
+| 480 | [Sliding Window Median](./480-sliding-window-median/) | Hard | java |
 | 491 | [Non-decreasing Subsequences](./491-non-decreasing-subsequences/) | Medium | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
@@ -266,6 +269,7 @@
 |---|-------|------------|----------|
 | 295 | [Find Median from Data Stream](./295-find-median-from-data-stream/) | Hard | java |
 | 355 | [Design Twitter](./355-design-twitter/) | Medium | java |
+| 480 | [Sliding Window Median](./480-sliding-window-median/) | Hard | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | java |
 
 ## Linked List
@@ -345,6 +349,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
+| 480 | [Sliding Window Median](./480-sliding-window-median/) | Hard | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium | java |
 
@@ -387,6 +392,12 @@
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | java |
 | 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i/) | Medium | java |
+
+## Treap
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 480 | [Sliding Window Median](./480-sliding-window-median/) | Hard | java |
 
 ## Two Pointers
 
@@ -449,6 +460,7 @@
 | 295 | [Find Median from Data Stream](./295-find-median-from-data-stream/) | Hard | Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream | java |
 | 355 | [Design Twitter](./355-design-twitter/) | Medium | Hash Table, Linked List, Design, Heap (Priority Queue) | java |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | Array, Dynamic Programming | java |
+| 480 | [Sliding Window Median](./480-sliding-window-median/) | Hard | Array, Hash Table, Sliding Window, Heap (Priority Queue), Treap | java |
 | 485 | [Max Consecutive Ones](./485-max-consecutive-ones/) | Easy | Array | java |
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | Array, Math, Dynamic Programming, Recursion, Game Theory | java |
 | 491 | [Non-decreasing Subsequences](./491-non-decreasing-subsequences/) | Medium | Array, Hash Table, Backtracking, Bit Manipulation | java |
