@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **65** problems solved
+> **66** problems solved
 
 ## Topics
 
@@ -17,16 +17,16 @@
 - [Data Stream](#data-stream) (1)
 - [Database](#database) (3)
 - [Depth-First Search](#depth-first-search) (4)
-- [Design](#design) (3)
-- [Doubly-Linked List](#doubly-linked-list) (1)
+- [Design](#design) (4)
+- [Doubly-Linked List](#doubly-linked-list) (2)
 - [Dynamic Programming](#dynamic-programming) (14)
 - [Enumeration](#enumeration) (2)
 - [Game Theory](#game-theory) (3)
 - [Graph Theory](#graph-theory) (3)
 - [Greedy](#greedy) (4)
-- [Hash Table](#hash-table) (18)
+- [Hash Table](#hash-table) (19)
 - [Heap (Priority Queue)](#heap-priority-queue) (4)
-- [Linked List](#linked-list) (2)
+- [Linked List](#linked-list) (3)
 - [Math](#math) (8)
 - [Matrix](#matrix) (4)
 - [Meet in the Middle](#meet-in-the-middle) (2)
@@ -181,12 +181,14 @@
 |---|-------|------------|----------|
 | 295 | [Find Median from Data Stream](./295-find-median-from-data-stream/) | Hard | java |
 | 355 | [Design Twitter](./355-design-twitter/) | Medium | java |
+| 460 | [LFU Cache](./460-lfu-cache/) | Hard | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
 
 ## Doubly-Linked List
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 460 | [LFU Cache](./460-lfu-cache/) | Hard | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
 
 ## Dynamic Programming
@@ -250,6 +252,7 @@
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | java |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | java |
 | 355 | [Design Twitter](./355-design-twitter/) | Medium | java |
+| 460 | [LFU Cache](./460-lfu-cache/) | Hard | java |
 | 480 | [Sliding Window Median](./480-sliding-window-median/) | Hard | java |
 | 491 | [Non-decreasing Subsequences](./491-non-decreasing-subsequences/) | Medium | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
@@ -277,6 +280,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 355 | [Design Twitter](./355-design-twitter/) | Medium | java |
+| 460 | [LFU Cache](./460-lfu-cache/) | Hard | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
 
 ## Math
@@ -460,6 +464,7 @@
 | 295 | [Find Median from Data Stream](./295-find-median-from-data-stream/) | Hard | Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream | java |
 | 355 | [Design Twitter](./355-design-twitter/) | Medium | Hash Table, Linked List, Design, Heap (Priority Queue) | java |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | Array, Dynamic Programming | java |
+| 460 | [LFU Cache](./460-lfu-cache/) | Hard | Hash Table, Linked List, Design, Doubly-Linked List | java |
 | 480 | [Sliding Window Median](./480-sliding-window-median/) | Hard | Array, Hash Table, Sliding Window, Heap (Priority Queue), Treap | java |
 | 485 | [Max Consecutive Ones](./485-max-consecutive-ones/) | Easy | Array | java |
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | Array, Math, Dynamic Programming, Recursion, Game Theory | java |
