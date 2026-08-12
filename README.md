@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **66** problems solved
+> **67** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (30)
+- [Array](#array) (31)
 - [Backtracking](#backtracking) (6)
 - [Binary Search](#binary-search) (1)
 - [Bit Manipulation](#bit-manipulation) (4)
@@ -23,7 +23,7 @@
 - [Enumeration](#enumeration) (2)
 - [Game Theory](#game-theory) (3)
 - [Graph Theory](#graph-theory) (3)
-- [Greedy](#greedy) (4)
+- [Greedy](#greedy) (5)
 - [Hash Table](#hash-table) (19)
 - [Heap (Priority Queue)](#heap-priority-queue) (4)
 - [Linked List](#linked-list) (3)
@@ -37,7 +37,7 @@
 - [Recursion](#recursion) (1)
 - [Simulation](#simulation) (1)
 - [Sliding Window](#sliding-window) (4)
-- [Sorting](#sorting) (12)
+- [Sorting](#sorting) (13)
 - [Stack](#stack) (1)
 - [String](#string) (12)
 - [Treap](#treap) (1)
@@ -87,6 +87,7 @@
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | java |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium | java |
+| 3107 | [Minimum Operations to Make Median of Array Equal to K](./3107-minimum-operations-to-make-median-of-array-equal-to-k/) | Medium | java |
 | 3238 | [Find the Number of Winning Players](./3238-find-the-number-of-winning-players/) | Easy | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
 
@@ -241,6 +242,7 @@
 | 2591 | [Distribute Money to Maximum Children](./2591-distribute-money-to-maximum-children/) | Easy | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | java |
+| 3107 | [Minimum Operations to Make Median of Array Equal to K](./3107-minimum-operations-to-make-median-of-array-equal-to-k/) | Medium | java |
 
 ## Hash Table
 
@@ -370,6 +372,7 @@
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | java |
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | java |
+| 3107 | [Minimum Operations to Make Median of Array Equal to K](./3107-minimum-operations-to-make-median-of-array-equal-to-k/) | Medium | java |
 | 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i/) | Medium | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
@@ -496,6 +499,7 @@
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium | Array, Hash Table, Sliding Window | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | Math, String, Greedy | java |
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | Hash Table, String, Greedy, Sorting, Counting | java |
+| 3107 | [Minimum Operations to Make Median of Array Equal to K](./3107-minimum-operations-to-make-median-of-array-equal-to-k/) | Medium | Array, Greedy, Sorting | java |
 | 3222 | [Find the Winning Player in Coin Game](./3222-find-the-winning-player-in-coin-game/) | Easy | Math, Simulation, Game Theory | java |
 | 3238 | [Find the Number of Winning Players](./3238-find-the-number-of-winning-players/) | Easy | Array, Hash Table, Counting | java |
 | 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | Medium | Depth-First Search, Breadth-First Search, Graph Theory | java |
