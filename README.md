@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **68** problems solved
+> **69** problems solved
 
 ## Topics
 
@@ -40,7 +40,7 @@
 - [Sliding Window](#sliding-window) (4)
 - [Sorting](#sorting) (13)
 - [Stack](#stack) (1)
-- [String](#string) (13)
+- [String](#string) (14)
 - [Treap](#treap) (1)
 - [Two Pointers](#two-pointers) (6)
 - [Union-Find](#union-find) (3)
@@ -403,6 +403,7 @@
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | java |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
+| 1446 | [Consecutive Characters](./1446-consecutive-characters/) | Easy | java |
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | java |
 | 2213 | [Longest Substring of One Repeating Character](./2213-longest-substring-of-one-repeating-character/) | Hard | java |
 | 2423 | [Remove Letter To Equalize Frequency](./2423-remove-letter-to-equalize-frequency/) | Easy | java |
@@ -494,6 +495,7 @@
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting | java |
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | Array, Matrix, Prefix Sum | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory | java |
+| 1446 | [Consecutive Characters](./1446-consecutive-characters/) | Easy | String | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | Array, Sorting, Heap (Priority Queue) | java |
 | 1601 | [Maximum Number of Achievable Transfer Requests](./1601-maximum-number-of-achievable-transfer-requests/) | Hard | Array, Backtracking, Bit Manipulation, Enumeration | java |
 | 1683 | [Invalid Tweets](./1683-invalid-tweets/) | Easy | Database | mysql |
