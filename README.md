@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **67** problems solved
+> **68** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (31)
+- [Array](#array) (32)
 - [Backtracking](#backtracking) (6)
 - [Binary Search](#binary-search) (1)
 - [Bit Manipulation](#bit-manipulation) (4)
@@ -32,14 +32,15 @@
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Minimax](#minimax) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
-- [Ordered Set](#ordered-set) (1)
+- [Ordered Set](#ordered-set) (2)
 - [Prefix Sum](#prefix-sum) (1)
 - [Recursion](#recursion) (1)
+- [Segment Tree](#segment-tree) (1)
 - [Simulation](#simulation) (1)
 - [Sliding Window](#sliding-window) (4)
 - [Sorting](#sorting) (13)
 - [Stack](#stack) (1)
-- [String](#string) (12)
+- [String](#string) (13)
 - [Treap](#treap) (1)
 - [Two Pointers](#two-pointers) (6)
 - [Union-Find](#union-find) (3)
@@ -82,6 +83,7 @@
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | java |
 | 1601 | [Maximum Number of Achievable Transfer Requests](./1601-maximum-number-of-achievable-transfer-requests/) | Hard | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
+| 2213 | [Longest Substring of One Repeating Character](./2213-longest-substring-of-one-repeating-character/) | Hard | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-container-with-most-water/) | Easy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
@@ -330,6 +332,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 2213 | [Longest Substring of One Repeating Character](./2213-longest-substring-of-one-repeating-character/) | Hard | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | java |
 
 ## Prefix Sum
@@ -343,6 +346,12 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
+
+## Segment Tree
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 2213 | [Longest Substring of One Repeating Character](./2213-longest-substring-of-one-repeating-character/) | Hard | java |
 
 ## Simulation
 
@@ -395,6 +404,7 @@
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | java |
+| 2213 | [Longest Substring of One Repeating Character](./2213-longest-substring-of-one-repeating-character/) | Hard | java |
 | 2423 | [Remove Letter To Equalize Frequency](./2423-remove-letter-to-equalize-frequency/) | Easy | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | java |
@@ -489,6 +499,7 @@
 | 1683 | [Invalid Tweets](./1683-invalid-tweets/) | Easy | Database | mysql |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | Array, Two Pointers, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Bitmask | java |
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | Hash Table, String | java |
+| 2213 | [Longest Substring of One Repeating Character](./2213-longest-substring-of-one-repeating-character/) | Hard | Array, String, Segment Tree, Ordered Set | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | Array, Two Pointers, Binary Search, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Ordered Set, Bitmask | java |
 | 2423 | [Remove Letter To Equalize Frequency](./2423-remove-letter-to-equalize-frequency/) | Easy | Hash Table, String, Counting | java |
