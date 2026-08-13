@@ -1,0 +1,7 @@
+Example 1:
+Input: s = "leetcode"
+Output: 2
+
+Example 2:
+Input: s = "abbcccddddeeeeedcba"
+Output: 5
