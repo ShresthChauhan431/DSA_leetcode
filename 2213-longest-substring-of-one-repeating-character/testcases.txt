@@ -1,0 +1,7 @@
+Example 1:
+Input: s = "babacc", queryCharacters = "bcb", queryIndices = [1,3,3]
+Output: [3,3,4]
+
+Example 2:
+Input: s = "abyzz", queryCharacters = "aa", queryIndices = [2,1]
+Output: [2,3]
