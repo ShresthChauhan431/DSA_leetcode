@@ -1,0 +1,7 @@
+Example 1:
+Input: s = "bcbbbcba"
+Output: 4
+
+Example 2:
+Input: s = "aaaa"
+Output: 2
