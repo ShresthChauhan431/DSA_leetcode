@@ -1,12 +1,13 @@
 # LeetCode Solutions
 
-> **71** problems solved
+> **72** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (33)
+- [Array](#array) (34)
 - [Backtracking](#backtracking) (6)
+- [Binary Indexed Tree](#binary-indexed-tree) (1)
 - [Binary Search](#binary-search) (1)
 - [Bit Manipulation](#bit-manipulation) (4)
 - [Bitmask](#bitmask) (2)
@@ -18,6 +19,7 @@
 - [Database](#database) (3)
 - [Depth-First Search](#depth-first-search) (4)
 - [Design](#design) (4)
+- [Divide and Conquer](#divide-and-conquer) (1)
 - [Doubly-Linked List](#doubly-linked-list) (2)
 - [Dynamic Programming](#dynamic-programming) (14)
 - [Enumeration](#enumeration) (2)
@@ -25,22 +27,23 @@
 - [Graph Theory](#graph-theory) (3)
 - [Greedy](#greedy) (5)
 - [Hash Table](#hash-table) (21)
-- [Heap (Priority Queue)](#heap-priority-queue) (5)
+- [Heap (Priority Queue)](#heap-priority-queue) (6)
 - [Linked List](#linked-list) (3)
 - [Math](#math) (8)
 - [Matrix](#matrix) (4)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Minimax](#minimax) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
-- [Ordered Set](#ordered-set) (2)
+- [Ordered Set](#ordered-set) (3)
 - [Prefix Sum](#prefix-sum) (1)
 - [Recursion](#recursion) (1)
-- [Segment Tree](#segment-tree) (1)
+- [Segment Tree](#segment-tree) (2)
 - [Simulation](#simulation) (2)
 - [Sliding Window](#sliding-window) (5)
-- [Sorting](#sorting) (14)
+- [Sorting](#sorting) (15)
 - [Stack](#stack) (1)
 - [String](#string) (15)
+- [Sweep Line](#sweep-line) (1)
 - [Treap](#treap) (1)
 - [Two Pointers](#two-pointers) (6)
 - [Union-Find](#union-find) (3)
@@ -67,6 +70,7 @@
 | 56 | [Merge Intervals](./56-merge-intervals/) | Medium | java |
 | 79 | [Word Search](./79-word-search/) | Medium | java |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | java |
+| 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | java |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | java |
 | 480 | [Sliding Window Median](./480-sliding-window-median/) | Hard | java |
 | 485 | [Max Consecutive Ones](./485-max-consecutive-ones/) | Easy | java |
@@ -104,6 +108,12 @@
 | 79 | [Word Search](./79-word-search/) | Medium | java |
 | 491 | [Non-decreasing Subsequences](./491-non-decreasing-subsequences/) | Medium | java |
 | 1601 | [Maximum Number of Achievable Transfer Requests](./1601-maximum-number-of-achievable-transfer-requests/) | Hard | java |
+
+## Binary Indexed Tree
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | java |
 
 ## Binary Search
 
@@ -187,6 +197,12 @@
 | 355 | [Design Twitter](./355-design-twitter/) | Medium | java |
 | 460 | [LFU Cache](./460-lfu-cache/) | Hard | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
+
+## Divide and Conquer
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | java |
 
 ## Doubly-Linked List
 
@@ -277,6 +293,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | java |
 | 295 | [Find Median from Data Stream](./295-find-median-from-data-stream/) | Hard | java |
 | 355 | [Design Twitter](./355-design-twitter/) | Medium | java |
 | 480 | [Sliding Window Median](./480-sliding-window-median/) | Hard | java |
@@ -336,6 +353,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | java |
 | 2213 | [Longest Substring of One Repeating Character](./2213-longest-substring-of-one-repeating-character/) | Hard | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | java |
 
@@ -355,6 +373,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | java |
 | 2213 | [Longest Substring of One Repeating Character](./2213-longest-substring-of-one-repeating-character/) | Hard | java |
 
 ## Simulation
@@ -380,6 +399,7 @@
 |---|-------|------------|----------|
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | java |
 | 56 | [Merge Intervals](./56-merge-intervals/) | Medium | java |
+| 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | java |
 | 295 | [Find Median from Data Stream](./295-find-median-from-data-stream/) | Hard | java |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
@@ -418,6 +438,12 @@
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | java |
 | 3090 | [Maximum Length Substring With Two Occurrences](./3090-maximum-length-substring-with-two-occurrences/) | Easy | java |
 | 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i/) | Medium | java |
+
+## Sweep Line
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | java |
 
 ## Treap
 
@@ -483,6 +509,7 @@
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | String, Dynamic Programming | java |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | Array, Hash Table, Union-Find | java |
 | 177 | [Nth Highest Salary](./177-nth-highest-salary/) | Medium | Database | mysql |
+| 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Sweep Line, Sorting, Heap (Priority Queue), Ordered Set | java |
 | 295 | [Find Median from Data Stream](./295-find-median-from-data-stream/) | Hard | Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream | java |
 | 355 | [Design Twitter](./355-design-twitter/) | Medium | Hash Table, Linked List, Design, Heap (Priority Queue) | java |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | Array, Dynamic Programming | java |
