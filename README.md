@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **70** problems solved
+> **71** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (32)
+- [Array](#array) (33)
 - [Backtracking](#backtracking) (6)
 - [Binary Search](#binary-search) (1)
 - [Bit Manipulation](#bit-manipulation) (4)
@@ -24,8 +24,8 @@
 - [Game Theory](#game-theory) (3)
 - [Graph Theory](#graph-theory) (3)
 - [Greedy](#greedy) (5)
-- [Hash Table](#hash-table) (20)
-- [Heap (Priority Queue)](#heap-priority-queue) (4)
+- [Hash Table](#hash-table) (21)
+- [Heap (Priority Queue)](#heap-priority-queue) (5)
 - [Linked List](#linked-list) (3)
 - [Math](#math) (8)
 - [Matrix](#matrix) (4)
@@ -36,9 +36,9 @@
 - [Prefix Sum](#prefix-sum) (1)
 - [Recursion](#recursion) (1)
 - [Segment Tree](#segment-tree) (1)
-- [Simulation](#simulation) (1)
+- [Simulation](#simulation) (2)
 - [Sliding Window](#sliding-window) (5)
-- [Sorting](#sorting) (13)
+- [Sorting](#sorting) (14)
 - [Stack](#stack) (1)
 - [String](#string) (15)
 - [Treap](#treap) (1)
@@ -85,6 +85,7 @@
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2213 | [Longest Substring of One Repeating Character](./2213-longest-substring-of-one-repeating-character/) | Hard | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | java |
+| 2402 | [Meeting Rooms III](./2402-meeting-rooms-iii/) | Hard | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-container-with-most-water/) | Easy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | java |
@@ -264,6 +265,7 @@
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | java |
+| 2402 | [Meeting Rooms III](./2402-meeting-rooms-iii/) | Hard | java |
 | 2423 | [Remove Letter To Equalize Frequency](./2423-remove-letter-to-equalize-frequency/) | Easy | java |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium | java |
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | java |
@@ -279,6 +281,7 @@
 | 355 | [Design Twitter](./355-design-twitter/) | Medium | java |
 | 480 | [Sliding Window Median](./480-sliding-window-median/) | Hard | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | java |
+| 2402 | [Meeting Rooms III](./2402-meeting-rooms-iii/) | Hard | java |
 
 ## Linked List
 
@@ -358,6 +361,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 2402 | [Meeting Rooms III](./2402-meeting-rooms-iii/) | Hard | java |
 | 3222 | [Find the Winning Player in Coin Game](./3222-find-the-winning-player-in-coin-game/) | Easy | java |
 
 ## Sliding Window
@@ -382,6 +386,7 @@
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | java |
+| 2402 | [Meeting Rooms III](./2402-meeting-rooms-iii/) | Hard | java |
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | java |
 | 3107 | [Minimum Operations to Make Median of Array Equal to K](./3107-minimum-operations-to-make-median-of-array-equal-to-k/) | Medium | java |
 | 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i/) | Medium | java |
@@ -507,6 +512,7 @@
 | 2213 | [Longest Substring of One Repeating Character](./2213-longest-substring-of-one-repeating-character/) | Hard | Array, String, Segment Tree, Ordered Set | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | Array, Two Pointers, Binary Search, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Ordered Set, Bitmask | java |
+| 2402 | [Meeting Rooms III](./2402-meeting-rooms-iii/) | Hard | Array, Hash Table, Sorting, Heap (Priority Queue), Simulation | java |
 | 2423 | [Remove Letter To Equalize Frequency](./2423-remove-letter-to-equalize-frequency/) | Easy | Hash Table, String, Counting | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-container-with-most-water/) | Easy | Array, Two Pointers, Greedy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-distribute-money-to-maximum-children/) | Easy | Math, Greedy | java |
