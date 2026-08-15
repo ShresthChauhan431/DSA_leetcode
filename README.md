@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **75** problems solved
+> **76** problems solved
 
 ## Topics
 
@@ -49,7 +49,7 @@
 - [Two Pointers](#two-pointers) (6)
 - [Union-Find](#union-find) (3)
 - [Zero-Sum Game](#zero-sum-game) (1)
-- [Uncategorized](#uncategorized) (13)
+- [Uncategorized](#uncategorized) (14)
 - [All Problems](#all-problems)
 
 ## Algorithm X
@@ -507,6 +507,7 @@
 | 101126 | [Count Valid Prefixes](./101126-count-valid-prefixes/) | Easy | java |
 | 101126 | [Count Valid Prefixes](./101126-widest-possible-fence/) | Easy | java |
 | 101145 | [Elevator Requests I](./101145-elevator-requests-i/) | Easy | java |
+| 101145 | [Elevator Requests I](./101145-minimum-operations-to-make-a-rotated-palindrome-i/) | Easy | java |
 
 ## All Problems
 
@@ -587,6 +588,7 @@
 | 101126 | [Count Valid Prefixes](./101126-count-valid-prefixes/) | Easy | - | java |
 | 101126 | [Count Valid Prefixes](./101126-widest-possible-fence/) | Easy | - | java |
 | 101145 | [Elevator Requests I](./101145-elevator-requests-i/) | Easy | - | java |
+| 101145 | [Elevator Requests I](./101145-minimum-operations-to-make-a-rotated-palindrome-i/) | Easy | - | java |
 
 ---
 
