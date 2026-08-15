@@ -1,13 +1,13 @@
 # LeetCode Solutions
 
-> **73** problems solved
+> **74** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (35)
+- [Array](#array) (36)
 - [Backtracking](#backtracking) (6)
-- [Binary Indexed Tree](#binary-indexed-tree) (1)
+- [Binary Indexed Tree](#binary-indexed-tree) (2)
 - [Binary Search](#binary-search) (1)
 - [Bit Manipulation](#bit-manipulation) (5)
 - [Bitmask](#bitmask) (2)
@@ -18,8 +18,8 @@
 - [Data Stream](#data-stream) (1)
 - [Database](#database) (3)
 - [Depth-First Search](#depth-first-search) (4)
-- [Design](#design) (4)
-- [Divide and Conquer](#divide-and-conquer) (1)
+- [Design](#design) (5)
+- [Divide and Conquer](#divide-and-conquer) (2)
 - [Doubly-Linked List](#doubly-linked-list) (2)
 - [Dynamic Programming](#dynamic-programming) (14)
 - [Enumeration](#enumeration) (2)
@@ -37,10 +37,11 @@
 - [Ordered Set](#ordered-set) (3)
 - [Prefix Sum](#prefix-sum) (1)
 - [Recursion](#recursion) (1)
-- [Segment Tree](#segment-tree) (2)
+- [Segment Tree](#segment-tree) (3)
 - [Simulation](#simulation) (2)
 - [Sliding Window](#sliding-window) (5)
 - [Sorting](#sorting) (15)
+- [Sqrt Decomposition](#sqrt-decomposition) (1)
 - [Stack](#stack) (1)
 - [String](#string) (15)
 - [Sweep Line](#sweep-line) (1)
@@ -71,6 +72,7 @@
 | 79 | [Word Search](./79-word-search/) | Medium | java |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | java |
 | 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | java |
+| 307 | [Range Sum Query - Mutable](./307-range-sum-query-mutable/) | Medium | java |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | java |
 | 480 | [Sliding Window Median](./480-sliding-window-median/) | Hard | java |
 | 485 | [Max Consecutive Ones](./485-max-consecutive-ones/) | Easy | java |
@@ -115,6 +117,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | java |
+| 307 | [Range Sum Query - Mutable](./307-range-sum-query-mutable/) | Medium | java |
 
 ## Binary Search
 
@@ -196,6 +199,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 295 | [Find Median from Data Stream](./295-find-median-from-data-stream/) | Hard | java |
+| 307 | [Range Sum Query - Mutable](./307-range-sum-query-mutable/) | Medium | java |
 | 355 | [Design Twitter](./355-design-twitter/) | Medium | java |
 | 460 | [LFU Cache](./460-lfu-cache/) | Hard | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
@@ -205,6 +209,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | java |
+| 307 | [Range Sum Query - Mutable](./307-range-sum-query-mutable/) | Medium | java |
 
 ## Doubly-Linked List
 
@@ -376,6 +381,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | java |
+| 307 | [Range Sum Query - Mutable](./307-range-sum-query-mutable/) | Medium | java |
 | 2213 | [Longest Substring of One Repeating Character](./2213-longest-substring-of-one-repeating-character/) | Hard | java |
 
 ## Simulation
@@ -414,6 +420,12 @@
 | 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i/) | Medium | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
+
+## Sqrt Decomposition
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 307 | [Range Sum Query - Mutable](./307-range-sum-query-mutable/) | Medium | java |
 
 ## Stack
 
@@ -513,6 +525,7 @@
 | 177 | [Nth Highest Salary](./177-nth-highest-salary/) | Medium | Database | mysql |
 | 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Sweep Line, Sorting, Heap (Priority Queue), Ordered Set | java |
 | 295 | [Find Median from Data Stream](./295-find-median-from-data-stream/) | Hard | Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream | java |
+| 307 | [Range Sum Query - Mutable](./307-range-sum-query-mutable/) | Medium | Array, Divide and Conquer, Design, Binary Indexed Tree, Segment Tree, Sqrt Decomposition | java |
 | 355 | [Design Twitter](./355-design-twitter/) | Medium | Hash Table, Linked List, Design, Heap (Priority Queue) | java |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | Array, Dynamic Programming | java |
 | 460 | [LFU Cache](./460-lfu-cache/) | Hard | Hash Table, Linked List, Design, Doubly-Linked List | java |
