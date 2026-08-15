@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **74** problems solved
+> **75** problems solved
 
 ## Topics
 
@@ -49,7 +49,7 @@
 - [Two Pointers](#two-pointers) (6)
 - [Union-Find](#union-find) (3)
 - [Zero-Sum Game](#zero-sum-game) (1)
-- [Uncategorized](#uncategorized) (12)
+- [Uncategorized](#uncategorized) (13)
 - [All Problems](#all-problems)
 
 ## Algorithm X
@@ -506,6 +506,7 @@
 | 101124 | [Minimum Total Price After Applying Discounts](./101124-weighted-sum-of-a-tree/) | Medium | java |
 | 101126 | [Count Valid Prefixes](./101126-count-valid-prefixes/) | Easy | java |
 | 101126 | [Count Valid Prefixes](./101126-widest-possible-fence/) | Easy | java |
+| 101145 | [Elevator Requests I](./101145-elevator-requests-i/) | Easy | java |
 
 ## All Problems
 
@@ -585,6 +586,7 @@
 | 101124 | [Minimum Total Price After Applying Discounts](./101124-weighted-sum-of-a-tree/) | Medium | - | java |
 | 101126 | [Count Valid Prefixes](./101126-count-valid-prefixes/) | Easy | - | java |
 | 101126 | [Count Valid Prefixes](./101126-widest-possible-fence/) | Easy | - | java |
+| 101145 | [Elevator Requests I](./101145-elevator-requests-i/) | Easy | - | java |
 
 ---
 
