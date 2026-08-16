@@ -1,0 +1,11 @@
+Example 1:
+Input: skill = "aa", station = "aaaa"
+Output: 3
+
+Example 2:
+Input: skill = "xyz", station = "xyzz"
+Output: 2
+
+Example 3:
+Input: skill = "cbc", station = "cbcdbc"
+Output: 4
