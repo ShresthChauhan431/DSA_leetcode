@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **78** problems solved
+> **79** problems solved
 
 ## Topics
 
@@ -49,7 +49,7 @@
 - [Two Pointers](#two-pointers) (6)
 - [Union-Find](#union-find) (3)
 - [Zero-Sum Game](#zero-sum-game) (1)
-- [Uncategorized](#uncategorized) (16)
+- [Uncategorized](#uncategorized) (17)
 - [All Problems](#all-problems)
 
 ## Algorithm X
@@ -506,6 +506,7 @@
 | 101124 | [Minimum Total Price After Applying Discounts](./101124-weighted-sum-of-a-tree/) | Medium | java |
 | 101126 | [Count Valid Prefixes](./101126-count-valid-prefixes/) | Easy | java |
 | 101126 | [Count Valid Prefixes](./101126-widest-possible-fence/) | Easy | java |
+| 101139 | [Nearest Available Drone](./101139-maximum-gap-between-stations/) | Easy | java |
 | 101139 | [Nearest Available Drone](./101139-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights/) | Easy | java |
 | 101139 | [Nearest Available Drone](./101139-nearest-available-drone/) | Easy | java |
 | 101145 | [Elevator Requests I](./101145-elevator-requests-i/) | Easy | java |
@@ -589,6 +590,7 @@
 | 101124 | [Minimum Total Price After Applying Discounts](./101124-weighted-sum-of-a-tree/) | Medium | - | java |
 | 101126 | [Count Valid Prefixes](./101126-count-valid-prefixes/) | Easy | - | java |
 | 101126 | [Count Valid Prefixes](./101126-widest-possible-fence/) | Easy | - | java |
+| 101139 | [Nearest Available Drone](./101139-maximum-gap-between-stations/) | Easy | - | java |
 | 101139 | [Nearest Available Drone](./101139-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights/) | Easy | - | java |
 | 101139 | [Nearest Available Drone](./101139-nearest-available-drone/) | Easy | - | java |
 | 101145 | [Elevator Requests I](./101145-elevator-requests-i/) | Easy | - | java |
