@@ -1,14 +1,14 @@
 # LeetCode Solutions
 
-> **79** problems solved
+> **80** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (36)
+- [Array](#array) (37)
 - [Backtracking](#backtracking) (6)
-- [Binary Indexed Tree](#binary-indexed-tree) (2)
-- [Binary Search](#binary-search) (1)
+- [Binary Indexed Tree](#binary-indexed-tree) (3)
+- [Binary Search](#binary-search) (2)
 - [Bit Manipulation](#bit-manipulation) (5)
 - [Bitmask](#bitmask) (2)
 - [Breadth-First Search](#breadth-first-search) (3)
@@ -19,7 +19,7 @@
 - [Database](#database) (3)
 - [Depth-First Search](#depth-first-search) (4)
 - [Design](#design) (5)
-- [Divide and Conquer](#divide-and-conquer) (2)
+- [Divide and Conquer](#divide-and-conquer) (3)
 - [Doubly-Linked List](#doubly-linked-list) (2)
 - [Dynamic Programming](#dynamic-programming) (14)
 - [Enumeration](#enumeration) (2)
@@ -32,12 +32,13 @@
 - [Math](#math) (8)
 - [Matrix](#matrix) (4)
 - [Meet in the Middle](#meet-in-the-middle) (2)
+- [Merge Sort](#merge-sort) (1)
 - [Minimax](#minimax) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
-- [Ordered Set](#ordered-set) (3)
+- [Ordered Set](#ordered-set) (4)
 - [Prefix Sum](#prefix-sum) (1)
 - [Recursion](#recursion) (1)
-- [Segment Tree](#segment-tree) (3)
+- [Segment Tree](#segment-tree) (4)
 - [Simulation](#simulation) (2)
 - [Sliding Window](#sliding-window) (5)
 - [Sorting](#sorting) (15)
@@ -45,7 +46,7 @@
 - [Stack](#stack) (1)
 - [String](#string) (15)
 - [Sweep Line](#sweep-line) (1)
-- [Treap](#treap) (1)
+- [Treap](#treap) (2)
 - [Two Pointers](#two-pointers) (6)
 - [Union-Find](#union-find) (3)
 - [Zero-Sum Game](#zero-sum-game) (1)
@@ -73,6 +74,7 @@
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | java |
 | 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | java |
 | 307 | [Range Sum Query - Mutable](./307-range-sum-query-mutable/) | Medium | java |
+| 315 | [Count of Smaller Numbers After Self](./315-count-of-smaller-numbers-after-self/) | Hard | java |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | java |
 | 480 | [Sliding Window Median](./480-sliding-window-median/) | Hard | java |
 | 485 | [Max Consecutive Ones](./485-max-consecutive-ones/) | Easy | java |
@@ -118,11 +120,13 @@
 |---|-------|------------|----------|
 | 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | java |
 | 307 | [Range Sum Query - Mutable](./307-range-sum-query-mutable/) | Medium | java |
+| 315 | [Count of Smaller Numbers After Self](./315-count-of-smaller-numbers-after-self/) | Hard | java |
 
 ## Binary Search
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 315 | [Count of Smaller Numbers After Self](./315-count-of-smaller-numbers-after-self/) | Hard | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | java |
 
 ## Bit Manipulation
@@ -210,6 +214,7 @@
 |---|-------|------------|----------|
 | 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | java |
 | 307 | [Range Sum Query - Mutable](./307-range-sum-query-mutable/) | Medium | java |
+| 315 | [Count of Smaller Numbers After Self](./315-count-of-smaller-numbers-after-self/) | Hard | java |
 
 ## Doubly-Linked List
 
@@ -344,6 +349,12 @@
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | java |
 
+## Merge Sort
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 315 | [Count of Smaller Numbers After Self](./315-count-of-smaller-numbers-after-self/) | Hard | java |
+
 ## Minimax
 
 | # | Title | Difficulty | Language |
@@ -361,6 +372,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | java |
+| 315 | [Count of Smaller Numbers After Self](./315-count-of-smaller-numbers-after-self/) | Hard | java |
 | 2213 | [Longest Substring of One Repeating Character](./2213-longest-substring-of-one-repeating-character/) | Hard | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | java |
 
@@ -382,6 +394,7 @@
 |---|-------|------------|----------|
 | 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | java |
 | 307 | [Range Sum Query - Mutable](./307-range-sum-query-mutable/) | Medium | java |
+| 315 | [Count of Smaller Numbers After Self](./315-count-of-smaller-numbers-after-self/) | Hard | java |
 | 2213 | [Longest Substring of One Repeating Character](./2213-longest-substring-of-one-repeating-character/) | Hard | java |
 
 ## Simulation
@@ -463,6 +476,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 315 | [Count of Smaller Numbers After Self](./315-count-of-smaller-numbers-after-self/) | Hard | java |
 | 480 | [Sliding Window Median](./480-sliding-window-median/) | Hard | java |
 
 ## Two Pointers
@@ -531,6 +545,7 @@
 | 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Sweep Line, Sorting, Heap (Priority Queue), Ordered Set | java |
 | 295 | [Find Median from Data Stream](./295-find-median-from-data-stream/) | Hard | Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream | java |
 | 307 | [Range Sum Query - Mutable](./307-range-sum-query-mutable/) | Medium | Array, Divide and Conquer, Design, Binary Indexed Tree, Segment Tree, Sqrt Decomposition | java |
+| 315 | [Count of Smaller Numbers After Self](./315-count-of-smaller-numbers-after-self/) | Hard | Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set, Treap | java |
 | 355 | [Design Twitter](./355-design-twitter/) | Medium | Hash Table, Linked List, Design, Heap (Priority Queue) | java |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | Array, Dynamic Programming | java |
 | 460 | [LFU Cache](./460-lfu-cache/) | Hard | Hash Table, Linked List, Design, Doubly-Linked List | java |
