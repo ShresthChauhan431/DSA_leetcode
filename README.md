@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **80** problems solved
+> **81** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (37)
+- [Array](#array) (38)
 - [Backtracking](#backtracking) (6)
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (2)
@@ -21,15 +21,15 @@
 - [Design](#design) (5)
 - [Divide and Conquer](#divide-and-conquer) (3)
 - [Doubly-Linked List](#doubly-linked-list) (2)
-- [Dynamic Programming](#dynamic-programming) (14)
+- [Dynamic Programming](#dynamic-programming) (15)
 - [Enumeration](#enumeration) (2)
-- [Game Theory](#game-theory) (3)
+- [Game Theory](#game-theory) (4)
 - [Graph Theory](#graph-theory) (3)
 - [Greedy](#greedy) (5)
 - [Hash Table](#hash-table) (21)
 - [Heap (Priority Queue)](#heap-priority-queue) (6)
 - [Linked List](#linked-list) (3)
-- [Math](#math) (8)
+- [Math](#math) (9)
 - [Matrix](#matrix) (4)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Merge Sort](#merge-sort) (1)
@@ -89,6 +89,7 @@
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | java |
+| 1563 | [Stone Game V](./1563-stone-game-v/) | Hard | java |
 | 1601 | [Maximum Number of Achievable Transfer Requests](./1601-maximum-number-of-achievable-transfer-requests/) | Hard | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2213 | [Longest Substring of One Repeating Character](./2213-longest-substring-of-one-repeating-character/) | Hard | java |
@@ -237,6 +238,7 @@
 | 877 | [Stone Game](./877-stone-game/) | Medium | java |
 | 983 | [Minimum Cost For Tickets](./983-minimum-cost-for-tickets/) | Medium | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
+| 1563 | [Stone Game V](./1563-stone-game-v/) | Hard | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
@@ -255,6 +257,7 @@
 |---|-------|------------|----------|
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
 | 877 | [Stone Game](./877-stone-game/) | Medium | java |
+| 1563 | [Stone Game V](./1563-stone-game-v/) | Hard | java |
 | 3222 | [Find the Winning Player in Coin Game](./3222-find-the-winning-player-in-coin-game/) | Easy | java |
 
 ## Graph Theory
@@ -327,6 +330,7 @@
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
 | 877 | [Stone Game](./877-stone-game/) | Medium | java |
+| 1563 | [Stone Game V](./1563-stone-game-v/) | Hard | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-distribute-money-to-maximum-children/) | Easy | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
 | 3222 | [Find the Winning Player in Coin Game](./3222-find-the-winning-player-in-coin-game/) | Easy | java |
@@ -567,6 +571,7 @@
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory | java |
 | 1446 | [Consecutive Characters](./1446-consecutive-characters/) | Easy | String | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | Array, Sorting, Heap (Priority Queue) | java |
+| 1563 | [Stone Game V](./1563-stone-game-v/) | Hard | Array, Math, Dynamic Programming, Game Theory | java |
 | 1601 | [Maximum Number of Achievable Transfer Requests](./1601-maximum-number-of-achievable-transfer-requests/) | Hard | Array, Backtracking, Bit Manipulation, Enumeration | java |
 | 1683 | [Invalid Tweets](./1683-invalid-tweets/) | Easy | Database | mysql |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | Array, Two Pointers, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Bitmask | java |
