@@ -1,0 +1,11 @@
+Example 1:
+Input: stoneValue = [6,2,3,4,5,5]
+Output: 18
+
+Example 2:
+Input: stoneValue = [7,7,7,7,7,7,7]
+Output: 28
+
+Example 3:
+Input: stoneValue = [4]
+Output: 0
