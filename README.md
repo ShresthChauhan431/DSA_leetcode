@@ -1,14 +1,14 @@
 # LeetCode Solutions
 
-> **81** problems solved
+> **82** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (38)
+- [Array](#array) (39)
 - [Backtracking](#backtracking) (6)
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
-- [Binary Search](#binary-search) (2)
+- [Binary Search](#binary-search) (3)
 - [Bit Manipulation](#bit-manipulation) (5)
 - [Bitmask](#bitmask) (2)
 - [Breadth-First Search](#breadth-first-search) (3)
@@ -21,11 +21,11 @@
 - [Design](#design) (5)
 - [Divide and Conquer](#divide-and-conquer) (3)
 - [Doubly-Linked List](#doubly-linked-list) (2)
-- [Dynamic Programming](#dynamic-programming) (15)
+- [Dynamic Programming](#dynamic-programming) (16)
 - [Enumeration](#enumeration) (2)
 - [Game Theory](#game-theory) (4)
 - [Graph Theory](#graph-theory) (3)
-- [Greedy](#greedy) (5)
+- [Greedy](#greedy) (6)
 - [Hash Table](#hash-table) (21)
 - [Heap (Priority Queue)](#heap-priority-queue) (6)
 - [Linked List](#linked-list) (3)
@@ -36,7 +36,7 @@
 - [Minimax](#minimax) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
 - [Ordered Set](#ordered-set) (4)
-- [Prefix Sum](#prefix-sum) (1)
+- [Prefix Sum](#prefix-sum) (2)
 - [Recursion](#recursion) (1)
 - [Segment Tree](#segment-tree) (4)
 - [Simulation](#simulation) (2)
@@ -83,6 +83,7 @@
 | 518 | [Coin Change II](./518-coin-change-ii/) | Medium | java |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
+| 875 | [Koko Eating Bananas](./875-split-array-largest-sum/) | Medium | java |
 | 877 | [Stone Game](./877-stone-game/) | Medium | java |
 | 983 | [Minimum Cost For Tickets](./983-minimum-cost-for-tickets/) | Medium | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
@@ -128,6 +129,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 315 | [Count of Smaller Numbers After Self](./315-count-of-smaller-numbers-after-self/) | Hard | java |
+| 875 | [Koko Eating Bananas](./875-split-array-largest-sum/) | Medium | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | java |
 
 ## Bit Manipulation
@@ -235,6 +237,7 @@
 | 518 | [Coin Change II](./518-coin-change-ii/) | Medium | java |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
+| 875 | [Koko Eating Bananas](./875-split-array-largest-sum/) | Medium | java |
 | 877 | [Stone Game](./877-stone-game/) | Medium | java |
 | 983 | [Minimum Cost For Tickets](./983-minimum-cost-for-tickets/) | Medium | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
@@ -272,6 +275,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 875 | [Koko Eating Bananas](./875-split-array-largest-sum/) | Medium | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-container-with-most-water/) | Easy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-distribute-money-to-maximum-children/) | Easy | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
@@ -384,6 +388,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 875 | [Koko Eating Bananas](./875-split-array-largest-sum/) | Medium | java |
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | java |
 
 ## Recursion
@@ -563,6 +568,7 @@
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | Hash Table, Linked List, Design, Doubly-Linked List | java |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | String, Dynamic Programming | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | Array, Hash Table, Dynamic Programming | java |
+| 875 | [Koko Eating Bananas](./875-split-array-largest-sum/) | Medium | Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum | java |
 | 877 | [Stone Game](./877-stone-game/) | Medium | Array, Math, Dynamic Programming, Minimax, Game Theory, Zero-Sum Game | java |
 | 983 | [Minimum Cost For Tickets](./983-minimum-cost-for-tickets/) | Medium | Array, Dynamic Programming | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | Array, Hash Table, Sliding Window, Counting | java |
