@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **82** problems solved
+> **83** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (39)
+- [Array](#array) (40)
 - [Backtracking](#backtracking) (6)
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (3)
@@ -41,13 +41,13 @@
 - [Segment Tree](#segment-tree) (4)
 - [Simulation](#simulation) (2)
 - [Sliding Window](#sliding-window) (5)
-- [Sorting](#sorting) (15)
+- [Sorting](#sorting) (16)
 - [Sqrt Decomposition](#sqrt-decomposition) (1)
 - [Stack](#stack) (1)
 - [String](#string) (15)
 - [Sweep Line](#sweep-line) (1)
 - [Treap](#treap) (2)
-- [Two Pointers](#two-pointers) (6)
+- [Two Pointers](#two-pointers) (7)
 - [Union-Find](#union-find) (3)
 - [Zero-Sum Game](#zero-sum-game) (1)
 - [Uncategorized](#uncategorized) (17)
@@ -65,6 +65,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 2 | [Add Two Numbers](./2-3sum/) | Medium | java |
 | 36 | [Valid Sudoku](./36-valid-sudoku/) | Medium | java |
 | 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | java |
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | java |
@@ -427,6 +428,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 2 | [Add Two Numbers](./2-3sum/) | Medium | java |
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | java |
 | 56 | [Merge Intervals](./56-merge-intervals/) | Medium | java |
 | 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | java |
@@ -492,6 +494,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 2 | [Add Two Numbers](./2-3sum/) | Medium | java |
 | 295 | [Find Median from Data Stream](./295-find-median-from-data-stream/) | Hard | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
@@ -539,6 +542,7 @@
 
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
+| 2 | [Add Two Numbers](./2-3sum/) | Medium | Array, Two Pointers, Sorting | java |
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window | java |
 | 36 | [Valid Sudoku](./36-valid-sudoku/) | Medium | Array, Hash Table, Matrix | java |
 | 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | Array, Hash Table, Backtracking, Matrix, Algorithm X, Dancing Links | java |
