@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **84** problems solved
+> **85** problems solved
 
 ## Topics
 
@@ -26,10 +26,10 @@
 - [Game Theory](#game-theory) (4)
 - [Graph Theory](#graph-theory) (3)
 - [Greedy](#greedy) (6)
-- [Hash Table](#hash-table) (21)
+- [Hash Table](#hash-table) (22)
 - [Heap (Priority Queue)](#heap-priority-queue) (6)
 - [Linked List](#linked-list) (3)
-- [Math](#math) (9)
+- [Math](#math) (10)
 - [Matrix](#matrix) (4)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Merge Sort](#merge-sort) (1)
@@ -37,7 +37,9 @@
 - [Monotonic Stack](#monotonic-stack) (1)
 - [Ordered Set](#ordered-set) (4)
 - [Prefix Sum](#prefix-sum) (2)
+- [Randomized](#randomized) (1)
 - [Recursion](#recursion) (1)
+- [Reservoir Sampling](#reservoir-sampling) (1)
 - [Segment Tree](#segment-tree) (4)
 - [Simulation](#simulation) (3)
 - [Sliding Window](#sliding-window) (5)
@@ -294,6 +296,7 @@
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | java |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | java |
 | 355 | [Design Twitter](./355-design-twitter/) | Medium | java |
+| 398 | [Random Pick Index](./398-random-pick-index/) | Medium | java |
 | 460 | [LFU Cache](./460-lfu-cache/) | Hard | java |
 | 480 | [Sliding Window Median](./480-sliding-window-median/) | Hard | java |
 | 491 | [Non-decreasing Subsequences](./491-non-decreasing-subsequences/) | Medium | java |
@@ -333,6 +336,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 398 | [Random Pick Index](./398-random-pick-index/) | Medium | java |
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
 | 877 | [Stone Game](./877-stone-game/) | Medium | java |
@@ -393,11 +397,23 @@
 | 875 | [Koko Eating Bananas](./875-split-array-largest-sum/) | Medium | java |
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | java |
 
+## Randomized
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 398 | [Random Pick Index](./398-random-pick-index/) | Medium | java |
+
 ## Recursion
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
+
+## Reservoir Sampling
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 398 | [Random Pick Index](./398-random-pick-index/) | Medium | java |
 
 ## Segment Tree
 
@@ -563,6 +579,7 @@
 | 315 | [Count of Smaller Numbers After Self](./315-count-of-smaller-numbers-after-self/) | Hard | Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set, Treap | java |
 | 355 | [Design Twitter](./355-design-twitter/) | Medium | Hash Table, Linked List, Design, Heap (Priority Queue) | java |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | Array, Dynamic Programming | java |
+| 398 | [Random Pick Index](./398-random-pick-index/) | Medium | Hash Table, Math, Reservoir Sampling, Randomized | java |
 | 460 | [LFU Cache](./460-lfu-cache/) | Hard | Hash Table, Linked List, Design, Doubly-Linked List | java |
 | 480 | [Sliding Window Median](./480-sliding-window-median/) | Hard | Array, Hash Table, Sliding Window, Heap (Priority Queue), Treap | java |
 | 485 | [Max Consecutive Ones](./485-max-consecutive-ones/) | Easy | Array | java |
