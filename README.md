@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **85** problems solved
+> **86** problems solved
 
 ## Topics
 
@@ -23,13 +23,14 @@
 - [Doubly-Linked List](#doubly-linked-list) (2)
 - [Dynamic Programming](#dynamic-programming) (16)
 - [Enumeration](#enumeration) (2)
+- [Floyd's Cycle Finding Algorithm](#floyd-s-cycle-finding-algorithm) (1)
 - [Game Theory](#game-theory) (4)
 - [Graph Theory](#graph-theory) (3)
 - [Greedy](#greedy) (6)
-- [Hash Table](#hash-table) (22)
+- [Hash Table](#hash-table) (23)
 - [Heap (Priority Queue)](#heap-priority-queue) (6)
 - [Linked List](#linked-list) (3)
-- [Math](#math) (10)
+- [Math](#math) (11)
 - [Matrix](#matrix) (4)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Merge Sort](#merge-sort) (1)
@@ -49,7 +50,7 @@
 - [String](#string) (15)
 - [Sweep Line](#sweep-line) (1)
 - [Treap](#treap) (2)
-- [Two Pointers](#two-pointers) (7)
+- [Two Pointers](#two-pointers) (8)
 - [Union-Find](#union-find) (3)
 - [Zero-Sum Game](#zero-sum-game) (1)
 - [Uncategorized](#uncategorized) (17)
@@ -258,6 +259,12 @@
 | 1601 | [Maximum Number of Achievable Transfer Requests](./1601-maximum-number-of-achievable-transfer-requests/) | Hard | java |
 | 3345 | [Smallest Divisible Digit Product I](./3345-smallest-divisible-digit-product-i/) | Easy | java |
 
+## Floyd's Cycle Finding Algorithm
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 202 | [Happy Number](./202-happy-number/) | Easy | java |
+
 ## Game Theory
 
 | # | Title | Difficulty | Language |
@@ -295,6 +302,7 @@
 | 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | java |
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | java |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | java |
+| 202 | [Happy Number](./202-happy-number/) | Easy | java |
 | 355 | [Design Twitter](./355-design-twitter/) | Medium | java |
 | 398 | [Random Pick Index](./398-random-pick-index/) | Medium | java |
 | 460 | [LFU Cache](./460-lfu-cache/) | Hard | java |
@@ -336,6 +344,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 202 | [Happy Number](./202-happy-number/) | Easy | java |
 | 398 | [Random Pick Index](./398-random-pick-index/) | Medium | java |
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
@@ -513,6 +522,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 2 | [Add Two Numbers](./2-3sum/) | Medium | java |
+| 202 | [Happy Number](./202-happy-number/) | Easy | java |
 | 295 | [Find Median from Data Stream](./295-find-median-from-data-stream/) | Hard | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
@@ -573,6 +583,7 @@
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | String, Dynamic Programming | java |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | Array, Hash Table, Union-Find | java |
 | 177 | [Nth Highest Salary](./177-nth-highest-salary/) | Medium | Database | mysql |
+| 202 | [Happy Number](./202-happy-number/) | Easy | Hash Table, Math, Two Pointers, Floyd's Cycle Finding Algorithm | java |
 | 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Sweep Line, Sorting, Heap (Priority Queue), Ordered Set | java |
 | 295 | [Find Median from Data Stream](./295-find-median-from-data-stream/) | Hard | Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream | java |
 | 307 | [Range Sum Query - Mutable](./307-range-sum-query-mutable/) | Medium | Array, Divide and Conquer, Design, Binary Indexed Tree, Segment Tree, Sqrt Decomposition | java |
