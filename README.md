@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **87** problems solved
+> **88** problems solved
 
 ## Topics
 
@@ -9,8 +9,9 @@
 - [Backtracking](#backtracking) (6)
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (3)
-- [Bit Manipulation](#bit-manipulation) (5)
+- [Bit Manipulation](#bit-manipulation) (6)
 - [Bitmask](#bitmask) (2)
+- [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (1)
 - [Breadth-First Search](#breadth-first-search) (3)
 - [Counting](#counting) (4)
 - [Counting Sort](#counting-sort) (1)
@@ -27,7 +28,8 @@
 - [Game Theory](#game-theory) (4)
 - [Graph Theory](#graph-theory) (3)
 - [Greedy](#greedy) (6)
-- [Hash Table](#hash-table) (23)
+- [Hash Function](#hash-function) (1)
+- [Hash Table](#hash-table) (24)
 - [Heap (Priority Queue)](#heap-priority-queue) (6)
 - [Linked List](#linked-list) (3)
 - [Math](#math) (12)
@@ -41,17 +43,19 @@
 - [Randomized](#randomized) (1)
 - [Recursion](#recursion) (1)
 - [Reservoir Sampling](#reservoir-sampling) (1)
+- [Rolling Hash](#rolling-hash) (1)
 - [Segment Tree](#segment-tree) (4)
 - [Simulation](#simulation) (3)
-- [Sliding Window](#sliding-window) (5)
+- [Sliding Window](#sliding-window) (6)
 - [Sorting](#sorting) (16)
 - [Sqrt Decomposition](#sqrt-decomposition) (1)
 - [Stack](#stack) (1)
-- [String](#string) (15)
+- [String](#string) (16)
 - [Sweep Line](#sweep-line) (1)
 - [Treap](#treap) (2)
 - [Two Pointers](#two-pointers) (8)
 - [Union-Find](#union-find) (3)
+- [Z Algorithm](#z-algorithm) (1)
 - [Zero-Sum Game](#zero-sum-game) (1)
 - [Uncategorized](#uncategorized) (17)
 - [All Problems](#all-problems)
@@ -141,6 +145,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | java |
 | 491 | [Non-decreasing Subsequences](./491-non-decreasing-subsequences/) | Medium | java |
 | 1601 | [Maximum Number of Achievable Transfer Requests](./1601-maximum-number-of-achievable-transfer-requests/) | Hard | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
@@ -153,6 +158,12 @@
 |---|-------|------------|----------|
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | java |
+
+## Boyer–Moore String-Search Algorithm
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | java |
 
 ## Breadth-First Search
 
@@ -293,6 +304,12 @@
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | java |
 | 3107 | [Minimum Operations to Make Median of Array Equal to K](./3107-minimum-operations-to-make-median-of-array-equal-to-k/) | Medium | java |
 
+## Hash Function
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | java |
+
 ## Hash Table
 
 | # | Title | Difficulty | Language |
@@ -302,6 +319,7 @@
 | 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | java |
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | java |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | java |
+| 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | java |
 | 202 | [Happy Number](./202-happy-number/) | Easy | java |
 | 355 | [Design Twitter](./355-design-twitter/) | Medium | java |
 | 398 | [Random Pick Index](./398-random-pick-index/) | Medium | java |
@@ -425,6 +443,12 @@
 |---|-------|------------|----------|
 | 398 | [Random Pick Index](./398-random-pick-index/) | Medium | java |
 
+## Rolling Hash
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | java |
+
 ## Segment Tree
 
 | # | Title | Difficulty | Language |
@@ -447,6 +471,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
+| 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | java |
 | 480 | [Sliding Window Median](./480-sliding-window-median/) | Hard | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium | java |
@@ -494,6 +519,7 @@
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | java |
 | 79 | [Word Search](./79-word-search/) | Medium | java |
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | java |
+| 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | java |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 1446 | [Consecutive Characters](./1446-consecutive-characters/) | Easy | java |
@@ -538,6 +564,12 @@
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | java |
+
+## Z Algorithm
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | java |
 
 ## Zero-Sum Game
 
@@ -584,6 +616,7 @@
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | String, Dynamic Programming | java |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | Array, Hash Table, Union-Find | java |
 | 177 | [Nth Highest Salary](./177-nth-highest-salary/) | Medium | Database | mysql |
+| 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | Hash Table, String, Bit Manipulation, Sliding Window, Rolling Hash, Hash Function, Z Algorithm, Boyer–Moore String-Search Algorithm | java |
 | 202 | [Happy Number](./202-happy-number/) | Easy | Hash Table, Math, Two Pointers, Floyd's Cycle Finding Algorithm | java |
 | 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Sweep Line, Sorting, Heap (Priority Queue), Ordered Set | java |
 | 295 | [Find Median from Data Stream](./295-find-median-from-data-stream/) | Hard | Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream | java |
