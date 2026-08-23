@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **88** problems solved
+> **89** problems solved
 
 ## Topics
 
@@ -57,7 +57,7 @@
 - [Union-Find](#union-find) (3)
 - [Z Algorithm](#z-algorithm) (1)
 - [Zero-Sum Game](#zero-sum-game) (1)
-- [Uncategorized](#uncategorized) (17)
+- [Uncategorized](#uncategorized) (18)
 - [All Problems](#all-problems)
 
 ## Algorithm X
@@ -585,6 +585,7 @@
 | 4010 | [Maximize Pair Strength Using GCD](./4010-maximize-pair-strength-using-gcd/) | Easy | java |
 | 4012 | [Count of Unfinished Tasks After Each Shift](./4012-count-of-unfinished-tasks-after-each-shift/) | Medium | java |
 | 4012 | [Count of Unfinished Tasks After Each Shift](./4012-count-subarrays-with-even-odd-ratio-ii/) | Medium | java |
+| 4030 | [Check ASCII Palindromic](./4030-check-ascii-palindromic/) | Easy | java |
 | 101110 | [Minimum Initial Strength to Defeat All Monsters](./101110-minimum-initial-strength-to-defeat-all-monsters/) | Medium | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-aggregate-two-time-series/) | Easy | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-count-valid-sequences/) | Easy | java |
@@ -678,6 +679,7 @@
 | 4010 | [Maximize Pair Strength Using GCD](./4010-maximize-pair-strength-using-gcd/) | Easy | - | java |
 | 4012 | [Count of Unfinished Tasks After Each Shift](./4012-count-of-unfinished-tasks-after-each-shift/) | Medium | - | java |
 | 4012 | [Count of Unfinished Tasks After Each Shift](./4012-count-subarrays-with-even-odd-ratio-ii/) | Medium | - | java |
+| 4030 | [Check ASCII Palindromic](./4030-check-ascii-palindromic/) | Easy | - | java |
 | 101110 | [Minimum Initial Strength to Defeat All Monsters](./101110-minimum-initial-strength-to-defeat-all-monsters/) | Medium | - | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-aggregate-two-time-series/) | Easy | - | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-count-valid-sequences/) | Easy | - | java |
