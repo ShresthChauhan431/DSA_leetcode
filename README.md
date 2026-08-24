@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **89** problems solved
+> **90** problems solved
 
 ## Topics
 
@@ -8,10 +8,10 @@
 - [Array](#array) (41)
 - [Backtracking](#backtracking) (6)
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
-- [Binary Search](#binary-search) (3)
+- [Binary Search](#binary-search) (4)
 - [Bit Manipulation](#bit-manipulation) (6)
 - [Bitmask](#bitmask) (2)
-- [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (1)
+- [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
 - [Breadth-First Search](#breadth-first-search) (3)
 - [Counting](#counting) (4)
 - [Counting Sort](#counting-sort) (1)
@@ -28,7 +28,7 @@
 - [Game Theory](#game-theory) (4)
 - [Graph Theory](#graph-theory) (3)
 - [Greedy](#greedy) (6)
-- [Hash Function](#hash-function) (1)
+- [Hash Function](#hash-function) (2)
 - [Hash Table](#hash-table) (24)
 - [Heap (Priority Queue)](#heap-priority-queue) (6)
 - [Linked List](#linked-list) (3)
@@ -43,19 +43,22 @@
 - [Randomized](#randomized) (1)
 - [Recursion](#recursion) (1)
 - [Reservoir Sampling](#reservoir-sampling) (1)
-- [Rolling Hash](#rolling-hash) (1)
+- [Rolling Hash](#rolling-hash) (2)
 - [Segment Tree](#segment-tree) (4)
 - [Simulation](#simulation) (3)
-- [Sliding Window](#sliding-window) (6)
+- [Sliding Window](#sliding-window) (7)
 - [Sorting](#sorting) (16)
 - [Sqrt Decomposition](#sqrt-decomposition) (1)
 - [Stack](#stack) (1)
-- [String](#string) (16)
+- [String](#string) (17)
+- [Suffix Array](#suffix-array) (1)
+- [Suffix Automaton](#suffix-automaton) (1)
+- [Suffix Tree](#suffix-tree) (1)
 - [Sweep Line](#sweep-line) (1)
 - [Treap](#treap) (2)
 - [Two Pointers](#two-pointers) (8)
 - [Union-Find](#union-find) (3)
-- [Z Algorithm](#z-algorithm) (1)
+- [Z Algorithm](#z-algorithm) (2)
 - [Zero-Sum Game](#zero-sum-game) (1)
 - [Uncategorized](#uncategorized) (18)
 - [All Problems](#all-problems)
@@ -139,6 +142,7 @@
 |---|-------|------------|----------|
 | 315 | [Count of Smaller Numbers After Self](./315-count-of-smaller-numbers-after-self/) | Hard | java |
 | 875 | [Koko Eating Bananas](./875-split-array-largest-sum/) | Medium | java |
+| 1044 | [Longest Duplicate Substring](./1044-longest-duplicate-substring/) | Hard | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | java |
 
 ## Bit Manipulation
@@ -164,6 +168,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | java |
+| 1044 | [Longest Duplicate Substring](./1044-longest-duplicate-substring/) | Hard | java |
 
 ## Breadth-First Search
 
@@ -309,6 +314,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | java |
+| 1044 | [Longest Duplicate Substring](./1044-longest-duplicate-substring/) | Hard | java |
 
 ## Hash Table
 
@@ -448,6 +454,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | java |
+| 1044 | [Longest Duplicate Substring](./1044-longest-duplicate-substring/) | Hard | java |
 
 ## Segment Tree
 
@@ -474,6 +481,7 @@
 | 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | java |
 | 480 | [Sliding Window Median](./480-sliding-window-median/) | Hard | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
+| 1044 | [Longest Duplicate Substring](./1044-longest-duplicate-substring/) | Hard | java |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium | java |
 | 3090 | [Maximum Length Substring With Two Occurrences](./3090-maximum-length-substring-with-two-occurrences/) | Easy | java |
 
@@ -521,6 +529,7 @@
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | java |
 | 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | java |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | java |
+| 1044 | [Longest Duplicate Substring](./1044-longest-duplicate-substring/) | Hard | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 1446 | [Consecutive Characters](./1446-consecutive-characters/) | Easy | java |
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | java |
@@ -530,6 +539,24 @@
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | java |
 | 3090 | [Maximum Length Substring With Two Occurrences](./3090-maximum-length-substring-with-two-occurrences/) | Easy | java |
 | 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i/) | Medium | java |
+
+## Suffix Array
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 1044 | [Longest Duplicate Substring](./1044-longest-duplicate-substring/) | Hard | java |
+
+## Suffix Automaton
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 1044 | [Longest Duplicate Substring](./1044-longest-duplicate-substring/) | Hard | java |
+
+## Suffix Tree
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 1044 | [Longest Duplicate Substring](./1044-longest-duplicate-substring/) | Hard | java |
 
 ## Sweep Line
 
@@ -570,6 +597,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | java |
+| 1044 | [Longest Duplicate Substring](./1044-longest-duplicate-substring/) | Hard | java |
 
 ## Zero-Sum Game
 
@@ -641,6 +669,7 @@
 | 877 | [Stone Game](./877-stone-game/) | Medium | Array, Math, Dynamic Programming, Minimax, Game Theory, Zero-Sum Game | java |
 | 983 | [Minimum Cost For Tickets](./983-minimum-cost-for-tickets/) | Medium | Array, Dynamic Programming | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | Array, Hash Table, Sliding Window, Counting | java |
+| 1044 | [Longest Duplicate Substring](./1044-longest-duplicate-substring/) | Hard | String, Binary Search, Sliding Window, Rolling Hash, Suffix Array, Hash Function, Suffix Automaton, Suffix Tree, Z Algorithm, Boyer–Moore String-Search Algorithm | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting | java |
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | Array, Matrix, Prefix Sum | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory | java |
