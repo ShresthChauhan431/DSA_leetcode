@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **90** problems solved
+> **91** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (41)
+- [Array](#array) (42)
 - [Backtracking](#backtracking) (6)
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (4)
@@ -29,7 +29,7 @@
 - [Graph Theory](#graph-theory) (3)
 - [Greedy](#greedy) (6)
 - [Hash Function](#hash-function) (2)
-- [Hash Table](#hash-table) (24)
+- [Hash Table](#hash-table) (25)
 - [Heap (Priority Queue)](#heap-priority-queue) (6)
 - [Linked List](#linked-list) (3)
 - [Math](#math) (12)
@@ -115,6 +115,7 @@
 | 3107 | [Minimum Operations to Make Median of Array Equal to K](./3107-minimum-operations-to-make-median-of-array-equal-to-k/) | Medium | java |
 | 3238 | [Find the Number of Winning Players](./3238-find-the-number-of-winning-players/) | Easy | java |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](./3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium | java |
+| 3718 | [Smallest Missing Multiple of K](./3718-smallest-missing-multiple-of-k/) | Easy | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
 
 ## Backtracking
@@ -343,6 +344,7 @@
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | java |
 | 3090 | [Maximum Length Substring With Two Occurrences](./3090-maximum-length-substring-with-two-occurrences/) | Easy | java |
 | 3238 | [Find the Number of Winning Players](./3238-find-the-number-of-winning-players/) | Easy | java |
+| 3718 | [Smallest Missing Multiple of K](./3718-smallest-missing-multiple-of-k/) | Easy | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
 
 ## Heap (Priority Queue)
@@ -703,6 +705,7 @@
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | Math, Sorting | java |
 | 3622 | [Check Divisibility by Digit Sum and Product](./3622-check-divisibility-by-digit-sum-and-product/) | Easy | Math | java |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](./3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium | Array, Bit Manipulation | java |
+| 3718 | [Smallest Missing Multiple of K](./3718-smallest-missing-multiple-of-k/) | Easy | Array, Hash Table | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | Array, Hash Table, Sorting | java |
 | 4010 | [Maximize Pair Strength Using GCD](./4010-count-subarrays-with-even-odd-ratio-i/) | Easy | - | java |
 | 4010 | [Maximize Pair Strength Using GCD](./4010-maximize-pair-strength-using-gcd/) | Easy | - | java |
