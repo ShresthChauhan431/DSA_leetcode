@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **91** problems solved
+> **92** problems solved
 
 ## Topics
 
@@ -46,11 +46,11 @@
 - [Rolling Hash](#rolling-hash) (2)
 - [Segment Tree](#segment-tree) (4)
 - [Simulation](#simulation) (3)
-- [Sliding Window](#sliding-window) (7)
+- [Sliding Window](#sliding-window) (8)
 - [Sorting](#sorting) (16)
 - [Sqrt Decomposition](#sqrt-decomposition) (1)
 - [Stack](#stack) (1)
-- [String](#string) (17)
+- [String](#string) (18)
 - [Suffix Array](#suffix-array) (1)
 - [Suffix Automaton](#suffix-automaton) (1)
 - [Suffix Tree](#suffix-tree) (1)
@@ -484,6 +484,7 @@
 | 480 | [Sliding Window Median](./480-sliding-window-median/) | Hard | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
 | 1044 | [Longest Duplicate Substring](./1044-longest-duplicate-substring/) | Hard | java |
+| 2904 | [Shortest and Lexicographically Smallest Beautiful String](./2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium | java |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium | java |
 | 3090 | [Maximum Length Substring With Two Occurrences](./3090-maximum-length-substring-with-two-occurrences/) | Easy | java |
 
@@ -537,6 +538,7 @@
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | java |
 | 2213 | [Longest Substring of One Repeating Character](./2213-longest-substring-of-one-repeating-character/) | Hard | java |
 | 2423 | [Remove Letter To Equalize Frequency](./2423-remove-letter-to-equalize-frequency/) | Easy | java |
+| 2904 | [Shortest and Lexicographically Smallest Beautiful String](./2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | java |
 | 3090 | [Maximum Length Substring With Two Occurrences](./3090-maximum-length-substring-with-two-occurrences/) | Easy | java |
@@ -691,6 +693,7 @@
 | 2591 | [Distribute Money to Maximum Children](./2591-distribute-money-to-maximum-children/) | Easy | Math, Greedy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | Array, Dynamic Programming | java |
+| 2904 | [Shortest and Lexicographically Smallest Beautiful String](./2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium | String, Sliding Window | java |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium | Array, Hash Table, Sliding Window | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | Math, String, Greedy | java |
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | Hash Table, String, Greedy, Sorting, Counting | java |
