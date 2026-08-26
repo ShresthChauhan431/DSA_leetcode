@@ -1,0 +1,11 @@
+Example 1:
+Input: s = "100011001", k = 3
+Output: "11001"
+
+Example 2:
+Input: s = "1011", k = 2
+Output: "11"
+
+Example 3:
+Input: s = "000", k = 1
+Output: ""
