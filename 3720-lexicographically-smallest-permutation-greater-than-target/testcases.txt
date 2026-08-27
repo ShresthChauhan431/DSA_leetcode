@@ -1,0 +1,11 @@
+Example 1:
+Input: s = "abc", target = "bba"
+Output: "bca"
+
+Example 2:
+Input: s = "leet", target = "code"
+Output: "eelt"
+
+Example 3:
+Input: s = "baba", target = "bbaa"
+Output: ""
