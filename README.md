@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **93** problems solved
+> **94** problems solved
 
 ## Topics
 
@@ -9,16 +9,17 @@
 - [Backtracking](#backtracking) (6)
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (4)
+- [Binary Tree](#binary-tree) (1)
 - [Bit Manipulation](#bit-manipulation) (6)
 - [Bitmask](#bitmask) (2)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
-- [Breadth-First Search](#breadth-first-search) (3)
+- [Breadth-First Search](#breadth-first-search) (4)
 - [Counting](#counting) (5)
 - [Counting Sort](#counting-sort) (1)
 - [Dancing Links](#dancing-links) (1)
 - [Data Stream](#data-stream) (1)
 - [Database](#database) (3)
-- [Depth-First Search](#depth-first-search) (4)
+- [Depth-First Search](#depth-first-search) (5)
 - [Design](#design) (5)
 - [Divide and Conquer](#divide-and-conquer) (3)
 - [Doubly-Linked List](#doubly-linked-list) (2)
@@ -56,6 +57,7 @@
 - [Suffix Tree](#suffix-tree) (1)
 - [Sweep Line](#sweep-line) (1)
 - [Treap](#treap) (2)
+- [Tree](#tree) (1)
 - [Two Pointers](#two-pointers) (8)
 - [Union-Find](#union-find) (3)
 - [Z Algorithm](#z-algorithm) (2)
@@ -146,6 +148,12 @@
 | 1044 | [Longest Duplicate Substring](./1044-longest-duplicate-substring/) | Hard | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | java |
 
+## Binary Tree
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 637 | [Average of Levels in Binary Tree](./637-average-of-levels-in-binary-tree/) | Easy | java |
+
 ## Bit Manipulation
 
 | # | Title | Difficulty | Language |
@@ -175,6 +183,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 637 | [Average of Levels in Binary Tree](./637-average-of-levels-in-binary-tree/) | Easy | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | java |
 | 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | Medium | java |
@@ -220,6 +229,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 79 | [Word Search](./79-word-search/) | Medium | java |
+| 637 | [Average of Levels in Binary Tree](./637-average-of-levels-in-binary-tree/) | Easy | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | java |
 | 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | Medium | java |
@@ -580,6 +590,12 @@
 | 315 | [Count of Smaller Numbers After Self](./315-count-of-smaller-numbers-after-self/) | Hard | java |
 | 480 | [Sliding Window Median](./480-sliding-window-median/) | Hard | java |
 
+## Tree
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 637 | [Average of Levels in Binary Tree](./637-average-of-levels-in-binary-tree/) | Easy | java |
+
 ## Two Pointers
 
 | # | Title | Difficulty | Language |
@@ -671,6 +687,7 @@
 | 518 | [Coin Change II](./518-coin-change-ii/) | Medium | Array, Dynamic Programming | java |
 | 577 | [Employee Bonus](./577-employee-bonus/) | Easy | Database | mysql |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | Array, Math, Sorting | java |
+| 637 | [Average of Levels in Binary Tree](./637-average-of-levels-in-binary-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | Hash Table, Linked List, Design, Doubly-Linked List | java |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | String, Dynamic Programming | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | Array, Hash Table, Dynamic Programming | java |
