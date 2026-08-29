@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **95** problems solved
+> **96** problems solved
 
 ## Topics
 
@@ -62,7 +62,7 @@
 - [Union-Find](#union-find) (4)
 - [Z Algorithm](#z-algorithm) (2)
 - [Zero-Sum Game](#zero-sum-game) (1)
-- [Uncategorized](#uncategorized) (18)
+- [Uncategorized](#uncategorized) (19)
 - [All Problems](#all-problems)
 
 ## Algorithm X
@@ -655,6 +655,7 @@
 | 101139 | [Nearest Available Drone](./101139-nearest-available-drone/) | Easy | java |
 | 101145 | [Elevator Requests I](./101145-elevator-requests-i/) | Easy | java |
 | 101145 | [Elevator Requests I](./101145-minimum-operations-to-make-a-rotated-palindrome-i/) | Easy | java |
+| 101151 | [Minimum Bishop Moves to Reach Target](./101151-minimum-bishop-moves-to-reach-target/) | Medium | java |
 
 ## All Problems
 
@@ -755,6 +756,7 @@
 | 101139 | [Nearest Available Drone](./101139-nearest-available-drone/) | Easy | - | java |
 | 101145 | [Elevator Requests I](./101145-elevator-requests-i/) | Easy | - | java |
 | 101145 | [Elevator Requests I](./101145-minimum-operations-to-make-a-rotated-palindrome-i/) | Easy | - | java |
+| 101151 | [Minimum Bishop Moves to Reach Target](./101151-minimum-bishop-moves-to-reach-target/) | Medium | - | java |
 
 ---
 
