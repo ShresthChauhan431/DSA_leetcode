@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **97** problems solved
+> **98** problems solved
 
 ## Topics
 
@@ -62,7 +62,7 @@
 - [Union-Find](#union-find) (4)
 - [Z Algorithm](#z-algorithm) (2)
 - [Zero-Sum Game](#zero-sum-game) (1)
-- [Uncategorized](#uncategorized) (20)
+- [Uncategorized](#uncategorized) (21)
 - [All Problems](#all-problems)
 
 ## Algorithm X
@@ -642,6 +642,7 @@
 | 4012 | [Count of Unfinished Tasks After Each Shift](./4012-count-of-unfinished-tasks-after-each-shift/) | Medium | java |
 | 4012 | [Count of Unfinished Tasks After Each Shift](./4012-count-subarrays-with-even-odd-ratio-ii/) | Medium | java |
 | 4030 | [Check ASCII Palindromic](./4030-check-ascii-palindromic/) | Easy | java |
+| 4038 | [Count Integers Appearing in a Single Block](./4038-count-integers-appearing-in-a-single-block/) | Easy | java |
 | 101110 | [Minimum Initial Strength to Defeat All Monsters](./101110-minimum-initial-strength-to-defeat-all-monsters/) | Medium | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-aggregate-two-time-series/) | Easy | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-count-valid-sequences/) | Easy | java |
@@ -744,6 +745,7 @@
 | 4012 | [Count of Unfinished Tasks After Each Shift](./4012-count-of-unfinished-tasks-after-each-shift/) | Medium | - | java |
 | 4012 | [Count of Unfinished Tasks After Each Shift](./4012-count-subarrays-with-even-odd-ratio-ii/) | Medium | - | java |
 | 4030 | [Check ASCII Palindromic](./4030-check-ascii-palindromic/) | Easy | - | java |
+| 4038 | [Count Integers Appearing in a Single Block](./4038-count-integers-appearing-in-a-single-block/) | Easy | - | java |
 | 101110 | [Minimum Initial Strength to Defeat All Monsters](./101110-minimum-initial-strength-to-defeat-all-monsters/) | Medium | - | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-aggregate-two-time-series/) | Easy | - | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-count-valid-sequences/) | Easy | - | java |
