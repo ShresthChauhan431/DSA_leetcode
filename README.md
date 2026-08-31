@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **98** problems solved
+> **99** problems solved
 
 ## Topics
 
@@ -32,7 +32,7 @@
 - [Hash Function](#hash-function) (2)
 - [Hash Table](#hash-table) (26)
 - [Heap (Priority Queue)](#heap-priority-queue) (6)
-- [Linked List](#linked-list) (3)
+- [Linked List](#linked-list) (4)
 - [Math](#math) (12)
 - [Matrix](#matrix) (4)
 - [Meet in the Middle](#meet-in-the-middle) (2)
@@ -380,6 +380,7 @@
 | 355 | [Design Twitter](./355-design-twitter/) | Medium | java |
 | 460 | [LFU Cache](./460-lfu-cache/) | Hard | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
+| 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](./2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | java |
 
 ## Math
 
@@ -712,6 +713,7 @@
 | 1683 | [Invalid Tweets](./1683-invalid-tweets/) | Easy | Database | mysql |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | Array, Two Pointers, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Bitmask | java |
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | Hash Table, String | java |
+| 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](./2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | Linked List | java |
 | 2213 | [Longest Substring of One Repeating Character](./2213-longest-substring-of-one-repeating-character/) | Hard | Array, String, Segment Tree, Ordered Set | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | Array, Two Pointers, Binary Search, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Ordered Set, Bitmask | java |
