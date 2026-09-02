@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **99** problems solved
+> **100** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (43)
+- [Array](#array) (44)
 - [Backtracking](#backtracking) (6)
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (4)
@@ -33,7 +33,7 @@
 - [Hash Table](#hash-table) (26)
 - [Heap (Priority Queue)](#heap-priority-queue) (6)
 - [Linked List](#linked-list) (4)
-- [Math](#math) (12)
+- [Math](#math) (13)
 - [Matrix](#matrix) (4)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Merge Sort](#merge-sort) (1)
@@ -120,6 +120,7 @@
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](./3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium | java |
 | 3718 | [Smallest Missing Multiple of K](./3718-smallest-missing-multiple-of-k/) | Easy | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
+| 3875 | [Construct Uniform Parity Array I](./3875-construct-uniform-parity-array-i/) | Easy | java |
 
 ## Backtracking
 
@@ -398,6 +399,7 @@
 | 3345 | [Smallest Divisible Digit Product I](./3345-smallest-divisible-digit-product-i/) | Easy | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | java |
 | 3622 | [Check Divisibility by Digit Sum and Product](./3622-check-divisibility-by-digit-sum-and-product/) | Easy | java |
+| 3875 | [Construct Uniform Parity Array I](./3875-construct-uniform-parity-array-i/) | Easy | java |
 
 ## Matrix
 
@@ -742,6 +744,7 @@
 | 3718 | [Smallest Missing Multiple of K](./3718-smallest-missing-multiple-of-k/) | Easy | Array, Hash Table | java |
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](./3720-lexicographically-smallest-permutation-greater-than-target/) | Medium | Hash Table, String, Greedy, Counting, Enumeration | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | Array, Hash Table, Sorting | java |
+| 3875 | [Construct Uniform Parity Array I](./3875-construct-uniform-parity-array-i/) | Easy | Array, Math | java |
 | 4010 | [Maximize Pair Strength Using GCD](./4010-count-subarrays-with-even-odd-ratio-i/) | Easy | - | java |
 | 4010 | [Maximize Pair Strength Using GCD](./4010-maximize-pair-strength-using-gcd/) | Easy | - | java |
 | 4012 | [Count of Unfinished Tasks After Each Shift](./4012-count-of-unfinished-tasks-after-each-shift/) | Medium | - | java |
