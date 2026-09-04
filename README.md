@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **101** problems solved
+> **102** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (45)
+- [Array](#array) (46)
 - [Backtracking](#backtracking) (6)
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (4)
@@ -40,7 +40,7 @@
 - [Minimax](#minimax) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
 - [Ordered Set](#ordered-set) (4)
-- [Prefix Sum](#prefix-sum) (2)
+- [Prefix Sum](#prefix-sum) (3)
 - [Randomized](#randomized) (1)
 - [Recursion](#recursion) (1)
 - [Reservoir Sampling](#reservoir-sampling) (1)
@@ -122,6 +122,7 @@
 | 3718 | [Smallest Missing Multiple of K](./3718-smallest-missing-multiple-of-k/) | Easy | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
 | 3875 | [Construct Uniform Parity Array I](./3875-construct-uniform-parity-array-i/) | Easy | java |
+| 3903 | [Smallest Stable Index I](./3903-smallest-stable-index-i/) | Easy | java |
 
 ## Backtracking
 
@@ -455,6 +456,7 @@
 |---|-------|------------|----------|
 | 875 | [Koko Eating Bananas](./875-split-array-largest-sum/) | Medium | java |
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | java |
+| 3903 | [Smallest Stable Index I](./3903-smallest-stable-index-i/) | Easy | java |
 
 ## Randomized
 
@@ -751,6 +753,7 @@
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](./3720-lexicographically-smallest-permutation-greater-than-target/) | Medium | Hash Table, String, Greedy, Counting, Enumeration | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | Array, Hash Table, Sorting | java |
 | 3875 | [Construct Uniform Parity Array I](./3875-construct-uniform-parity-array-i/) | Easy | Array, Math | java |
+| 3903 | [Smallest Stable Index I](./3903-smallest-stable-index-i/) | Easy | Array, Prefix Sum | java |
 | 4010 | [Maximize Pair Strength Using GCD](./4010-count-subarrays-with-even-odd-ratio-i/) | Easy | - | java |
 | 4010 | [Maximize Pair Strength Using GCD](./4010-maximize-pair-strength-using-gcd/) | Easy | - | java |
 | 4012 | [Count of Unfinished Tasks After Each Shift](./4012-count-of-unfinished-tasks-after-each-shift/) | Medium | - | java |
