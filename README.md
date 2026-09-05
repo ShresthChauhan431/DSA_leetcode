@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **102** problems solved
+> **103** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (46)
+- [Array](#array) (47)
 - [Backtracking](#backtracking) (6)
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (4)
@@ -40,7 +40,7 @@
 - [Minimax](#minimax) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
 - [Ordered Set](#ordered-set) (4)
-- [Prefix Sum](#prefix-sum) (3)
+- [Prefix Sum](#prefix-sum) (4)
 - [Randomized](#randomized) (1)
 - [Recursion](#recursion) (1)
 - [Reservoir Sampling](#reservoir-sampling) (1)
@@ -123,6 +123,7 @@
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
 | 3875 | [Construct Uniform Parity Array I](./3875-construct-uniform-parity-array-i/) | Easy | java |
 | 3903 | [Smallest Stable Index I](./3903-smallest-stable-index-i/) | Easy | java |
+| 3904 | [Smallest Stable Index II](./3904-smallest-stable-index-ii/) | Medium | java |
 
 ## Backtracking
 
@@ -457,6 +458,7 @@
 | 875 | [Koko Eating Bananas](./875-split-array-largest-sum/) | Medium | java |
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | java |
 | 3903 | [Smallest Stable Index I](./3903-smallest-stable-index-i/) | Easy | java |
+| 3904 | [Smallest Stable Index II](./3904-smallest-stable-index-ii/) | Medium | java |
 
 ## Randomized
 
@@ -754,6 +756,7 @@
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | Array, Hash Table, Sorting | java |
 | 3875 | [Construct Uniform Parity Array I](./3875-construct-uniform-parity-array-i/) | Easy | Array, Math | java |
 | 3903 | [Smallest Stable Index I](./3903-smallest-stable-index-i/) | Easy | Array, Prefix Sum | java |
+| 3904 | [Smallest Stable Index II](./3904-smallest-stable-index-ii/) | Medium | Array, Prefix Sum | java |
 | 4010 | [Maximize Pair Strength Using GCD](./4010-count-subarrays-with-even-odd-ratio-i/) | Easy | - | java |
 | 4010 | [Maximize Pair Strength Using GCD](./4010-maximize-pair-strength-using-gcd/) | Easy | - | java |
 | 4012 | [Count of Unfinished Tasks After Each Shift](./4012-count-of-unfinished-tasks-after-each-shift/) | Medium | - | java |
