@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **105** problems solved
+> **106** problems solved
 
 ## Topics
 
@@ -62,7 +62,7 @@
 - [Union-Find](#union-find) (4)
 - [Z Algorithm](#z-algorithm) (2)
 - [Zero-Sum Game](#zero-sum-game) (1)
-- [Uncategorized](#uncategorized) (23)
+- [Uncategorized](#uncategorized) (24)
 - [All Problems](#all-problems)
 
 ## Algorithm X
@@ -656,6 +656,7 @@
 | 4030 | [Check ASCII Palindromic](./4030-check-ascii-palindromic/) | Easy | java |
 | 4038 | [Count Integers Appearing in a Single Block](./4038-count-integers-appearing-in-a-single-block/) | Easy | java |
 | 4043 | [Count Rotations With Exactly K Equal Adjacent Pairs](./4043-count-good-cyclic-rotations/) | Easy | java |
+| 4043 | [Count Rotations With Exactly K Equal Adjacent Pairs](./4043-count-robot-groups/) | Easy | java |
 | 4043 | [Count Rotations With Exactly K Equal Adjacent Pairs](./4043-count-rotations-with-exactly-k-equal-adjacent-pairs/) | Easy | java |
 | 101110 | [Minimum Initial Strength to Defeat All Monsters](./101110-minimum-initial-strength-to-defeat-all-monsters/) | Medium | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-aggregate-two-time-series/) | Easy | java |
@@ -766,6 +767,7 @@
 | 4030 | [Check ASCII Palindromic](./4030-check-ascii-palindromic/) | Easy | - | java |
 | 4038 | [Count Integers Appearing in a Single Block](./4038-count-integers-appearing-in-a-single-block/) | Easy | - | java |
 | 4043 | [Count Rotations With Exactly K Equal Adjacent Pairs](./4043-count-good-cyclic-rotations/) | Easy | - | java |
+| 4043 | [Count Rotations With Exactly K Equal Adjacent Pairs](./4043-count-robot-groups/) | Easy | - | java |
 | 4043 | [Count Rotations With Exactly K Equal Adjacent Pairs](./4043-count-rotations-with-exactly-k-equal-adjacent-pairs/) | Easy | - | java |
 | 101110 | [Minimum Initial Strength to Defeat All Monsters](./101110-minimum-initial-strength-to-defeat-all-monsters/) | Medium | - | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-aggregate-two-time-series/) | Easy | - | java |
