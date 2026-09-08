@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **106** problems solved
+> **107** problems solved
 
 ## Topics
 
@@ -33,7 +33,7 @@
 - [Hash Table](#hash-table) (27)
 - [Heap (Priority Queue)](#heap-priority-queue) (6)
 - [Linked List](#linked-list) (4)
-- [Math](#math) (13)
+- [Math](#math) (14)
 - [Matrix](#matrix) (5)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Merge Sort](#merge-sort) (1)
@@ -405,6 +405,7 @@
 | 3345 | [Smallest Divisible Digit Product I](./3345-smallest-divisible-digit-product-i/) | Easy | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | java |
 | 3622 | [Check Divisibility by Digit Sum and Product](./3622-check-divisibility-by-digit-sum-and-product/) | Easy | java |
+| 3870 | [Count Commas in Range](./3870-count-commas-in-range/) | Easy | java |
 | 3875 | [Construct Uniform Parity Array I](./3875-construct-uniform-parity-array-i/) | Easy | java |
 
 ## Matrix
@@ -757,6 +758,7 @@
 | 3718 | [Smallest Missing Multiple of K](./3718-smallest-missing-multiple-of-k/) | Easy | Array, Hash Table | java |
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](./3720-lexicographically-smallest-permutation-greater-than-target/) | Medium | Hash Table, String, Greedy, Counting, Enumeration | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | Array, Hash Table, Sorting | java |
+| 3870 | [Count Commas in Range](./3870-count-commas-in-range/) | Easy | Math | java |
 | 3875 | [Construct Uniform Parity Array I](./3875-construct-uniform-parity-array-i/) | Easy | Array, Math | java |
 | 3903 | [Smallest Stable Index I](./3903-smallest-stable-index-i/) | Easy | Array, Prefix Sum | java |
 | 3904 | [Smallest Stable Index II](./3904-smallest-stable-index-ii/) | Medium | Array, Prefix Sum | java |
