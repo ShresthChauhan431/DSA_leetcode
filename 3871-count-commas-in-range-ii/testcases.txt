@@ -1,0 +1,7 @@
+Example 1:
+Input: n = 1002
+Output: 3
+
+Example 2:
+Input: n = 998
+Output: 0
