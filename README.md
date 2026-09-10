@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **109** problems solved
+> **110** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (47)
+- [Array](#array) (48)
 - [Backtracking](#backtracking) (6)
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (4)
@@ -23,12 +23,12 @@
 - [Design](#design) (5)
 - [Divide and Conquer](#divide-and-conquer) (3)
 - [Doubly-Linked List](#doubly-linked-list) (2)
-- [Dynamic Programming](#dynamic-programming) (16)
+- [Dynamic Programming](#dynamic-programming) (17)
 - [Enumeration](#enumeration) (3)
 - [Floyd's Cycle Finding Algorithm](#floyd-s-cycle-finding-algorithm) (1)
 - [Game Theory](#game-theory) (4)
 - [Graph Theory](#graph-theory) (3)
-- [Greedy](#greedy) (7)
+- [Greedy](#greedy) (8)
 - [Hash Function](#hash-function) (2)
 - [Hash Table](#hash-table) (27)
 - [Heap (Priority Queue)](#heap-priority-queue) (6)
@@ -82,6 +82,7 @@
 | 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | java |
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | java |
 | 51 | [N-Queens](./51-n-queens/) | Hard | java |
+| 55 | [Jump Game](./55-jump-game/) | Medium | java |
 | 56 | [Merge Intervals](./56-merge-intervals/) | Medium | java |
 | 79 | [Word Search](./79-word-search/) | Medium | java |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | java |
@@ -272,6 +273,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 55 | [Jump Game](./55-jump-game/) | Medium | java |
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | java |
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | java |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | java |
@@ -324,6 +326,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 55 | [Jump Game](./55-jump-game/) | Medium | java |
 | 875 | [Koko Eating Bananas](./875-split-array-largest-sum/) | Medium | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-container-with-most-water/) | Easy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-distribute-money-to-maximum-children/) | Easy | java |
@@ -690,6 +693,7 @@
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | Array, Hash Table, String, Sorting | java |
 | 51 | [N-Queens](./51-n-queens/) | Hard | Array, Backtracking, Algorithm X | java |
 | 52 | [N-Queens II](./52-n-queens-ii/) | Hard | Backtracking, Algorithm X | java |
+| 55 | [Jump Game](./55-jump-game/) | Medium | Array, Dynamic Programming, Greedy | java |
 | 56 | [Merge Intervals](./56-merge-intervals/) | Medium | Array, Sorting | java |
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | String, Dynamic Programming | java |
 | 79 | [Word Search](./79-word-search/) | Medium | Array, String, Backtracking, Depth-First Search, Matrix | java |
