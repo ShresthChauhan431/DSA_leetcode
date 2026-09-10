@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **108** problems solved
+> **109** problems solved
 
 ## Topics
 
@@ -9,7 +9,7 @@
 - [Backtracking](#backtracking) (6)
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (4)
-- [Binary Tree](#binary-tree) (1)
+- [Binary Tree](#binary-tree) (2)
 - [Bit Manipulation](#bit-manipulation) (7)
 - [Bitmask](#bitmask) (2)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
@@ -19,7 +19,7 @@
 - [Dancing Links](#dancing-links) (1)
 - [Data Stream](#data-stream) (1)
 - [Database](#database) (3)
-- [Depth-First Search](#depth-first-search) (5)
+- [Depth-First Search](#depth-first-search) (6)
 - [Design](#design) (5)
 - [Divide and Conquer](#divide-and-conquer) (3)
 - [Doubly-Linked List](#doubly-linked-list) (2)
@@ -57,7 +57,7 @@
 - [Suffix Tree](#suffix-tree) (1)
 - [Sweep Line](#sweep-line) (1)
 - [Treap](#treap) (2)
-- [Tree](#tree) (1)
+- [Tree](#tree) (2)
 - [Two Pointers](#two-pointers) (8)
 - [Union-Find](#union-find) (4)
 - [Z Algorithm](#z-algorithm) (2)
@@ -158,6 +158,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 637 | [Average of Levels in Binary Tree](./637-average-of-levels-in-binary-tree/) | Easy | java |
+| 2265 | [Count Nodes Equal to Average of Subtree](./2265-count-nodes-equal-to-average-of-subtree/) | Medium | java |
 
 ## Bit Manipulation
 
@@ -238,6 +239,7 @@
 | 79 | [Word Search](./79-word-search/) | Medium | java |
 | 637 | [Average of Levels in Binary Tree](./637-average-of-levels-in-binary-tree/) | Easy | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
+| 2265 | [Count Nodes Equal to Average of Subtree](./2265-count-nodes-equal-to-average-of-subtree/) | Medium | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | java |
 | 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | Medium | java |
 
@@ -611,6 +613,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 637 | [Average of Levels in Binary Tree](./637-average-of-levels-in-binary-tree/) | Easy | java |
+| 2265 | [Count Nodes Equal to Average of Subtree](./2265-count-nodes-equal-to-average-of-subtree/) | Medium | java |
 
 ## Two Pointers
 
@@ -731,6 +734,7 @@
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | Hash Table, String | java |
 | 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](./2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | Linked List | java |
 | 2213 | [Longest Substring of One Repeating Character](./2213-longest-substring-of-one-repeating-character/) | Hard | Array, String, Segment Tree, Ordered Set | java |
+| 2265 | [Count Nodes Equal to Average of Subtree](./2265-count-nodes-equal-to-average-of-subtree/) | Medium | Tree, Depth-First Search, Binary Tree | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | Array, Two Pointers, Binary Search, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Ordered Set, Bitmask | java |
 | 2402 | [Meeting Rooms III](./2402-meeting-rooms-iii/) | Hard | Array, Hash Table, Sorting, Heap (Priority Queue), Simulation | java |
