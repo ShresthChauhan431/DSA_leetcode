@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **111** problems solved
+> **112** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (49)
+- [Array](#array) (50)
 - [Backtracking](#backtracking) (6)
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (4)
@@ -24,13 +24,13 @@
 - [Divide and Conquer](#divide-and-conquer) (3)
 - [Doubly-Linked List](#doubly-linked-list) (2)
 - [Dynamic Programming](#dynamic-programming) (18)
-- [Enumeration](#enumeration) (3)
+- [Enumeration](#enumeration) (4)
 - [Floyd's Cycle Finding Algorithm](#floyd-s-cycle-finding-algorithm) (1)
 - [Game Theory](#game-theory) (4)
 - [Graph Theory](#graph-theory) (3)
 - [Greedy](#greedy) (9)
 - [Hash Function](#hash-function) (2)
-- [Hash Table](#hash-table) (27)
+- [Hash Table](#hash-table) (28)
 - [Heap (Priority Queue)](#heap-priority-queue) (6)
 - [Linked List](#linked-list) (4)
 - [Math](#math) (15)
@@ -42,7 +42,7 @@
 - [Ordered Set](#ordered-set) (4)
 - [Prefix Sum](#prefix-sum) (4)
 - [Randomized](#randomized) (1)
-- [Recursion](#recursion) (1)
+- [Recursion](#recursion) (2)
 - [Reservoir Sampling](#reservoir-sampling) (1)
 - [Rolling Hash](#rolling-hash) (2)
 - [Segment Tree](#segment-tree) (4)
@@ -119,6 +119,7 @@
 | 3069 | [Distribute Elements Into Two Arrays I](./3069-distribute-elements-into-two-arrays-i/) | Easy | java |
 | 3107 | [Minimum Operations to Make Median of Array Equal to K](./3107-minimum-operations-to-make-median-of-array-equal-to-k/) | Medium | java |
 | 3238 | [Find the Number of Winning Players](./3238-find-the-number-of-winning-players/) | Easy | java |
+| 3483 | [Unique 3-Digit Even Numbers](./3483-unique-3-digit-even-numbers/) | Easy | java |
 | 3568 | [Minimum Moves to Clean the Classroom](./3568-minimum-moves-to-clean-the-classroom/) | Medium | java |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](./3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium | java |
 | 3718 | [Smallest Missing Multiple of K](./3718-smallest-missing-multiple-of-k/) | Easy | java |
@@ -299,6 +300,7 @@
 |---|-------|------------|----------|
 | 1601 | [Maximum Number of Achievable Transfer Requests](./1601-maximum-number-of-achievable-transfer-requests/) | Hard | java |
 | 3345 | [Smallest Divisible Digit Product I](./3345-smallest-divisible-digit-product-i/) | Easy | java |
+| 3483 | [Unique 3-Digit Even Numbers](./3483-unique-3-digit-even-numbers/) | Easy | java |
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](./3720-lexicographically-smallest-permutation-greater-than-target/) | Medium | java |
 
 ## Floyd's Cycle Finding Algorithm
@@ -372,6 +374,7 @@
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | java |
 | 3090 | [Maximum Length Substring With Two Occurrences](./3090-maximum-length-substring-with-two-occurrences/) | Easy | java |
 | 3238 | [Find the Number of Winning Players](./3238-find-the-number-of-winning-players/) | Easy | java |
+| 3483 | [Unique 3-Digit Even Numbers](./3483-unique-3-digit-even-numbers/) | Easy | java |
 | 3568 | [Minimum Moves to Clean the Classroom](./3568-minimum-moves-to-clean-the-classroom/) | Medium | java |
 | 3718 | [Smallest Missing Multiple of K](./3718-smallest-missing-multiple-of-k/) | Easy | java |
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](./3720-lexicographically-smallest-permutation-greater-than-target/) | Medium | java |
@@ -481,6 +484,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
+| 3483 | [Unique 3-Digit Even Numbers](./3483-unique-3-digit-even-numbers/) | Easy | java |
 
 ## Reservoir Sampling
 
@@ -763,6 +767,7 @@
 | 3238 | [Find the Number of Winning Players](./3238-find-the-number-of-winning-players/) | Easy | Array, Hash Table, Counting | java |
 | 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | Medium | Depth-First Search, Breadth-First Search, Graph Theory | java |
 | 3345 | [Smallest Divisible Digit Product I](./3345-smallest-divisible-digit-product-i/) | Easy | Math, Enumeration | java |
+| 3483 | [Unique 3-Digit Even Numbers](./3483-unique-3-digit-even-numbers/) | Easy | Array, Hash Table, Recursion, Enumeration | java |
 | 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i/) | Medium | String, Sorting, Counting Sort | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | Math, Sorting | java |
 | 3568 | [Minimum Moves to Clean the Classroom](./3568-minimum-moves-to-clean-the-classroom/) | Medium | Array, Hash Table, Bit Manipulation, Breadth-First Search, Matrix | java |
