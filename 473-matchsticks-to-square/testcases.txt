@@ -1,0 +1,7 @@
+Example 1:
+Input: matchsticks = [1,1,2,2,2]
+Output: true
+
+Example 2:
+Input: matchsticks = [3,3,3,3,4]
+Output: false
