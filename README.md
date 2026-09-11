@@ -1,17 +1,17 @@
 # LeetCode Solutions
 
-> **114** problems solved
+> **115** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (52)
-- [Backtracking](#backtracking) (8)
+- [Array](#array) (53)
+- [Backtracking](#backtracking) (9)
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (4)
 - [Binary Tree](#binary-tree) (2)
-- [Bit Manipulation](#bit-manipulation) (9)
-- [Bitmask](#bitmask) (4)
+- [Bit Manipulation](#bit-manipulation) (10)
+- [Bitmask](#bitmask) (5)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
 - [Breadth-First Search](#breadth-first-search) (5)
 - [Counting](#counting) (5)
@@ -23,7 +23,7 @@
 - [Design](#design) (5)
 - [Divide and Conquer](#divide-and-conquer) (3)
 - [Doubly-Linked List](#doubly-linked-list) (2)
-- [Dynamic Programming](#dynamic-programming) (20)
+- [Dynamic Programming](#dynamic-programming) (21)
 - [Enumeration](#enumeration) (4)
 - [Floyd's Cycle Finding Algorithm](#floyd-s-cycle-finding-algorithm) (1)
 - [Game Theory](#game-theory) (4)
@@ -92,6 +92,7 @@
 | 307 | [Range Sum Query - Mutable](./307-range-sum-query-mutable/) | Medium | java |
 | 315 | [Count of Smaller Numbers After Self](./315-count-of-smaller-numbers-after-self/) | Hard | java |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | java |
+| 473 | [Matchsticks to Square](./473-matchsticks-to-square/) | Medium | java |
 | 480 | [Sliding Window Median](./480-sliding-window-median/) | Hard | java |
 | 485 | [Max Consecutive Ones](./485-max-consecutive-ones/) | Easy | java |
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
@@ -139,6 +140,7 @@
 | 51 | [N-Queens](./51-n-queens/) | Hard | java |
 | 52 | [N-Queens II](./52-n-queens-ii/) | Hard | java |
 | 79 | [Word Search](./79-word-search/) | Medium | java |
+| 473 | [Matchsticks to Square](./473-matchsticks-to-square/) | Medium | java |
 | 491 | [Non-decreasing Subsequences](./491-non-decreasing-subsequences/) | Medium | java |
 | 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | java |
 | 1306 | [Jump Game III](./1306-beautiful-arrangement/) | Medium | java |
@@ -173,6 +175,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | java |
+| 473 | [Matchsticks to Square](./473-matchsticks-to-square/) | Medium | java |
 | 491 | [Non-decreasing Subsequences](./491-non-decreasing-subsequences/) | Medium | java |
 | 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | java |
 | 1306 | [Jump Game III](./1306-beautiful-arrangement/) | Medium | java |
@@ -186,6 +189,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 473 | [Matchsticks to Square](./473-matchsticks-to-square/) | Medium | java |
 | 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | java |
 | 1306 | [Jump Game III](./1306-beautiful-arrangement/) | Medium | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
@@ -289,6 +293,7 @@
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | java |
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | java |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | java |
+| 473 | [Matchsticks to Square](./473-matchsticks-to-square/) | Medium | java |
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
 | 518 | [Coin Change II](./518-coin-change-ii/) | Medium | java |
 | 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | java |
@@ -735,6 +740,7 @@
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | Array, Dynamic Programming | java |
 | 398 | [Random Pick Index](./398-random-pick-index/) | Medium | Hash Table, Math, Reservoir Sampling, Randomized | java |
 | 460 | [LFU Cache](./460-lfu-cache/) | Hard | Hash Table, Linked List, Design, Doubly-Linked List | java |
+| 473 | [Matchsticks to Square](./473-matchsticks-to-square/) | Medium | Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask | java |
 | 480 | [Sliding Window Median](./480-sliding-window-median/) | Hard | Array, Hash Table, Sliding Window, Heap (Priority Queue), Treap | java |
 | 485 | [Max Consecutive Ones](./485-max-consecutive-ones/) | Easy | Array | java |
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | Array, Math, Dynamic Programming, Recursion, Game Theory | java |
