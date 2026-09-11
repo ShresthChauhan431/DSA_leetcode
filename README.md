@@ -1,17 +1,17 @@
 # LeetCode Solutions
 
-> **113** problems solved
+> **114** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (51)
-- [Backtracking](#backtracking) (7)
+- [Array](#array) (52)
+- [Backtracking](#backtracking) (8)
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (4)
 - [Binary Tree](#binary-tree) (2)
-- [Bit Manipulation](#bit-manipulation) (8)
-- [Bitmask](#bitmask) (3)
+- [Bit Manipulation](#bit-manipulation) (9)
+- [Bitmask](#bitmask) (4)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
 - [Breadth-First Search](#breadth-first-search) (5)
 - [Counting](#counting) (5)
@@ -23,7 +23,7 @@
 - [Design](#design) (5)
 - [Divide and Conquer](#divide-and-conquer) (3)
 - [Doubly-Linked List](#doubly-linked-list) (2)
-- [Dynamic Programming](#dynamic-programming) (19)
+- [Dynamic Programming](#dynamic-programming) (20)
 - [Enumeration](#enumeration) (4)
 - [Floyd's Cycle Finding Algorithm](#floyd-s-cycle-finding-algorithm) (1)
 - [Game Theory](#game-theory) (4)
@@ -36,6 +36,7 @@
 - [Math](#math) (15)
 - [Matrix](#matrix) (5)
 - [Meet in the Middle](#meet-in-the-middle) (2)
+- [Memoization](#memoization) (1)
 - [Merge Sort](#merge-sort) (1)
 - [Minimax](#minimax) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
@@ -97,6 +98,7 @@
 | 491 | [Non-decreasing Subsequences](./491-non-decreasing-subsequences/) | Medium | java |
 | 518 | [Coin Change II](./518-coin-change-ii/) | Medium | java |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
+| 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
 | 875 | [Koko Eating Bananas](./875-split-array-largest-sum/) | Medium | java |
 | 877 | [Stone Game](./877-stone-game/) | Medium | java |
@@ -138,6 +140,7 @@
 | 52 | [N-Queens II](./52-n-queens-ii/) | Hard | java |
 | 79 | [Word Search](./79-word-search/) | Medium | java |
 | 491 | [Non-decreasing Subsequences](./491-non-decreasing-subsequences/) | Medium | java |
+| 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | java |
 | 1306 | [Jump Game III](./1306-beautiful-arrangement/) | Medium | java |
 | 1601 | [Maximum Number of Achievable Transfer Requests](./1601-maximum-number-of-achievable-transfer-requests/) | Hard | java |
 
@@ -171,6 +174,7 @@
 |---|-------|------------|----------|
 | 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | java |
 | 491 | [Non-decreasing Subsequences](./491-non-decreasing-subsequences/) | Medium | java |
+| 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | java |
 | 1306 | [Jump Game III](./1306-beautiful-arrangement/) | Medium | java |
 | 1601 | [Maximum Number of Achievable Transfer Requests](./1601-maximum-number-of-achievable-transfer-requests/) | Hard | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
@@ -182,6 +186,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | java |
 | 1306 | [Jump Game III](./1306-beautiful-arrangement/) | Medium | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | java |
@@ -286,6 +291,7 @@
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | java |
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
 | 518 | [Coin Change II](./518-coin-change-ii/) | Medium | java |
+| 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | java |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
 | 875 | [Koko Eating Bananas](./875-split-array-largest-sum/) | Medium | java |
@@ -441,6 +447,12 @@
 |---|-------|------------|----------|
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | java |
+
+## Memoization
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | java |
 
 ## Merge Sort
 
@@ -731,6 +743,7 @@
 | 577 | [Employee Bonus](./577-employee-bonus/) | Easy | Database | mysql |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | Array, Math, Sorting | java |
 | 637 | [Average of Levels in Binary Tree](./637-average-of-levels-in-binary-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | java |
+| 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | Array, Dynamic Programming, Backtracking, Bit Manipulation, Memoization, Bitmask | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | Hash Table, Linked List, Design, Doubly-Linked List | java |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | String, Dynamic Programming | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | Array, Hash Table, Dynamic Programming | java |
