@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **117** problems solved
+> **118** problems solved
 
 ## Topics
 
@@ -64,7 +64,7 @@
 - [Union-Find](#union-find) (4)
 - [Z Algorithm](#z-algorithm) (2)
 - [Zero-Sum Game](#zero-sum-game) (1)
-- [Uncategorized](#uncategorized) (24)
+- [Uncategorized](#uncategorized) (25)
 - [All Problems](#all-problems)
 
 ## Algorithm X
@@ -725,6 +725,7 @@
 | 101145 | [Elevator Requests I](./101145-minimum-operations-to-make-a-rotated-palindrome-i/) | Easy | java |
 | 101151 | [Minimum Bishop Moves to Reach Target](./101151-maximum-valid-split-positions-i/) | Medium | java |
 | 101151 | [Minimum Bishop Moves to Reach Target](./101151-minimum-bishop-moves-to-reach-target/) | Medium | java |
+| 101175 | [Count Values With Equally Spaced Occurrences I](./101175-count-values-with-equally-spaced-occurrences-i/) | Easy | java |
 
 ## All Problems
 
@@ -847,6 +848,7 @@
 | 101145 | [Elevator Requests I](./101145-minimum-operations-to-make-a-rotated-palindrome-i/) | Easy | - | java |
 | 101151 | [Minimum Bishop Moves to Reach Target](./101151-maximum-valid-split-positions-i/) | Medium | - | java |
 | 101151 | [Minimum Bishop Moves to Reach Target](./101151-minimum-bishop-moves-to-reach-target/) | Medium | - | java |
+| 101175 | [Count Values With Equally Spaced Occurrences I](./101175-count-values-with-equally-spaced-occurrences-i/) | Easy | - | java |
 
 ---
 
