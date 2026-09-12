@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **119** problems solved
+> **120** problems solved
 
 ## Topics
 
@@ -64,7 +64,7 @@
 - [Union-Find](#union-find) (4)
 - [Z Algorithm](#z-algorithm) (2)
 - [Zero-Sum Game](#zero-sum-game) (1)
-- [Uncategorized](#uncategorized) (26)
+- [Uncategorized](#uncategorized) (27)
 - [All Problems](#all-problems)
 
 ## Algorithm X
@@ -727,6 +727,7 @@
 | 101151 | [Minimum Bishop Moves to Reach Target](./101151-minimum-bishop-moves-to-reach-target/) | Medium | java |
 | 101175 | [Count Values With Equally Spaced Occurrences I](./101175-count-values-with-equally-spaced-occurrences-i/) | Easy | java |
 | 101175 | [Count Values With Equally Spaced Occurrences I](./101175-count-values-with-equally-spaced-occurrences-ii/) | Easy | java |
+| 101175 | [Count Values With Equally Spaced Occurrences I](./101175-minimum-days-to-score-exactly-n-points/) | Easy | java |
 
 ## All Problems
 
@@ -851,6 +852,7 @@
 | 101151 | [Minimum Bishop Moves to Reach Target](./101151-minimum-bishop-moves-to-reach-target/) | Medium | - | java |
 | 101175 | [Count Values With Equally Spaced Occurrences I](./101175-count-values-with-equally-spaced-occurrences-i/) | Easy | - | java |
 | 101175 | [Count Values With Equally Spaced Occurrences I](./101175-count-values-with-equally-spaced-occurrences-ii/) | Easy | - | java |
+| 101175 | [Count Values With Equally Spaced Occurrences I](./101175-minimum-days-to-score-exactly-n-points/) | Easy | - | java |
 
 ---
 
