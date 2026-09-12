@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **115** problems solved
+> **116** problems solved
 
 ## Topics
 
@@ -9,7 +9,7 @@
 - [Backtracking](#backtracking) (9)
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (4)
-- [Binary Tree](#binary-tree) (2)
+- [Binary Tree](#binary-tree) (3)
 - [Bit Manipulation](#bit-manipulation) (10)
 - [Bitmask](#bitmask) (5)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
@@ -19,11 +19,12 @@
 - [Dancing Links](#dancing-links) (1)
 - [Data Stream](#data-stream) (1)
 - [Database](#database) (3)
-- [Depth-First Search](#depth-first-search) (6)
+- [Depth-First Search](#depth-first-search) (7)
 - [Design](#design) (5)
 - [Divide and Conquer](#divide-and-conquer) (3)
 - [Doubly-Linked List](#doubly-linked-list) (2)
-- [Dynamic Programming](#dynamic-programming) (21)
+- [DP on Trees](#dp-on-trees) (1)
+- [Dynamic Programming](#dynamic-programming) (22)
 - [Enumeration](#enumeration) (4)
 - [Floyd's Cycle Finding Algorithm](#floyd-s-cycle-finding-algorithm) (1)
 - [Game Theory](#game-theory) (4)
@@ -58,7 +59,7 @@
 - [Suffix Tree](#suffix-tree) (1)
 - [Sweep Line](#sweep-line) (1)
 - [Treap](#treap) (2)
-- [Tree](#tree) (2)
+- [Tree](#tree) (3)
 - [Two Pointers](#two-pointers) (8)
 - [Union-Find](#union-find) (4)
 - [Z Algorithm](#z-algorithm) (2)
@@ -167,6 +168,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 124 | [Binary Tree Maximum Path Sum](./124-binary-tree-maximum-path-sum/) | Hard | java |
 | 637 | [Average of Levels in Binary Tree](./637-average-of-levels-in-binary-tree/) | Easy | java |
 | 2265 | [Count Nodes Equal to Average of Subtree](./2265-count-nodes-equal-to-average-of-subtree/) | Medium | java |
 
@@ -253,6 +255,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 79 | [Word Search](./79-word-search/) | Medium | java |
+| 124 | [Binary Tree Maximum Path Sum](./124-binary-tree-maximum-path-sum/) | Hard | java |
 | 637 | [Average of Levels in Binary Tree](./637-average-of-levels-in-binary-tree/) | Easy | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
 | 2265 | [Count Nodes Equal to Average of Subtree](./2265-count-nodes-equal-to-average-of-subtree/) | Medium | java |
@@ -284,6 +287,12 @@
 | 460 | [LFU Cache](./460-lfu-cache/) | Hard | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
 
+## DP on Trees
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 124 | [Binary Tree Maximum Path Sum](./124-binary-tree-maximum-path-sum/) | Hard | java |
+
 ## Dynamic Programming
 
 | # | Title | Difficulty | Language |
@@ -292,6 +301,7 @@
 | 55 | [Jump Game](./55-jump-game-ii/) | Medium | java |
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | java |
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | java |
+| 124 | [Binary Tree Maximum Path Sum](./124-binary-tree-maximum-path-sum/) | Hard | java |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | java |
 | 473 | [Matchsticks to Square](./473-matchsticks-to-square/) | Medium | java |
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
@@ -644,6 +654,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 124 | [Binary Tree Maximum Path Sum](./124-binary-tree-maximum-path-sum/) | Hard | java |
 | 637 | [Average of Levels in Binary Tree](./637-average-of-levels-in-binary-tree/) | Easy | java |
 | 2265 | [Count Nodes Equal to Average of Subtree](./2265-count-nodes-equal-to-average-of-subtree/) | Medium | java |
 
@@ -728,6 +739,7 @@
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | String, Dynamic Programming | java |
 | 79 | [Word Search](./79-word-search/) | Medium | Array, String, Backtracking, Depth-First Search, Matrix | java |
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | String, Dynamic Programming | java |
+| 124 | [Binary Tree Maximum Path Sum](./124-binary-tree-maximum-path-sum/) | Hard | Dynamic Programming, Tree, Depth-First Search, Binary Tree, DP on Trees | java |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | Array, Hash Table, Union-Find | java |
 | 177 | [Nth Highest Salary](./177-nth-highest-salary/) | Medium | Database | mysql |
 | 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | Hash Table, String, Bit Manipulation, Sliding Window, Rolling Hash, Hash Function, Z Algorithm, Boyer–Moore String-Search Algorithm | java |
