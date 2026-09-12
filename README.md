@@ -710,6 +710,7 @@
 | 4043 | [Count Rotations With Exactly K Equal Adjacent Pairs](./4043-count-good-cyclic-rotations/) | Easy | java |
 | 4043 | [Count Rotations With Exactly K Equal Adjacent Pairs](./4043-count-robot-groups/) | Easy | java |
 | 4043 | [Count Rotations With Exactly K Equal Adjacent Pairs](./4043-count-rotations-with-exactly-k-equal-adjacent-pairs/) | Easy | java |
+| 4050 | [Minimum Days to Score Exactly N Points](./4050-minimum-days-to-score-exactly-n-points/) | Medium | java |
 | 101110 | [Minimum Initial Strength to Defeat All Monsters](./101110-minimum-initial-strength-to-defeat-all-monsters/) | Medium | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-aggregate-two-time-series/) | Easy | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-count-valid-sequences/) | Easy | java |
@@ -727,7 +728,6 @@
 | 101151 | [Minimum Bishop Moves to Reach Target](./101151-minimum-bishop-moves-to-reach-target/) | Medium | java |
 | 101175 | [Count Values With Equally Spaced Occurrences I](./101175-count-values-with-equally-spaced-occurrences-i/) | Easy | java |
 | 101175 | [Count Values With Equally Spaced Occurrences I](./101175-count-values-with-equally-spaced-occurrences-ii/) | Easy | java |
-| 101175 | [Count Values With Equally Spaced Occurrences I](./101175-minimum-days-to-score-exactly-n-points/) | Easy | java |
 
 ## All Problems
 
@@ -835,6 +835,7 @@
 | 4043 | [Count Rotations With Exactly K Equal Adjacent Pairs](./4043-count-good-cyclic-rotations/) | Easy | - | java |
 | 4043 | [Count Rotations With Exactly K Equal Adjacent Pairs](./4043-count-robot-groups/) | Easy | - | java |
 | 4043 | [Count Rotations With Exactly K Equal Adjacent Pairs](./4043-count-rotations-with-exactly-k-equal-adjacent-pairs/) | Easy | - | java |
+| 4050 | [Minimum Days to Score Exactly N Points](./4050-minimum-days-to-score-exactly-n-points/) | Medium | - | java |
 | 101110 | [Minimum Initial Strength to Defeat All Monsters](./101110-minimum-initial-strength-to-defeat-all-monsters/) | Medium | - | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-aggregate-two-time-series/) | Easy | - | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-count-valid-sequences/) | Easy | - | java |
@@ -852,7 +853,6 @@
 | 101151 | [Minimum Bishop Moves to Reach Target](./101151-minimum-bishop-moves-to-reach-target/) | Medium | - | java |
 | 101175 | [Count Values With Equally Spaced Occurrences I](./101175-count-values-with-equally-spaced-occurrences-i/) | Easy | - | java |
 | 101175 | [Count Values With Equally Spaced Occurrences I](./101175-count-values-with-equally-spaced-occurrences-ii/) | Easy | - | java |
-| 101175 | [Count Values With Equally Spaced Occurrences I](./101175-minimum-days-to-score-exactly-n-points/) | Easy | - | java |
 
 ---
 
