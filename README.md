@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **116** problems solved
+> **117** problems solved
 
 ## Topics
 
@@ -9,7 +9,7 @@
 - [Backtracking](#backtracking) (9)
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (4)
-- [Binary Tree](#binary-tree) (3)
+- [Binary Tree](#binary-tree) (4)
 - [Bit Manipulation](#bit-manipulation) (10)
 - [Bitmask](#bitmask) (5)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
@@ -19,11 +19,11 @@
 - [Dancing Links](#dancing-links) (1)
 - [Data Stream](#data-stream) (1)
 - [Database](#database) (3)
-- [Depth-First Search](#depth-first-search) (7)
+- [Depth-First Search](#depth-first-search) (8)
 - [Design](#design) (5)
 - [Divide and Conquer](#divide-and-conquer) (3)
 - [Doubly-Linked List](#doubly-linked-list) (2)
-- [DP on Trees](#dp-on-trees) (1)
+- [DP on Trees](#dp-on-trees) (2)
 - [Dynamic Programming](#dynamic-programming) (22)
 - [Enumeration](#enumeration) (4)
 - [Floyd's Cycle Finding Algorithm](#floyd-s-cycle-finding-algorithm) (1)
@@ -59,7 +59,7 @@
 - [Suffix Tree](#suffix-tree) (1)
 - [Sweep Line](#sweep-line) (1)
 - [Treap](#treap) (2)
-- [Tree](#tree) (3)
+- [Tree](#tree) (4)
 - [Two Pointers](#two-pointers) (8)
 - [Union-Find](#union-find) (4)
 - [Z Algorithm](#z-algorithm) (2)
@@ -170,6 +170,7 @@
 |---|-------|------------|----------|
 | 124 | [Binary Tree Maximum Path Sum](./124-binary-tree-maximum-path-sum/) | Hard | java |
 | 637 | [Average of Levels in Binary Tree](./637-average-of-levels-in-binary-tree/) | Easy | java |
+| 687 | [Longest Univalue Path](./687-longest-univalue-path/) | Medium | java |
 | 2265 | [Count Nodes Equal to Average of Subtree](./2265-count-nodes-equal-to-average-of-subtree/) | Medium | java |
 
 ## Bit Manipulation
@@ -257,6 +258,7 @@
 | 79 | [Word Search](./79-word-search/) | Medium | java |
 | 124 | [Binary Tree Maximum Path Sum](./124-binary-tree-maximum-path-sum/) | Hard | java |
 | 637 | [Average of Levels in Binary Tree](./637-average-of-levels-in-binary-tree/) | Easy | java |
+| 687 | [Longest Univalue Path](./687-longest-univalue-path/) | Medium | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
 | 2265 | [Count Nodes Equal to Average of Subtree](./2265-count-nodes-equal-to-average-of-subtree/) | Medium | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | java |
@@ -292,6 +294,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 124 | [Binary Tree Maximum Path Sum](./124-binary-tree-maximum-path-sum/) | Hard | java |
+| 687 | [Longest Univalue Path](./687-longest-univalue-path/) | Medium | java |
 
 ## Dynamic Programming
 
@@ -656,6 +659,7 @@
 |---|-------|------------|----------|
 | 124 | [Binary Tree Maximum Path Sum](./124-binary-tree-maximum-path-sum/) | Hard | java |
 | 637 | [Average of Levels in Binary Tree](./637-average-of-levels-in-binary-tree/) | Easy | java |
+| 687 | [Longest Univalue Path](./687-longest-univalue-path/) | Medium | java |
 | 2265 | [Count Nodes Equal to Average of Subtree](./2265-count-nodes-equal-to-average-of-subtree/) | Medium | java |
 
 ## Two Pointers
@@ -761,6 +765,7 @@
 | 577 | [Employee Bonus](./577-employee-bonus/) | Easy | Database | mysql |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | Array, Math, Sorting | java |
 | 637 | [Average of Levels in Binary Tree](./637-average-of-levels-in-binary-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | java |
+| 687 | [Longest Univalue Path](./687-longest-univalue-path/) | Medium | Tree, Depth-First Search, Binary Tree, DP on Trees | java |
 | 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | Array, Dynamic Programming, Backtracking, Bit Manipulation, Memoization, Bitmask | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | Hash Table, Linked List, Design, Doubly-Linked List | java |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | String, Dynamic Programming | java |
