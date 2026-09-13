@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **128** problems solved
+> **129** problems solved
 
 ## Topics
 
@@ -10,7 +10,7 @@
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (4)
 - [Binary Tree](#binary-tree) (4)
-- [Bit Manipulation](#bit-manipulation) (15)
+- [Bit Manipulation](#bit-manipulation) (16)
 - [Bitmask](#bitmask) (5)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
 - [Breadth-First Search](#breadth-first-search) (5)
@@ -178,6 +178,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 136 | [Single Number](./136-binary-number-with-alternating-bits/) | Easy | java |
 | 136 | [Single Number](./136-counting-bits/) | Easy | java |
 | 136 | [Single Number](./136-find-the-difference/) | Easy | java |
 | 136 | [Single Number](./136-number-of-1-bits/) | Easy | java |
@@ -765,6 +766,7 @@
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | String, Dynamic Programming | java |
 | 124 | [Binary Tree Maximum Path Sum](./124-binary-tree-maximum-path-sum/) | Hard | Dynamic Programming, Tree, Depth-First Search, Binary Tree, DP on Trees | java |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | Array, Hash Table, Union-Find | java |
+| 136 | [Single Number](./136-binary-number-with-alternating-bits/) | Easy | Bit Manipulation | java |
 | 136 | [Single Number](./136-counting-bits/) | Easy | Dynamic Programming, Bit Manipulation | java |
 | 136 | [Single Number](./136-find-the-difference/) | Easy | Hash Table, String, Bit Manipulation, Sorting | java |
 | 136 | [Single Number](./136-number-of-1-bits/) | Easy | Divide and Conquer, Bit Manipulation | java |
