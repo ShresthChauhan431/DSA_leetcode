@@ -1,0 +1,7 @@
+Example 1:
+Input: n = 43261596
+Output: 964176192
+
+Example 2:
+Input: n = 2147483644
+Output: 1073741822
