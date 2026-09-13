@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **125** problems solved
+> **126** problems solved
 
 ## Topics
 
@@ -10,7 +10,7 @@
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (4)
 - [Binary Tree](#binary-tree) (4)
-- [Bit Manipulation](#bit-manipulation) (12)
+- [Bit Manipulation](#bit-manipulation) (13)
 - [Bitmask](#bitmask) (5)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
 - [Breadth-First Search](#breadth-first-search) (5)
@@ -21,7 +21,7 @@
 - [Database](#database) (3)
 - [Depth-First Search](#depth-first-search) (8)
 - [Design](#design) (5)
-- [Divide and Conquer](#divide-and-conquer) (4)
+- [Divide and Conquer](#divide-and-conquer) (5)
 - [Doubly-Linked List](#doubly-linked-list) (2)
 - [DP on Trees](#dp-on-trees) (2)
 - [Dynamic Programming](#dynamic-programming) (23)
@@ -180,6 +180,7 @@
 |---|-------|------------|----------|
 | 136 | [Single Number](./136-counting-bits/) | Easy | java |
 | 136 | [Single Number](./136-number-of-1-bits/) | Easy | java |
+| 136 | [Single Number](./136-reverse-bits/) | Easy | java |
 | 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | java |
 | 473 | [Matchsticks to Square](./473-matchsticks-to-square/) | Medium | java |
 | 491 | [Non-decreasing Subsequences](./491-non-decreasing-subsequences/) | Medium | java |
@@ -282,6 +283,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 136 | [Single Number](./136-number-of-1-bits/) | Easy | java |
+| 136 | [Single Number](./136-reverse-bits/) | Easy | java |
 | 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | java |
 | 307 | [Range Sum Query - Mutable](./307-range-sum-query-mutable/) | Medium | java |
 | 315 | [Count of Smaller Numbers After Self](./315-count-of-smaller-numbers-after-self/) | Hard | java |
@@ -758,6 +760,7 @@
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | Array, Hash Table, Union-Find | java |
 | 136 | [Single Number](./136-counting-bits/) | Easy | Dynamic Programming, Bit Manipulation | java |
 | 136 | [Single Number](./136-number-of-1-bits/) | Easy | Divide and Conquer, Bit Manipulation | java |
+| 136 | [Single Number](./136-reverse-bits/) | Easy | Divide and Conquer, Bit Manipulation | java |
 | 177 | [Nth Highest Salary](./177-nth-highest-salary/) | Medium | Database | mysql |
 | 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | Hash Table, String, Bit Manipulation, Sliding Window, Rolling Hash, Hash Function, Z Algorithm, Boyer–Moore String-Search Algorithm | java |
 | 202 | [Happy Number](./202-happy-number/) | Easy | Hash Table, Math, Two Pointers, Floyd's Cycle Finding Algorithm | java |
