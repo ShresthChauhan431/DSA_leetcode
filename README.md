@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **121** problems solved
+> **122** problems solved
 
 ## Topics
 
@@ -64,7 +64,7 @@
 - [Union-Find](#union-find) (4)
 - [Z Algorithm](#z-algorithm) (2)
 - [Zero-Sum Game](#zero-sum-game) (1)
-- [Uncategorized](#uncategorized) (28)
+- [Uncategorized](#uncategorized) (29)
 - [All Problems](#all-problems)
 
 ## Algorithm X
@@ -728,6 +728,7 @@
 | 101151 | [Minimum Bishop Moves to Reach Target](./101151-minimum-bishop-moves-to-reach-target/) | Medium | java |
 | 101175 | [Count Values With Equally Spaced Occurrences I](./101175-count-values-with-equally-spaced-occurrences-i/) | Easy | java |
 | 101175 | [Count Values With Equally Spaced Occurrences I](./101175-count-values-with-equally-spaced-occurrences-ii/) | Easy | java |
+| 101176 | [Cyclically Shift Rows and Columns](./101176-count-shadow-pairs-i/) | Easy | java |
 | 101176 | [Cyclically Shift Rows and Columns](./101176-cyclically-shift-rows-and-columns/) | Easy | java |
 
 ## All Problems
@@ -854,6 +855,7 @@
 | 101151 | [Minimum Bishop Moves to Reach Target](./101151-minimum-bishop-moves-to-reach-target/) | Medium | - | java |
 | 101175 | [Count Values With Equally Spaced Occurrences I](./101175-count-values-with-equally-spaced-occurrences-i/) | Easy | - | java |
 | 101175 | [Count Values With Equally Spaced Occurrences I](./101175-count-values-with-equally-spaced-occurrences-ii/) | Easy | - | java |
+| 101176 | [Cyclically Shift Rows and Columns](./101176-count-shadow-pairs-i/) | Easy | - | java |
 | 101176 | [Cyclically Shift Rows and Columns](./101176-cyclically-shift-rows-and-columns/) | Easy | - | java |
 
 ---
