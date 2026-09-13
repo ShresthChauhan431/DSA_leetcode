@@ -1,16 +1,16 @@
 # LeetCode Solutions
 
-> **129** problems solved
+> **130** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (54)
-- [Backtracking](#backtracking) (9)
+- [Array](#array) (55)
+- [Backtracking](#backtracking) (10)
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (4)
 - [Binary Tree](#binary-tree) (4)
-- [Bit Manipulation](#bit-manipulation) (16)
+- [Bit Manipulation](#bit-manipulation) (17)
 - [Bitmask](#bitmask) (5)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
 - [Breadth-First Search](#breadth-first-search) (5)
@@ -89,6 +89,7 @@
 | 56 | [Merge Intervals](./56-merge-intervals/) | Medium | java |
 | 79 | [Word Search](./79-word-search/) | Medium | java |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | java |
+| 136 | [Single Number](./136-subsets/) | Easy | java |
 | 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | java |
 | 307 | [Range Sum Query - Mutable](./307-range-sum-query-mutable/) | Medium | java |
 | 315 | [Count of Smaller Numbers After Self](./315-count-of-smaller-numbers-after-self/) | Hard | java |
@@ -142,6 +143,7 @@
 | 51 | [N-Queens](./51-n-queens/) | Hard | java |
 | 52 | [N-Queens II](./52-n-queens-ii/) | Hard | java |
 | 79 | [Word Search](./79-word-search/) | Medium | java |
+| 136 | [Single Number](./136-subsets/) | Easy | java |
 | 473 | [Matchsticks to Square](./473-matchsticks-to-square/) | Medium | java |
 | 491 | [Non-decreasing Subsequences](./491-non-decreasing-subsequences/) | Medium | java |
 | 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | java |
@@ -184,6 +186,7 @@
 | 136 | [Single Number](./136-number-of-1-bits/) | Easy | java |
 | 136 | [Single Number](./136-power-of-two/) | Easy | java |
 | 136 | [Single Number](./136-reverse-bits/) | Easy | java |
+| 136 | [Single Number](./136-subsets/) | Easy | java |
 | 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | java |
 | 473 | [Matchsticks to Square](./473-matchsticks-to-square/) | Medium | java |
 | 491 | [Non-decreasing Subsequences](./491-non-decreasing-subsequences/) | Medium | java |
@@ -772,6 +775,7 @@
 | 136 | [Single Number](./136-number-of-1-bits/) | Easy | Divide and Conquer, Bit Manipulation | java |
 | 136 | [Single Number](./136-power-of-two/) | Easy | Math, Bit Manipulation, Recursion | java |
 | 136 | [Single Number](./136-reverse-bits/) | Easy | Divide and Conquer, Bit Manipulation | java |
+| 136 | [Single Number](./136-subsets/) | Easy | Array, Backtracking, Bit Manipulation | java |
 | 177 | [Nth Highest Salary](./177-nth-highest-salary/) | Medium | Database | mysql |
 | 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | Hash Table, String, Bit Manipulation, Sliding Window, Rolling Hash, Hash Function, Z Algorithm, Boyer–Moore String-Search Algorithm | java |
 | 202 | [Happy Number](./202-happy-number/) | Easy | Hash Table, Math, Two Pointers, Floyd's Cycle Finding Algorithm | java |
