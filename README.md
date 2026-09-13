@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **126** problems solved
+> **127** problems solved
 
 ## Topics
 
@@ -10,7 +10,7 @@
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (4)
 - [Binary Tree](#binary-tree) (4)
-- [Bit Manipulation](#bit-manipulation) (13)
+- [Bit Manipulation](#bit-manipulation) (14)
 - [Bitmask](#bitmask) (5)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
 - [Breadth-First Search](#breadth-first-search) (5)
@@ -34,7 +34,7 @@
 - [Hash Table](#hash-table) (28)
 - [Heap (Priority Queue)](#heap-priority-queue) (6)
 - [Linked List](#linked-list) (4)
-- [Math](#math) (15)
+- [Math](#math) (16)
 - [Matrix](#matrix) (6)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Memoization](#memoization) (1)
@@ -44,7 +44,7 @@
 - [Ordered Set](#ordered-set) (4)
 - [Prefix Sum](#prefix-sum) (4)
 - [Randomized](#randomized) (1)
-- [Recursion](#recursion) (2)
+- [Recursion](#recursion) (3)
 - [Reservoir Sampling](#reservoir-sampling) (1)
 - [Rolling Hash](#rolling-hash) (2)
 - [Segment Tree](#segment-tree) (4)
@@ -180,6 +180,7 @@
 |---|-------|------------|----------|
 | 136 | [Single Number](./136-counting-bits/) | Easy | java |
 | 136 | [Single Number](./136-number-of-1-bits/) | Easy | java |
+| 136 | [Single Number](./136-power-of-two/) | Easy | java |
 | 136 | [Single Number](./136-reverse-bits/) | Easy | java |
 | 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | java |
 | 473 | [Matchsticks to Square](./473-matchsticks-to-square/) | Medium | java |
@@ -440,6 +441,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 136 | [Single Number](./136-power-of-two/) | Easy | java |
 | 202 | [Happy Number](./202-happy-number/) | Easy | java |
 | 398 | [Random Pick Index](./398-random-pick-index/) | Medium | java |
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
@@ -526,6 +528,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 136 | [Single Number](./136-power-of-two/) | Easy | java |
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
 | 3483 | [Unique 3-Digit Even Numbers](./3483-unique-3-digit-even-numbers/) | Easy | java |
 
@@ -760,6 +763,7 @@
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | Array, Hash Table, Union-Find | java |
 | 136 | [Single Number](./136-counting-bits/) | Easy | Dynamic Programming, Bit Manipulation | java |
 | 136 | [Single Number](./136-number-of-1-bits/) | Easy | Divide and Conquer, Bit Manipulation | java |
+| 136 | [Single Number](./136-power-of-two/) | Easy | Math, Bit Manipulation, Recursion | java |
 | 136 | [Single Number](./136-reverse-bits/) | Easy | Divide and Conquer, Bit Manipulation | java |
 | 177 | [Nth Highest Salary](./177-nth-highest-salary/) | Medium | Database | mysql |
 | 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | Hash Table, String, Bit Manipulation, Sliding Window, Rolling Hash, Hash Function, Z Algorithm, Boyer–Moore String-Search Algorithm | java |
