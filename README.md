@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **124** problems solved
+> **125** problems solved
 
 ## Topics
 
@@ -10,7 +10,7 @@
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (4)
 - [Binary Tree](#binary-tree) (4)
-- [Bit Manipulation](#bit-manipulation) (11)
+- [Bit Manipulation](#bit-manipulation) (12)
 - [Bitmask](#bitmask) (5)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
 - [Breadth-First Search](#breadth-first-search) (5)
@@ -24,7 +24,7 @@
 - [Divide and Conquer](#divide-and-conquer) (4)
 - [Doubly-Linked List](#doubly-linked-list) (2)
 - [DP on Trees](#dp-on-trees) (2)
-- [Dynamic Programming](#dynamic-programming) (22)
+- [Dynamic Programming](#dynamic-programming) (23)
 - [Enumeration](#enumeration) (4)
 - [Floyd's Cycle Finding Algorithm](#floyd-s-cycle-finding-algorithm) (1)
 - [Game Theory](#game-theory) (4)
@@ -178,6 +178,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 136 | [Single Number](./136-counting-bits/) | Easy | java |
 | 136 | [Single Number](./136-number-of-1-bits/) | Easy | java |
 | 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | java |
 | 473 | [Matchsticks to Square](./473-matchsticks-to-square/) | Medium | java |
@@ -308,6 +309,7 @@
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | java |
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | java |
 | 124 | [Binary Tree Maximum Path Sum](./124-binary-tree-maximum-path-sum/) | Hard | java |
+| 136 | [Single Number](./136-counting-bits/) | Easy | java |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | java |
 | 473 | [Matchsticks to Square](./473-matchsticks-to-square/) | Medium | java |
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
@@ -754,6 +756,7 @@
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | String, Dynamic Programming | java |
 | 124 | [Binary Tree Maximum Path Sum](./124-binary-tree-maximum-path-sum/) | Hard | Dynamic Programming, Tree, Depth-First Search, Binary Tree, DP on Trees | java |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | Array, Hash Table, Union-Find | java |
+| 136 | [Single Number](./136-counting-bits/) | Easy | Dynamic Programming, Bit Manipulation | java |
 | 136 | [Single Number](./136-number-of-1-bits/) | Easy | Divide and Conquer, Bit Manipulation | java |
 | 177 | [Nth Highest Salary](./177-nth-highest-salary/) | Medium | Database | mysql |
 | 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | Hash Table, String, Bit Manipulation, Sliding Window, Rolling Hash, Hash Function, Z Algorithm, Boyer–Moore String-Search Algorithm | java |
