@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **127** problems solved
+> **128** problems solved
 
 ## Topics
 
@@ -10,7 +10,7 @@
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (4)
 - [Binary Tree](#binary-tree) (4)
-- [Bit Manipulation](#bit-manipulation) (14)
+- [Bit Manipulation](#bit-manipulation) (15)
 - [Bitmask](#bitmask) (5)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
 - [Breadth-First Search](#breadth-first-search) (5)
@@ -31,7 +31,7 @@
 - [Graph Theory](#graph-theory) (3)
 - [Greedy](#greedy) (9)
 - [Hash Function](#hash-function) (2)
-- [Hash Table](#hash-table) (28)
+- [Hash Table](#hash-table) (29)
 - [Heap (Priority Queue)](#heap-priority-queue) (6)
 - [Linked List](#linked-list) (4)
 - [Math](#math) (16)
@@ -50,10 +50,10 @@
 - [Segment Tree](#segment-tree) (4)
 - [Simulation](#simulation) (3)
 - [Sliding Window](#sliding-window) (8)
-- [Sorting](#sorting) (17)
+- [Sorting](#sorting) (18)
 - [Sqrt Decomposition](#sqrt-decomposition) (1)
 - [Stack](#stack) (1)
-- [String](#string) (19)
+- [String](#string) (20)
 - [Suffix Array](#suffix-array) (1)
 - [Suffix Automaton](#suffix-automaton) (1)
 - [Suffix Tree](#suffix-tree) (1)
@@ -179,6 +179,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 136 | [Single Number](./136-counting-bits/) | Easy | java |
+| 136 | [Single Number](./136-find-the-difference/) | Easy | java |
 | 136 | [Single Number](./136-number-of-1-bits/) | Easy | java |
 | 136 | [Single Number](./136-power-of-two/) | Easy | java |
 | 136 | [Single Number](./136-reverse-bits/) | Easy | java |
@@ -393,6 +394,7 @@
 | 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | java |
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | java |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | java |
+| 136 | [Single Number](./136-find-the-difference/) | Easy | java |
 | 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | java |
 | 202 | [Happy Number](./202-happy-number/) | Easy | java |
 | 355 | [Design Twitter](./355-design-twitter/) | Medium | java |
@@ -582,6 +584,7 @@
 | 2 | [Add Two Numbers](./2-3sum/) | Medium | java |
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | java |
 | 56 | [Merge Intervals](./56-merge-intervals/) | Medium | java |
+| 136 | [Single Number](./136-find-the-difference/) | Easy | java |
 | 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | java |
 | 295 | [Find Median from Data Stream](./295-find-median-from-data-stream/) | Hard | java |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
@@ -618,6 +621,7 @@
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | java |
 | 79 | [Word Search](./79-word-search/) | Medium | java |
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | java |
+| 136 | [Single Number](./136-find-the-difference/) | Easy | java |
 | 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | java |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | java |
 | 1044 | [Longest Duplicate Substring](./1044-longest-duplicate-substring/) | Hard | java |
@@ -762,6 +766,7 @@
 | 124 | [Binary Tree Maximum Path Sum](./124-binary-tree-maximum-path-sum/) | Hard | Dynamic Programming, Tree, Depth-First Search, Binary Tree, DP on Trees | java |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | Array, Hash Table, Union-Find | java |
 | 136 | [Single Number](./136-counting-bits/) | Easy | Dynamic Programming, Bit Manipulation | java |
+| 136 | [Single Number](./136-find-the-difference/) | Easy | Hash Table, String, Bit Manipulation, Sorting | java |
 | 136 | [Single Number](./136-number-of-1-bits/) | Easy | Divide and Conquer, Bit Manipulation | java |
 | 136 | [Single Number](./136-power-of-two/) | Easy | Math, Bit Manipulation, Recursion | java |
 | 136 | [Single Number](./136-reverse-bits/) | Easy | Divide and Conquer, Bit Manipulation | java |
