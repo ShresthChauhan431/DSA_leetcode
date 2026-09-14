@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **133** problems solved
+> **134** problems solved
 
 ## Topics
 
@@ -28,13 +28,14 @@
 - [Enumeration](#enumeration) (4)
 - [Floyd's Cycle Finding Algorithm](#floyd-s-cycle-finding-algorithm) (1)
 - [Game Theory](#game-theory) (4)
+- [Geometry](#geometry) (1)
 - [Graph Theory](#graph-theory) (3)
 - [Greedy](#greedy) (9)
 - [Hash Function](#hash-function) (2)
 - [Hash Table](#hash-table) (29)
 - [Heap (Priority Queue)](#heap-priority-queue) (6)
 - [Linked List](#linked-list) (4)
-- [Math](#math) (16)
+- [Math](#math) (17)
 - [Matrix](#matrix) (6)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Memoization](#memoization) (1)
@@ -367,6 +368,12 @@
 | 1563 | [Stone Game V](./1563-stone-game-v/) | Hard | java |
 | 3222 | [Find the Winning Player in Coin Game](./3222-find-the-winning-player-in-coin-game/) | Easy | java |
 
+## Geometry
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 836 | [Rectangle Overlap](./836-rectangle-overlap/) | Easy | cpp |
+
 ## Graph Theory
 
 | # | Title | Difficulty | Language |
@@ -459,6 +466,7 @@
 | 398 | [Random Pick Index](./398-random-pick-index/) | Medium | java |
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
+| 836 | [Rectangle Overlap](./836-rectangle-overlap/) | Easy | cpp |
 | 877 | [Stone Game](./877-stone-game/) | Medium | java |
 | 1563 | [Stone Game V](./1563-stone-game-v/) | Hard | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-distribute-money-to-maximum-children/) | Easy | java |
@@ -814,6 +822,7 @@
 | 784 | [Letter Case Permutation](./784-maximum-xor-for-each-query/) | Medium | Array, Bit Manipulation, Prefix Sum | java |
 | 784 | [Letter Case Permutation](./784-subsets-ii/) | Medium | Array, Backtracking, Bit Manipulation | java |
 | 835 | [Image Overlap](./835-image-overlap/) | Medium | Array, Matrix | java |
+| 836 | [Rectangle Overlap](./836-rectangle-overlap/) | Easy | Math, Geometry | cpp |
 | 875 | [Koko Eating Bananas](./875-split-array-largest-sum/) | Medium | Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum | java |
 | 877 | [Stone Game](./877-stone-game/) | Medium | Array, Math, Dynamic Programming, Minimax, Game Theory, Zero-Sum Game | java |
 | 983 | [Minimum Cost For Tickets](./983-minimum-cost-for-tickets/) | Medium | Array, Dynamic Programming | java |
