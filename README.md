@@ -1,16 +1,16 @@
 # LeetCode Solutions
 
-> **134** problems solved
+> **135** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (57)
+- [Array](#array) (58)
 - [Backtracking](#backtracking) (12)
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (4)
 - [Binary Tree](#binary-tree) (4)
-- [Bit Manipulation](#bit-manipulation) (20)
+- [Bit Manipulation](#bit-manipulation) (21)
 - [Bitmask](#bitmask) (5)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
 - [Breadth-First Search](#breadth-first-search) (5)
@@ -43,7 +43,7 @@
 - [Minimax](#minimax) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
 - [Ordered Set](#ordered-set) (4)
-- [Prefix Sum](#prefix-sum) (5)
+- [Prefix Sum](#prefix-sum) (6)
 - [Randomized](#randomized) (1)
 - [Recursion](#recursion) (3)
 - [Reservoir Sampling](#reservoir-sampling) (1)
@@ -106,6 +106,7 @@
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
 | 784 | [Letter Case Permutation](./784-maximum-xor-for-each-query/) | Medium | java |
 | 784 | [Letter Case Permutation](./784-subsets-ii/) | Medium | java |
+| 784 | [Letter Case Permutation](./784-xor-queries-of-a-subarray/) | Medium | java |
 | 835 | [Image Overlap](./835-image-overlap/) | Medium | java |
 | 875 | [Koko Eating Bananas](./875-split-array-largest-sum/) | Medium | java |
 | 877 | [Stone Game](./877-stone-game/) | Medium | java |
@@ -199,6 +200,7 @@
 | 784 | [Letter Case Permutation](./784-letter-case-permutation/) | Medium | java |
 | 784 | [Letter Case Permutation](./784-maximum-xor-for-each-query/) | Medium | java |
 | 784 | [Letter Case Permutation](./784-subsets-ii/) | Medium | java |
+| 784 | [Letter Case Permutation](./784-xor-queries-of-a-subarray/) | Medium | java |
 | 1306 | [Jump Game III](./1306-beautiful-arrangement/) | Medium | java |
 | 1601 | [Maximum Number of Achievable Transfer Requests](./1601-maximum-number-of-achievable-transfer-requests/) | Hard | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
@@ -535,6 +537,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 784 | [Letter Case Permutation](./784-maximum-xor-for-each-query/) | Medium | java |
+| 784 | [Letter Case Permutation](./784-xor-queries-of-a-subarray/) | Medium | java |
 | 875 | [Koko Eating Bananas](./875-split-array-largest-sum/) | Medium | java |
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | java |
 | 3903 | [Smallest Stable Index I](./3903-smallest-stable-index-i/) | Easy | java |
@@ -821,6 +824,7 @@
 | 784 | [Letter Case Permutation](./784-letter-case-permutation/) | Medium | String, Backtracking, Bit Manipulation | java |
 | 784 | [Letter Case Permutation](./784-maximum-xor-for-each-query/) | Medium | Array, Bit Manipulation, Prefix Sum | java |
 | 784 | [Letter Case Permutation](./784-subsets-ii/) | Medium | Array, Backtracking, Bit Manipulation | java |
+| 784 | [Letter Case Permutation](./784-xor-queries-of-a-subarray/) | Medium | Array, Bit Manipulation, Prefix Sum | java |
 | 835 | [Image Overlap](./835-image-overlap/) | Medium | Array, Matrix | java |
 | 836 | [Rectangle Overlap](./836-rectangle-overlap/) | Easy | Math, Geometry | cpp |
 | 875 | [Koko Eating Bananas](./875-split-array-largest-sum/) | Medium | Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum | java |
