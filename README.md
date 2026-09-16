@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **135** problems solved
+> **136** problems solved
 
 ## Topics
 
@@ -35,7 +35,7 @@
 - [Hash Table](#hash-table) (29)
 - [Heap (Priority Queue)](#heap-priority-queue) (6)
 - [Linked List](#linked-list) (4)
-- [Math](#math) (17)
+- [Math](#math) (18)
 - [Matrix](#matrix) (6)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Memoization](#memoization) (1)
@@ -472,6 +472,7 @@
 | 877 | [Stone Game](./877-stone-game/) | Medium | java |
 | 1563 | [Stone Game V](./1563-stone-game-v/) | Hard | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-distribute-money-to-maximum-children/) | Easy | java |
+| 2894 | [Divisible and Non-divisible Sums Difference](./2894-divisible-and-non-divisible-sums-difference/) | Easy | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
 | 3222 | [Find the Winning Player in Coin Game](./3222-find-the-winning-player-in-coin-game/) | Easy | java |
 | 3345 | [Smallest Divisible Digit Product I](./3345-smallest-divisible-digit-product-i/) | Easy | java |
@@ -854,6 +855,7 @@
 | 2591 | [Distribute Money to Maximum Children](./2591-distribute-money-to-maximum-children/) | Easy | Math, Greedy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | Array, Dynamic Programming | java |
+| 2894 | [Divisible and Non-divisible Sums Difference](./2894-divisible-and-non-divisible-sums-difference/) | Easy | Math | java |
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](./2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium | String, Sliding Window | java |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](./2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium | Array, Union-Find, Sorting | java |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium | Array, Hash Table, Sliding Window | java |
