@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **136** problems solved
+> **137** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (58)
+- [Array](#array) (59)
 - [Backtracking](#backtracking) (12)
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (4)
@@ -25,7 +25,7 @@
 - [Doubly-Linked List](#doubly-linked-list) (2)
 - [DP on Trees](#dp-on-trees) (2)
 - [Dynamic Programming](#dynamic-programming) (23)
-- [Enumeration](#enumeration) (4)
+- [Enumeration](#enumeration) (5)
 - [Floyd's Cycle Finding Algorithm](#floyd-s-cycle-finding-algorithm) (1)
 - [Game Theory](#game-theory) (4)
 - [Geometry](#geometry) (1)
@@ -35,20 +35,24 @@
 - [Hash Table](#hash-table) (29)
 - [Heap (Priority Queue)](#heap-priority-queue) (6)
 - [Linked List](#linked-list) (4)
-- [Math](#math) (18)
+- [Math](#math) (19)
 - [Matrix](#matrix) (6)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Memoization](#memoization) (1)
 - [Merge Sort](#merge-sort) (1)
 - [Minimax](#minimax) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
+- [Number Theory](#number-theory) (1)
 - [Ordered Set](#ordered-set) (4)
 - [Prefix Sum](#prefix-sum) (6)
+- [Primality Test](#primality-test) (1)
+- [Prime Number Sieve](#prime-number-sieve) (1)
 - [Randomized](#randomized) (1)
 - [Recursion](#recursion) (3)
 - [Reservoir Sampling](#reservoir-sampling) (1)
 - [Rolling Hash](#rolling-hash) (2)
 - [Segment Tree](#segment-tree) (4)
+- [Sieve Theory](#sieve-theory) (1)
 - [Simulation](#simulation) (3)
 - [Sliding Window](#sliding-window) (8)
 - [Sorting](#sorting) (18)
@@ -91,6 +95,7 @@
 | 79 | [Word Search](./79-word-search/) | Medium | java |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | java |
 | 136 | [Single Number](./136-subsets/) | Easy | java |
+| 204 | [Count Primes](./204-count-primes/) | Medium | cpp |
 | 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | java |
 | 307 | [Range Sum Query - Mutable](./307-range-sum-query-mutable/) | Medium | java |
 | 315 | [Count of Smaller Numbers After Self](./315-count-of-smaller-numbers-after-self/) | Hard | java |
@@ -350,6 +355,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 204 | [Count Primes](./204-count-primes/) | Medium | cpp |
 | 1601 | [Maximum Number of Achievable Transfer Requests](./1601-maximum-number-of-achievable-transfer-requests/) | Hard | java |
 | 3345 | [Smallest Divisible Digit Product I](./3345-smallest-divisible-digit-product-i/) | Easy | java |
 | 3483 | [Unique 3-Digit Even Numbers](./3483-unique-3-digit-even-numbers/) | Easy | java |
@@ -465,6 +471,7 @@
 |---|-------|------------|----------|
 | 136 | [Single Number](./136-power-of-two/) | Easy | java |
 | 202 | [Happy Number](./202-happy-number/) | Easy | java |
+| 204 | [Count Primes](./204-count-primes/) | Medium | cpp |
 | 398 | [Random Pick Index](./398-random-pick-index/) | Medium | java |
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
@@ -524,6 +531,12 @@
 |---|-------|------------|----------|
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
 
+## Number Theory
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 204 | [Count Primes](./204-count-primes/) | Medium | cpp |
+
 ## Ordered Set
 
 | # | Title | Difficulty | Language |
@@ -543,6 +556,18 @@
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | java |
 | 3903 | [Smallest Stable Index I](./3903-smallest-stable-index-i/) | Easy | java |
 | 3904 | [Smallest Stable Index II](./3904-smallest-stable-index-ii/) | Medium | java |
+
+## Primality Test
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 204 | [Count Primes](./204-count-primes/) | Medium | cpp |
+
+## Prime Number Sieve
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 204 | [Count Primes](./204-count-primes/) | Medium | cpp |
 
 ## Randomized
 
@@ -579,6 +604,12 @@
 | 307 | [Range Sum Query - Mutable](./307-range-sum-query-mutable/) | Medium | java |
 | 315 | [Count of Smaller Numbers After Self](./315-count-of-smaller-numbers-after-self/) | Hard | java |
 | 2213 | [Longest Substring of One Repeating Character](./2213-longest-substring-of-one-repeating-character/) | Hard | java |
+
+## Sieve Theory
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 204 | [Count Primes](./204-count-primes/) | Medium | cpp |
 
 ## Simulation
 
@@ -800,6 +831,7 @@
 | 177 | [Nth Highest Salary](./177-nth-highest-salary/) | Medium | Database | mysql |
 | 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | Hash Table, String, Bit Manipulation, Sliding Window, Rolling Hash, Hash Function, Z Algorithm, Boyer–Moore String-Search Algorithm | java |
 | 202 | [Happy Number](./202-happy-number/) | Easy | Hash Table, Math, Two Pointers, Floyd's Cycle Finding Algorithm | java |
+| 204 | [Count Primes](./204-count-primes/) | Medium | Array, Math, Enumeration, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve | cpp |
 | 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Sweep Line, Sorting, Heap (Priority Queue), Ordered Set | java |
 | 295 | [Find Median from Data Stream](./295-find-median-from-data-stream/) | Hard | Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream | java |
 | 307 | [Range Sum Query - Mutable](./307-range-sum-query-mutable/) | Medium | Array, Divide and Conquer, Design, Binary Indexed Tree, Segment Tree, Sqrt Decomposition | java |
