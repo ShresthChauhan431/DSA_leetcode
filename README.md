@@ -1,16 +1,16 @@
 # LeetCode Solutions
 
-> **144** problems solved
+> **145** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (62)
+- [Array](#array) (63)
 - [Backtracking](#backtracking) (12)
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (4)
 - [Binary Tree](#binary-tree) (4)
-- [Bit Manipulation](#bit-manipulation) (24)
+- [Bit Manipulation](#bit-manipulation) (25)
 - [Bitmask](#bitmask) (5)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
 - [Breadth-First Search](#breadth-first-search) (7)
@@ -58,7 +58,7 @@
 - [Sorting](#sorting) (19)
 - [Sqrt Decomposition](#sqrt-decomposition) (1)
 - [Stack](#stack) (1)
-- [String](#string) (22)
+- [String](#string) (23)
 - [Suffix Array](#suffix-array) (1)
 - [Suffix Automaton](#suffix-automaton) (1)
 - [Suffix Tree](#suffix-tree) (1)
@@ -130,6 +130,7 @@
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | java |
 | 2402 | [Meeting Rooms III](./2402-meeting-rooms-iii/) | Hard | java |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-find-xor-sum-of-all-pairs-bitwise-and/) | Hard | java |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-maximum-product-of-word-lengths/) | Hard | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-container-with-most-water/) | Easy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | java |
@@ -214,6 +215,7 @@
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | java |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-find-xor-sum-of-all-pairs-bitwise-and/) | Hard | java |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-maximum-product-of-word-lengths/) | Hard | java |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-minimize-xor/) | Hard | java |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-number-complement/) | Hard | java |
 | 3568 | [Minimum Moves to Clean the Classroom](./3568-minimum-moves-to-clean-the-classroom/) | Medium | java |
@@ -705,6 +707,7 @@
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | java |
 | 2213 | [Longest Substring of One Repeating Character](./2213-longest-substring-of-one-repeating-character/) | Hard | java |
 | 2423 | [Remove Letter To Equalize Frequency](./2423-remove-letter-to-equalize-frequency/) | Easy | java |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-maximum-product-of-word-lengths/) | Hard | java |
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](./2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | java |
@@ -907,6 +910,7 @@
 | 2402 | [Meeting Rooms III](./2402-meeting-rooms-iii/) | Hard | Array, Hash Table, Sorting, Heap (Priority Queue), Simulation | java |
 | 2423 | [Remove Letter To Equalize Frequency](./2423-remove-letter-to-equalize-frequency/) | Easy | Hash Table, String, Counting | java |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-find-xor-sum-of-all-pairs-bitwise-and/) | Hard | Array, Math, Bit Manipulation | java |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-maximum-product-of-word-lengths/) | Hard | Array, String, Bit Manipulation | java |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-minimize-xor/) | Hard | Greedy, Bit Manipulation | java |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-number-complement/) | Hard | Bit Manipulation | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-container-with-most-water/) | Easy | Array, Two Pointers, Greedy | java |
