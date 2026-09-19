@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **139** problems solved
+> **140** problems solved
 
 ## Topics
 
@@ -28,14 +28,14 @@
 - [Enumeration](#enumeration) (5)
 - [Floyd's Cycle Finding Algorithm](#floyd-s-cycle-finding-algorithm) (1)
 - [Game Theory](#game-theory) (4)
-- [Geometry](#geometry) (1)
+- [Geometry](#geometry) (2)
 - [Graph Theory](#graph-theory) (3)
 - [Greedy](#greedy) (9)
 - [Hash Function](#hash-function) (2)
 - [Hash Table](#hash-table) (29)
 - [Heap (Priority Queue)](#heap-priority-queue) (6)
 - [Linked List](#linked-list) (4)
-- [Math](#math) (19)
+- [Math](#math) (20)
 - [Matrix](#matrix) (8)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Memoization](#memoization) (1)
@@ -386,6 +386,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 836 | [Rectangle Overlap](./836-rectangle-overlap/) | Easy | cpp |
+| 1401 | [Circle and Rectangle Overlapping](./1401-circle-and-rectangle-overlapping/) | Medium | java |
 
 ## Graph Theory
 
@@ -482,6 +483,7 @@
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
 | 836 | [Rectangle Overlap](./836-rectangle-overlap/) | Easy | cpp |
 | 877 | [Stone Game](./877-stone-game/) | Medium | java |
+| 1401 | [Circle and Rectangle Overlapping](./1401-circle-and-rectangle-overlapping/) | Medium | java |
 | 1563 | [Stone Game V](./1563-stone-game-v/) | Hard | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-distribute-money-to-maximum-children/) | Easy | java |
 | 2894 | [Divisible and Non-divisible Sums Difference](./2894-divisible-and-non-divisible-sums-difference/) | Easy | java |
@@ -878,6 +880,7 @@
 | 1306 | [Jump Game III](./1306-beautiful-arrangement/) | Medium | Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask | java |
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | Array, Matrix, Prefix Sum | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory | java |
+| 1401 | [Circle and Rectangle Overlapping](./1401-circle-and-rectangle-overlapping/) | Medium | Math, Geometry | java |
 | 1446 | [Consecutive Characters](./1446-consecutive-characters/) | Easy | String | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | Array, Sorting, Heap (Priority Queue) | java |
 | 1563 | [Stone Game V](./1563-stone-game-v/) | Hard | Array, Math, Dynamic Programming, Game Theory | java |
