@@ -1,0 +1,11 @@
+Example 1:
+Input: words = ["abcw","baz","foo","bar","xtfn","abcdef"]
+Output: 16
+
+Example 2:
+Input: words = ["a","ab","abc","d","cd","bcd","abcd"]
+Output: 4
+
+Example 3:
+Input: words = ["a","aa","aaa","aaaa"]
+Output: 0
