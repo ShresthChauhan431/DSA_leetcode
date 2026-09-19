@@ -1,0 +1,7 @@
+Example 1:
+Input: s = "adefaddaccc"
+Output: ["e","f","ccc"]
+
+Example 2:
+Input: s = "abbaccd"
+Output: ["d","bb","cc"]
