@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **140** problems solved
+> **141** problems solved
 
 ## Topics
 
@@ -30,9 +30,9 @@
 - [Game Theory](#game-theory) (4)
 - [Geometry](#geometry) (2)
 - [Graph Theory](#graph-theory) (3)
-- [Greedy](#greedy) (9)
+- [Greedy](#greedy) (10)
 - [Hash Function](#hash-function) (2)
-- [Hash Table](#hash-table) (29)
+- [Hash Table](#hash-table) (30)
 - [Heap (Priority Queue)](#heap-priority-queue) (6)
 - [Linked List](#linked-list) (4)
 - [Math](#math) (20)
@@ -55,10 +55,10 @@
 - [Sieve Theory](#sieve-theory) (1)
 - [Simulation](#simulation) (3)
 - [Sliding Window](#sliding-window) (8)
-- [Sorting](#sorting) (18)
+- [Sorting](#sorting) (19)
 - [Sqrt Decomposition](#sqrt-decomposition) (1)
 - [Stack](#stack) (1)
-- [String](#string) (21)
+- [String](#string) (22)
 - [Suffix Array](#suffix-array) (1)
 - [Suffix Automaton](#suffix-automaton) (1)
 - [Suffix Tree](#suffix-tree) (1)
@@ -403,6 +403,7 @@
 | 55 | [Jump Game](./55-jump-game/) | Medium | java |
 | 55 | [Jump Game](./55-jump-game-ii/) | Medium | java |
 | 875 | [Koko Eating Bananas](./875-split-array-largest-sum/) | Medium | java |
+| 1401 | [Circle and Rectangle Overlapping](./1401-maximum-number-of-non-overlapping-substrings/) | Medium | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-container-with-most-water/) | Easy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-distribute-money-to-maximum-children/) | Easy | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
@@ -438,6 +439,7 @@
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
+| 1401 | [Circle and Rectangle Overlapping](./1401-maximum-number-of-non-overlapping-substrings/) | Medium | java |
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | java |
 | 2402 | [Meeting Rooms III](./2402-meeting-rooms-iii/) | Hard | java |
 | 2423 | [Remove Letter To Equalize Frequency](./2423-remove-letter-to-equalize-frequency/) | Easy | java |
@@ -653,6 +655,7 @@
 | 295 | [Find Median from Data Stream](./295-find-median-from-data-stream/) | Hard | java |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
+| 1401 | [Circle and Rectangle Overlapping](./1401-maximum-number-of-non-overlapping-substrings/) | Medium | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | java |
@@ -691,6 +694,7 @@
 | 784 | [Letter Case Permutation](./784-letter-case-permutation/) | Medium | java |
 | 1044 | [Longest Duplicate Substring](./1044-longest-duplicate-substring/) | Hard | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
+| 1401 | [Circle and Rectangle Overlapping](./1401-maximum-number-of-non-overlapping-substrings/) | Medium | java |
 | 1446 | [Consecutive Characters](./1446-consecutive-characters/) | Easy | java |
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | java |
 | 2213 | [Longest Substring of One Repeating Character](./2213-longest-substring-of-one-repeating-character/) | Hard | java |
@@ -881,6 +885,7 @@
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | Array, Matrix, Prefix Sum | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory | java |
 | 1401 | [Circle and Rectangle Overlapping](./1401-circle-and-rectangle-overlapping/) | Medium | Math, Geometry | java |
+| 1401 | [Circle and Rectangle Overlapping](./1401-maximum-number-of-non-overlapping-substrings/) | Medium | Hash Table, String, Greedy, Sorting | java |
 | 1446 | [Consecutive Characters](./1446-consecutive-characters/) | Easy | String | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | Array, Sorting, Heap (Priority Queue) | java |
 | 1563 | [Stone Game V](./1563-stone-game-v/) | Hard | Array, Math, Dynamic Programming, Game Theory | java |
