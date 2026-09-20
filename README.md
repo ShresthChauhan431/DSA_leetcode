@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **146** problems solved
+> **147** problems solved
 
 ## Topics
 
@@ -69,7 +69,7 @@
 - [Union-Find](#union-find) (4)
 - [Z Algorithm](#z-algorithm) (2)
 - [Zero-Sum Game](#zero-sum-game) (1)
-- [Uncategorized](#uncategorized) (29)
+- [Uncategorized](#uncategorized) (30)
 - [All Problems](#all-problems)
 
 ## Algorithm X
@@ -825,6 +825,7 @@
 | 101175 | [Count Values With Equally Spaced Occurrences I](./101175-count-values-with-equally-spaced-occurrences-ii/) | Easy | java |
 | 101176 | [Cyclically Shift Rows and Columns](./101176-count-shadow-pairs-i/) | Easy | java |
 | 101176 | [Cyclically Shift Rows and Columns](./101176-cyclically-shift-rows-and-columns/) | Easy | java |
+| 101178 | [Number of Intersecting Interval Pairs I](./101178-number-of-intersecting-interval-pairs-i/) | Easy | java |
 
 ## All Problems
 
@@ -976,6 +977,7 @@
 | 101175 | [Count Values With Equally Spaced Occurrences I](./101175-count-values-with-equally-spaced-occurrences-ii/) | Easy | - | java |
 | 101176 | [Cyclically Shift Rows and Columns](./101176-count-shadow-pairs-i/) | Easy | - | java |
 | 101176 | [Cyclically Shift Rows and Columns](./101176-cyclically-shift-rows-and-columns/) | Easy | - | java |
+| 101178 | [Number of Intersecting Interval Pairs I](./101178-number-of-intersecting-interval-pairs-i/) | Easy | - | java |
 
 ---
 
