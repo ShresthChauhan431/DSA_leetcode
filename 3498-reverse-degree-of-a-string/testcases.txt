@@ -1,0 +1,7 @@
+Example 1:
+Input: s = "abc"
+Output: 148
+
+Example 2:
+Input: s = "zaza"
+Output: 160
