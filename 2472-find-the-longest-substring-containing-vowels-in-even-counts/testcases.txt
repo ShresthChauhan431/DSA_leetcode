@@ -1,0 +1,11 @@
+Example 1:
+Input: s = "eleetminicoworoep"
+Output: 13
+
+Example 2:
+Input: s = "leetcodeisgreat"
+Output: 5
+
+Example 3:
+Input: s = "bcbcbc"
+Output: 6
