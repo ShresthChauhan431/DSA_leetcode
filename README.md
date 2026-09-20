@@ -1,16 +1,16 @@
 # LeetCode Solutions
 
-> **149** problems solved
+> **150** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (64)
+- [Array](#array) (65)
 - [Backtracking](#backtracking) (12)
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (4)
 - [Binary Tree](#binary-tree) (4)
-- [Bit Manipulation](#bit-manipulation) (26)
+- [Bit Manipulation](#bit-manipulation) (27)
 - [Bitmask](#bitmask) (5)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
 - [Breadth-First Search](#breadth-first-search) (7)
@@ -32,7 +32,7 @@
 - [Graph Theory](#graph-theory) (3)
 - [Greedy](#greedy) (11)
 - [Hash Function](#hash-function) (2)
-- [Hash Table](#hash-table) (30)
+- [Hash Table](#hash-table) (31)
 - [Heap (Priority Queue)](#heap-priority-queue) (6)
 - [Linked List](#linked-list) (4)
 - [Math](#math) (21)
@@ -139,6 +139,7 @@
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium | java |
 | 3069 | [Distribute Elements Into Two Arrays I](./3069-distribute-elements-into-two-arrays-i/) | Easy | java |
 | 3107 | [Minimum Operations to Make Median of Array Equal to K](./3107-minimum-operations-to-make-median-of-array-equal-to-k/) | Medium | java |
+| 3158 | [Find the XOR of Numbers Which Appear Twice](./3158-find-the-xor-of-numbers-which-appear-twice/) | Easy | java |
 | 3238 | [Find the Number of Winning Players](./3238-find-the-number-of-winning-players/) | Easy | java |
 | 3483 | [Unique 3-Digit Even Numbers](./3483-unique-3-digit-even-numbers/) | Easy | java |
 | 3568 | [Minimum Moves to Clean the Classroom](./3568-minimum-moves-to-clean-the-classroom/) | Medium | java |
@@ -220,6 +221,7 @@
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-minimize-xor/) | Hard | java |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-number-complement/) | Hard | java |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-single-number-ii/) | Hard | java |
+| 3158 | [Find the XOR of Numbers Which Appear Twice](./3158-find-the-xor-of-numbers-which-appear-twice/) | Easy | java |
 | 3568 | [Minimum Moves to Clean the Classroom](./3568-minimum-moves-to-clean-the-classroom/) | Medium | java |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](./3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium | java |
 
@@ -455,6 +457,7 @@
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium | java |
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | java |
 | 3090 | [Maximum Length Substring With Two Occurrences](./3090-maximum-length-substring-with-two-occurrences/) | Easy | java |
+| 3158 | [Find the XOR of Numbers Which Appear Twice](./3158-find-the-xor-of-numbers-which-appear-twice/) | Easy | java |
 | 3238 | [Find the Number of Winning Players](./3238-find-the-number-of-winning-players/) | Easy | java |
 | 3483 | [Unique 3-Digit Even Numbers](./3483-unique-3-digit-even-numbers/) | Easy | java |
 | 3568 | [Minimum Moves to Clean the Classroom](./3568-minimum-moves-to-clean-the-classroom/) | Medium | java |
@@ -932,6 +935,7 @@
 | 3069 | [Distribute Elements Into Two Arrays I](./3069-distribute-elements-into-two-arrays-i/) | Easy | Array, Simulation | java |
 | 3090 | [Maximum Length Substring With Two Occurrences](./3090-maximum-length-substring-with-two-occurrences/) | Easy | Hash Table, String, Sliding Window | java |
 | 3107 | [Minimum Operations to Make Median of Array Equal to K](./3107-minimum-operations-to-make-median-of-array-equal-to-k/) | Medium | Array, Greedy, Sorting | java |
+| 3158 | [Find the XOR of Numbers Which Appear Twice](./3158-find-the-xor-of-numbers-which-appear-twice/) | Easy | Array, Hash Table, Bit Manipulation | java |
 | 3222 | [Find the Winning Player in Coin Game](./3222-find-the-winning-player-in-coin-game/) | Easy | Math, Simulation, Game Theory | java |
 | 3238 | [Find the Number of Winning Players](./3238-find-the-number-of-winning-players/) | Easy | Array, Hash Table, Counting | java |
 | 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | Medium | Depth-First Search, Breadth-First Search, Graph Theory | java |
