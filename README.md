@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **151** problems solved
+> **152** problems solved
 
 ## Topics
 
@@ -53,12 +53,12 @@
 - [Rolling Hash](#rolling-hash) (2)
 - [Segment Tree](#segment-tree) (4)
 - [Sieve Theory](#sieve-theory) (1)
-- [Simulation](#simulation) (3)
+- [Simulation](#simulation) (4)
 - [Sliding Window](#sliding-window) (8)
 - [Sorting](#sorting) (19)
 - [Sqrt Decomposition](#sqrt-decomposition) (1)
 - [Stack](#stack) (1)
-- [String](#string) (24)
+- [String](#string) (25)
 - [Suffix Array](#suffix-array) (1)
 - [Suffix Automaton](#suffix-automaton) (1)
 - [Suffix Tree](#suffix-tree) (1)
@@ -645,6 +645,7 @@
 | 2402 | [Meeting Rooms III](./2402-meeting-rooms-iii/) | Hard | java |
 | 3069 | [Distribute Elements Into Two Arrays I](./3069-distribute-elements-into-two-arrays-i/) | Easy | java |
 | 3222 | [Find the Winning Player in Coin Game](./3222-find-the-winning-player-in-coin-game/) | Easy | java |
+| 3498 | [Reverse Degree of a String](./3498-reverse-degree-of-a-string/) | Easy | java |
 
 ## Sliding Window
 
@@ -721,6 +722,7 @@
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | java |
 | 3090 | [Maximum Length Substring With Two Occurrences](./3090-maximum-length-substring-with-two-occurrences/) | Easy | java |
+| 3498 | [Reverse Degree of a String](./3498-reverse-degree-of-a-string/) | Easy | java |
 | 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i/) | Medium | java |
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](./3720-lexicographically-smallest-permutation-greater-than-target/) | Medium | java |
 
@@ -946,6 +948,7 @@
 | 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | Medium | Depth-First Search, Breadth-First Search, Graph Theory | java |
 | 3345 | [Smallest Divisible Digit Product I](./3345-smallest-divisible-digit-product-i/) | Easy | Math, Enumeration | java |
 | 3483 | [Unique 3-Digit Even Numbers](./3483-unique-3-digit-even-numbers/) | Easy | Array, Hash Table, Recursion, Enumeration | java |
+| 3498 | [Reverse Degree of a String](./3498-reverse-degree-of-a-string/) | Easy | String, Simulation | java |
 | 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i/) | Medium | String, Sorting, Counting Sort | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | Math, Sorting | java |
 | 3568 | [Minimum Moves to Clean the Classroom](./3568-minimum-moves-to-clean-the-classroom/) | Medium | Array, Hash Table, Bit Manipulation, Breadth-First Search, Matrix | java |
