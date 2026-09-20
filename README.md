@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **150** problems solved
+> **151** problems solved
 
 ## Topics
 
@@ -10,7 +10,7 @@
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (4)
 - [Binary Tree](#binary-tree) (4)
-- [Bit Manipulation](#bit-manipulation) (27)
+- [Bit Manipulation](#bit-manipulation) (28)
 - [Bitmask](#bitmask) (5)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
 - [Breadth-First Search](#breadth-first-search) (7)
@@ -32,7 +32,7 @@
 - [Graph Theory](#graph-theory) (3)
 - [Greedy](#greedy) (11)
 - [Hash Function](#hash-function) (2)
-- [Hash Table](#hash-table) (31)
+- [Hash Table](#hash-table) (32)
 - [Heap (Priority Queue)](#heap-priority-queue) (6)
 - [Linked List](#linked-list) (4)
 - [Math](#math) (21)
@@ -44,7 +44,7 @@
 - [Monotonic Stack](#monotonic-stack) (1)
 - [Number Theory](#number-theory) (1)
 - [Ordered Set](#ordered-set) (4)
-- [Prefix Sum](#prefix-sum) (6)
+- [Prefix Sum](#prefix-sum) (7)
 - [Primality Test](#primality-test) (1)
 - [Prime Number Sieve](#prime-number-sieve) (1)
 - [Randomized](#randomized) (1)
@@ -58,7 +58,7 @@
 - [Sorting](#sorting) (19)
 - [Sqrt Decomposition](#sqrt-decomposition) (1)
 - [Stack](#stack) (1)
-- [String](#string) (23)
+- [String](#string) (24)
 - [Suffix Array](#suffix-array) (1)
 - [Suffix Automaton](#suffix-automaton) (1)
 - [Suffix Tree](#suffix-tree) (1)
@@ -216,6 +216,7 @@
 | 1601 | [Maximum Number of Achievable Transfer Requests](./1601-maximum-number-of-achievable-transfer-requests/) | Hard | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | java |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-find-the-longest-substring-containing-vowels-in-even-counts/) | Hard | java |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-find-xor-sum-of-all-pairs-bitwise-and/) | Hard | java |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-maximum-product-of-word-lengths/) | Hard | java |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-minimize-xor/) | Hard | java |
@@ -454,6 +455,7 @@
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | java |
 | 2402 | [Meeting Rooms III](./2402-meeting-rooms-iii/) | Hard | java |
 | 2423 | [Remove Letter To Equalize Frequency](./2423-remove-letter-to-equalize-frequency/) | Easy | java |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-find-the-longest-substring-containing-vowels-in-even-counts/) | Hard | java |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium | java |
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | java |
 | 3090 | [Maximum Length Substring With Two Occurrences](./3090-maximum-length-substring-with-two-occurrences/) | Easy | java |
@@ -578,6 +580,7 @@
 | 784 | [Letter Case Permutation](./784-xor-queries-of-a-subarray/) | Medium | java |
 | 875 | [Koko Eating Bananas](./875-split-array-largest-sum/) | Medium | java |
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | java |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-find-the-longest-substring-containing-vowels-in-even-counts/) | Hard | java |
 | 3903 | [Smallest Stable Index I](./3903-smallest-stable-index-i/) | Easy | java |
 | 3904 | [Smallest Stable Index II](./3904-smallest-stable-index-ii/) | Medium | java |
 
@@ -712,6 +715,7 @@
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | java |
 | 2213 | [Longest Substring of One Repeating Character](./2213-longest-substring-of-one-repeating-character/) | Hard | java |
 | 2423 | [Remove Letter To Equalize Frequency](./2423-remove-letter-to-equalize-frequency/) | Easy | java |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-find-the-longest-substring-containing-vowels-in-even-counts/) | Hard | java |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-maximum-product-of-word-lengths/) | Hard | java |
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](./2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
@@ -917,6 +921,7 @@
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | Array, Two Pointers, Binary Search, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Ordered Set, Bitmask | java |
 | 2402 | [Meeting Rooms III](./2402-meeting-rooms-iii/) | Hard | Array, Hash Table, Sorting, Heap (Priority Queue), Simulation | java |
 | 2423 | [Remove Letter To Equalize Frequency](./2423-remove-letter-to-equalize-frequency/) | Easy | Hash Table, String, Counting | java |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-find-the-longest-substring-containing-vowels-in-even-counts/) | Hard | Hash Table, String, Bit Manipulation, Prefix Sum | java |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-find-xor-sum-of-all-pairs-bitwise-and/) | Hard | Array, Math, Bit Manipulation | java |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-maximum-product-of-word-lengths/) | Hard | Array, String, Bit Manipulation | java |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-minimize-xor/) | Hard | Greedy, Bit Manipulation | java |
