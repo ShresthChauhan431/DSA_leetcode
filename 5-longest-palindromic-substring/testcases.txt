@@ -1,0 +1,7 @@
+Example 1:
+Input: s = "babad"
+Output: "bab"
+
+Example 2:
+Input: s = "cbbd"
+Output: "bb"
