@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **155** problems solved
+> **156** problems solved
 
 ## Topics
 
@@ -25,7 +25,7 @@
 - [Divide and Conquer](#divide-and-conquer) (5)
 - [Doubly-Linked List](#doubly-linked-list) (2)
 - [DP on Trees](#dp-on-trees) (2)
-- [Dynamic Programming](#dynamic-programming) (25)
+- [Dynamic Programming](#dynamic-programming) (26)
 - [Enumeration](#enumeration) (5)
 - [Floyd's Cycle Finding Algorithm](#floyd-s-cycle-finding-algorithm) (1)
 - [Game Theory](#game-theory) (4)
@@ -61,7 +61,7 @@
 - [Sorting](#sorting) (19)
 - [Sqrt Decomposition](#sqrt-decomposition) (1)
 - [Stack](#stack) (1)
-- [String](#string) (26)
+- [String](#string) (27)
 - [Suffix Array](#suffix-array) (1)
 - [Suffix Automaton](#suffix-automaton) (1)
 - [Suffix Tree](#suffix-tree) (1)
@@ -365,6 +365,7 @@
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | java |
 | 473 | [Matchsticks to Square](./473-matchsticks-to-square/) | Medium | java |
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
+| 516 | [Longest Palindromic Subsequence](./516-longest-palindromic-subsequence/) | Medium | java |
 | 518 | [Coin Change II](./518-coin-change-ii/) | Medium | java |
 | 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | java |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | java |
@@ -739,6 +740,7 @@
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | java |
 | 136 | [Single Number](./136-find-the-difference/) | Easy | java |
 | 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | java |
+| 516 | [Longest Palindromic Subsequence](./516-longest-palindromic-subsequence/) | Medium | java |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | java |
 | 784 | [Letter Case Permutation](./784-letter-case-permutation/) | Medium | java |
 | 1044 | [Longest Duplicate Substring](./1044-longest-duplicate-substring/) | Hard | java |
@@ -915,6 +917,7 @@
 | 485 | [Max Consecutive Ones](./485-max-consecutive-ones/) | Easy | Array | java |
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | Array, Math, Dynamic Programming, Recursion, Game Theory | java |
 | 491 | [Non-decreasing Subsequences](./491-non-decreasing-subsequences/) | Medium | Array, Hash Table, Backtracking, Bit Manipulation | java |
+| 516 | [Longest Palindromic Subsequence](./516-longest-palindromic-subsequence/) | Medium | String, Dynamic Programming | java |
 | 518 | [Coin Change II](./518-coin-change-ii/) | Medium | Array, Dynamic Programming | java |
 | 577 | [Employee Bonus](./577-employee-bonus/) | Easy | Database | mysql |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | Array, Math, Sorting | java |
