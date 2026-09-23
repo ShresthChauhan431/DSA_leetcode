@@ -1,0 +1,11 @@
+Example 1:
+Input: s = "zzazz"
+Output: 0
+
+Example 2:
+Input: s = "mbadm"
+Output: 2
+
+Example 3:
+Input: s = "leetcode"
+Output: 5
