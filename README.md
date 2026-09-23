@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **156** problems solved
+> **157** problems solved
 
 ## Topics
 
@@ -25,7 +25,7 @@
 - [Divide and Conquer](#divide-and-conquer) (5)
 - [Doubly-Linked List](#doubly-linked-list) (2)
 - [DP on Trees](#dp-on-trees) (2)
-- [Dynamic Programming](#dynamic-programming) (26)
+- [Dynamic Programming](#dynamic-programming) (27)
 - [Enumeration](#enumeration) (5)
 - [Floyd's Cycle Finding Algorithm](#floyd-s-cycle-finding-algorithm) (1)
 - [Game Theory](#game-theory) (4)
@@ -61,7 +61,7 @@
 - [Sorting](#sorting) (19)
 - [Sqrt Decomposition](#sqrt-decomposition) (1)
 - [Stack](#stack) (1)
-- [String](#string) (27)
+- [String](#string) (28)
 - [Suffix Array](#suffix-array) (1)
 - [Suffix Automaton](#suffix-automaton) (1)
 - [Suffix Tree](#suffix-tree) (1)
@@ -356,6 +356,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 5 | [Longest Palindromic Substring](./5-longest-palindromic-substring/) | Medium | java |
+| 5 | [Longest Palindromic Substring](./5-minimum-insertion-steps-to-make-a-string-palindrome/) | Medium | java |
 | 55 | [Jump Game](./55-jump-game/) | Medium | java |
 | 55 | [Jump Game](./55-jump-game-ii/) | Medium | java |
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | java |
@@ -734,6 +735,7 @@
 |---|-------|------------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
 | 5 | [Longest Palindromic Substring](./5-longest-palindromic-substring/) | Medium | java |
+| 5 | [Longest Palindromic Substring](./5-minimum-insertion-steps-to-make-a-string-palindrome/) | Medium | java |
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | java |
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | java |
 | 79 | [Word Search](./79-word-search/) | Medium | java |
@@ -880,6 +882,7 @@
 | 2 | [Add Two Numbers](./2-3sum/) | Medium | Array, Two Pointers, Sorting | java |
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window | java |
 | 5 | [Longest Palindromic Substring](./5-longest-palindromic-substring/) | Medium | Two Pointers, String, Dynamic Programming, Manacher | java |
+| 5 | [Longest Palindromic Substring](./5-minimum-insertion-steps-to-make-a-string-palindrome/) | Medium | String, Dynamic Programming | java |
 | 36 | [Valid Sudoku](./36-valid-sudoku/) | Medium | Array, Hash Table, Matrix | java |
 | 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | Array, Hash Table, Backtracking, Matrix, Algorithm X, Dancing Links | java |
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | Array, Hash Table, String, Sorting | java |
