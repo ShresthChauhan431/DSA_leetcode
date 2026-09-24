@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **159** problems solved
+> **160** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (66)
+- [Array](#array) (67)
 - [Backtracking](#backtracking) (13)
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (5)
@@ -37,7 +37,7 @@
 - [Heap (Priority Queue)](#heap-priority-queue) (7)
 - [Linked List](#linked-list) (4)
 - [Manacher](#manacher) (1)
-- [Math](#math) (21)
+- [Math](#math) (22)
 - [Matrix](#matrix) (8)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Memoization](#memoization) (1)
@@ -146,6 +146,7 @@
 | 3158 | [Find the XOR of Numbers Which Appear Twice](./3158-find-the-xor-of-numbers-which-appear-twice/) | Easy | java |
 | 3238 | [Find the Number of Winning Players](./3238-find-the-number-of-winning-players/) | Easy | java |
 | 3483 | [Unique 3-Digit Even Numbers](./3483-unique-3-digit-even-numbers/) | Easy | java |
+| 3550 | [Smallest Index With Digit Sum Equal to Index](./3550-smallest-index-with-digit-sum-equal-to-index/) | Easy | java |
 | 3568 | [Minimum Moves to Clean the Classroom](./3568-minimum-moves-to-clean-the-classroom/) | Medium | java |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](./3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium | java |
 | 3718 | [Smallest Missing Multiple of K](./3718-smallest-missing-multiple-of-k/) | Easy | java |
@@ -537,6 +538,7 @@
 | 3222 | [Find the Winning Player in Coin Game](./3222-find-the-winning-player-in-coin-game/) | Easy | java |
 | 3345 | [Smallest Divisible Digit Product I](./3345-smallest-divisible-digit-product-i/) | Easy | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | java |
+| 3550 | [Smallest Index With Digit Sum Equal to Index](./3550-smallest-index-with-digit-sum-equal-to-index/) | Easy | java |
 | 3622 | [Check Divisibility by Digit Sum and Product](./3622-check-divisibility-by-digit-sum-and-product/) | Easy | java |
 | 3870 | [Count Commas in Range](./3870-count-commas-in-range/) | Easy | java |
 | 3871 | [Count Commas in Range II](./3871-count-commas-in-range-ii/) | Medium | java |
@@ -1002,6 +1004,7 @@
 | 3498 | [Reverse Degree of a String](./3498-reverse-degree-of-a-string/) | Easy | String, Simulation | java |
 | 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i/) | Medium | String, Sorting, Counting Sort | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | Math, Sorting | java |
+| 3550 | [Smallest Index With Digit Sum Equal to Index](./3550-smallest-index-with-digit-sum-equal-to-index/) | Easy | Array, Math | java |
 | 3568 | [Minimum Moves to Clean the Classroom](./3568-minimum-moves-to-clean-the-classroom/) | Medium | Array, Hash Table, Bit Manipulation, Breadth-First Search, Matrix | java |
 | 3622 | [Check Divisibility by Digit Sum and Product](./3622-check-divisibility-by-digit-sum-and-product/) | Easy | Math | java |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](./3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium | Array, Bit Manipulation | java |
