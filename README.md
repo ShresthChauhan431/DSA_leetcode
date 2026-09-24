@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **160** problems solved
+> **161** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (67)
+- [Array](#array) (68)
 - [Backtracking](#backtracking) (13)
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (5)
@@ -37,7 +37,7 @@
 - [Heap (Priority Queue)](#heap-priority-queue) (7)
 - [Linked List](#linked-list) (4)
 - [Manacher](#manacher) (1)
-- [Math](#math) (22)
+- [Math](#math) (23)
 - [Matrix](#matrix) (8)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Memoization](#memoization) (1)
@@ -46,7 +46,7 @@
 - [Monotonic Stack](#monotonic-stack) (1)
 - [Number Theory](#number-theory) (1)
 - [Ordered Set](#ordered-set) (4)
-- [Prefix Sum](#prefix-sum) (8)
+- [Prefix Sum](#prefix-sum) (9)
 - [Primality Test](#primality-test) (1)
 - [Prime Number Sieve](#prime-number-sieve) (1)
 - [Randomized](#randomized) (1)
@@ -129,6 +129,7 @@
 | 1563 | [Stone Game V](./1563-stone-game-v/) | Hard | java |
 | 1601 | [Maximum Number of Achievable Transfer Requests](./1601-maximum-number-of-achievable-transfer-requests/) | Hard | java |
 | 1658 | [Minimum Operations to Reduce X to Zero](./1658-minimum-operations-to-reduce-x-to-zero/) | Medium | java |
+| 1685 | [Sum of Absolute Differences in a Sorted Array](./1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2213 | [Longest Substring of One Repeating Character](./2213-longest-substring-of-one-repeating-character/) | Hard | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | java |
@@ -531,6 +532,7 @@
 | 877 | [Stone Game](./877-stone-game/) | Medium | java |
 | 1401 | [Circle and Rectangle Overlapping](./1401-circle-and-rectangle-overlapping/) | Medium | java |
 | 1563 | [Stone Game V](./1563-stone-game-v/) | Hard | java |
+| 1685 | [Sum of Absolute Differences in a Sorted Array](./1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium | java |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-find-xor-sum-of-all-pairs-bitwise-and/) | Hard | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-distribute-money-to-maximum-children/) | Easy | java |
 | 2894 | [Divisible and Non-divisible Sums Difference](./2894-divisible-and-non-divisible-sums-difference/) | Easy | java |
@@ -612,6 +614,7 @@
 | 875 | [Koko Eating Bananas](./875-split-array-largest-sum/) | Medium | java |
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | java |
 | 1658 | [Minimum Operations to Reduce X to Zero](./1658-minimum-operations-to-reduce-x-to-zero/) | Medium | java |
+| 1685 | [Sum of Absolute Differences in a Sorted Array](./1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium | java |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-find-the-longest-substring-containing-vowels-in-even-counts/) | Hard | java |
 | 3903 | [Smallest Stable Index I](./3903-smallest-stable-index-i/) | Easy | java |
 | 3904 | [Smallest Stable Index II](./3904-smallest-stable-index-ii/) | Medium | java |
@@ -966,6 +969,7 @@
 | 1601 | [Maximum Number of Achievable Transfer Requests](./1601-maximum-number-of-achievable-transfer-requests/) | Hard | Array, Backtracking, Bit Manipulation, Enumeration | java |
 | 1658 | [Minimum Operations to Reduce X to Zero](./1658-minimum-operations-to-reduce-x-to-zero/) | Medium | Array, Hash Table, Binary Search, Sliding Window, Prefix Sum | java |
 | 1683 | [Invalid Tweets](./1683-invalid-tweets/) | Easy | Database | mysql |
+| 1685 | [Sum of Absolute Differences in a Sorted Array](./1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium | Array, Math, Prefix Sum | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | Array, Two Pointers, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Bitmask | java |
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | Hash Table, String | java |
 | 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](./2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | Linked List | java |
