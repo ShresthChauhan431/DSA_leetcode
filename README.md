@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **161** problems solved
+> **162** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (68)
+- [Array](#array) (69)
 - [Backtracking](#backtracking) (13)
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (5)
@@ -25,7 +25,7 @@
 - [Divide and Conquer](#divide-and-conquer) (5)
 - [Doubly-Linked List](#doubly-linked-list) (2)
 - [DP on Trees](#dp-on-trees) (2)
-- [Dynamic Programming](#dynamic-programming) (29)
+- [Dynamic Programming](#dynamic-programming) (30)
 - [Enumeration](#enumeration) (5)
 - [Floyd's Cycle Finding Algorithm](#floyd-s-cycle-finding-algorithm) (1)
 - [Game Theory](#game-theory) (4)
@@ -38,7 +38,7 @@
 - [Linked List](#linked-list) (4)
 - [Manacher](#manacher) (1)
 - [Math](#math) (23)
-- [Matrix](#matrix) (8)
+- [Matrix](#matrix) (9)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Memoization](#memoization) (1)
 - [Merge Sort](#merge-sort) (1)
@@ -144,6 +144,7 @@
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium | java |
 | 3069 | [Distribute Elements Into Two Arrays I](./3069-distribute-elements-into-two-arrays-i/) | Easy | java |
 | 3107 | [Minimum Operations to Make Median of Array Equal to K](./3107-minimum-operations-to-make-median-of-array-equal-to-k/) | Medium | java |
+| 3148 | [Maximum Difference Score in a Grid](./3148-maximum-difference-score-in-a-grid/) | Medium | java |
 | 3158 | [Find the XOR of Numbers Which Appear Twice](./3158-find-the-xor-of-numbers-which-appear-twice/) | Easy | java |
 | 3238 | [Find the Number of Winning Players](./3238-find-the-number-of-winning-players/) | Easy | java |
 | 3483 | [Unique 3-Digit Even Numbers](./3483-unique-3-digit-even-numbers/) | Easy | java |
@@ -387,6 +388,7 @@
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
 | 2645 | [Minimum Additions to Make Valid String](./2645-minimum-additions-to-make-valid-string/) | Medium | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | java |
+| 3148 | [Maximum Difference Score in a Grid](./3148-maximum-difference-score-in-a-grid/) | Medium | java |
 
 ## Enumeration
 
@@ -557,6 +559,7 @@
 | 994 | [Rotting Oranges](./994-as-far-from-land-as-possible/) | Medium | java |
 | 994 | [Rotting Oranges](./994-rotting-oranges/) | Medium | java |
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | java |
+| 3148 | [Maximum Difference Score in a Grid](./3148-maximum-difference-score-in-a-grid/) | Medium | java |
 | 3568 | [Minimum Moves to Clean the Classroom](./3568-minimum-moves-to-clean-the-classroom/) | Medium | java |
 
 ## Meet in the Middle
@@ -999,6 +1002,7 @@
 | 3069 | [Distribute Elements Into Two Arrays I](./3069-distribute-elements-into-two-arrays-i/) | Easy | Array, Simulation | java |
 | 3090 | [Maximum Length Substring With Two Occurrences](./3090-maximum-length-substring-with-two-occurrences/) | Easy | Hash Table, String, Sliding Window | java |
 | 3107 | [Minimum Operations to Make Median of Array Equal to K](./3107-minimum-operations-to-make-median-of-array-equal-to-k/) | Medium | Array, Greedy, Sorting | java |
+| 3148 | [Maximum Difference Score in a Grid](./3148-maximum-difference-score-in-a-grid/) | Medium | Array, Dynamic Programming, Matrix | java |
 | 3158 | [Find the XOR of Numbers Which Appear Twice](./3158-find-the-xor-of-numbers-which-appear-twice/) | Easy | Array, Hash Table, Bit Manipulation | java |
 | 3222 | [Find the Winning Player in Coin Game](./3222-find-the-winning-player-in-coin-game/) | Easy | Math, Simulation, Game Theory | java |
 | 3238 | [Find the Number of Winning Players](./3238-find-the-number-of-winning-players/) | Easy | Array, Hash Table, Counting | java |
