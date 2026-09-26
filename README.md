@@ -878,6 +878,7 @@
 | 101124 | [Minimum Total Price After Applying Discounts](./101124-weighted-sum-of-a-tree/) | Medium | java |
 | 101126 | [Count Valid Prefixes](./101126-count-valid-prefixes/) | Easy | java |
 | 101126 | [Count Valid Prefixes](./101126-widest-possible-fence/) | Easy | java |
+| 101135 | [Longest Subarray Divisible by K with At Most One Negation I](./101135-longest-subarray-divisible-by-k-with-at-most-one-negation-i/) | Medium | java |
 | 101139 | [Nearest Available Drone](./101139-maximum-gap-between-stations/) | Easy | java |
 | 101139 | [Nearest Available Drone](./101139-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights/) | Easy | java |
 | 101139 | [Nearest Available Drone](./101139-nearest-available-drone/) | Easy | java |
@@ -892,7 +893,6 @@
 | 101178 | [Number of Intersecting Interval Pairs I](./101178-maximum-pulse-value-after-one-subarray-rotation/) | Easy | java |
 | 101178 | [Number of Intersecting Interval Pairs I](./101178-number-of-intersecting-interval-pairs-i/) | Easy | java |
 | 101178 | [Number of Intersecting Interval Pairs I](./101178-number-of-intersecting-interval-pairs-ii/) | Easy | java |
-| 101181 | [Minimum Queen Moves to Reach Target](./101181-longest-subarray-divisible-by-k-with-at-most-one-negation-i/) | Easy | java |
 | 101181 | [Minimum Queen Moves to Reach Target](./101181-minimum-queen-moves-to-reach-target/) | Easy | java |
 | 101181 | [Minimum Queen Moves to Reach Target](./101181-transform-array-using-pair-operations/) | Easy | java |
 
@@ -1049,6 +1049,7 @@
 | 101124 | [Minimum Total Price After Applying Discounts](./101124-weighted-sum-of-a-tree/) | Medium | - | java |
 | 101126 | [Count Valid Prefixes](./101126-count-valid-prefixes/) | Easy | - | java |
 | 101126 | [Count Valid Prefixes](./101126-widest-possible-fence/) | Easy | - | java |
+| 101135 | [Longest Subarray Divisible by K with At Most One Negation I](./101135-longest-subarray-divisible-by-k-with-at-most-one-negation-i/) | Medium | - | java |
 | 101139 | [Nearest Available Drone](./101139-maximum-gap-between-stations/) | Easy | - | java |
 | 101139 | [Nearest Available Drone](./101139-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights/) | Easy | - | java |
 | 101139 | [Nearest Available Drone](./101139-nearest-available-drone/) | Easy | - | java |
@@ -1063,7 +1064,6 @@
 | 101178 | [Number of Intersecting Interval Pairs I](./101178-maximum-pulse-value-after-one-subarray-rotation/) | Easy | - | java |
 | 101178 | [Number of Intersecting Interval Pairs I](./101178-number-of-intersecting-interval-pairs-i/) | Easy | - | java |
 | 101178 | [Number of Intersecting Interval Pairs I](./101178-number-of-intersecting-interval-pairs-ii/) | Easy | - | java |
-| 101181 | [Minimum Queen Moves to Reach Target](./101181-longest-subarray-divisible-by-k-with-at-most-one-negation-i/) | Easy | - | java |
 | 101181 | [Minimum Queen Moves to Reach Target](./101181-minimum-queen-moves-to-reach-target/) | Easy | - | java |
 | 101181 | [Minimum Queen Moves to Reach Target](./101181-transform-array-using-pair-operations/) | Easy | - | java |
 
