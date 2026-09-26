@@ -1,0 +1,11 @@
+Example 1:
+Input: s = "(name)is(age)yearsold", knowledge = [["name","bob"],["age","two"]]
+Output: "bobistwoyearsold"
+
+Example 2:
+Input: s = "hi(name)", knowledge = [["a","b"]]
+Output: "hi?"
+
+Example 3:
+Input: s = "(a)(a)(a)aaa", knowledge = [["a","yes"]]
+Output: "yesyesyesaaa"
