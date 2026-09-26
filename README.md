@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **164** problems solved
+> **165** problems solved
 
 ## Topics
 
@@ -72,7 +72,7 @@
 - [Union-Find](#union-find) (4)
 - [Z Algorithm](#z-algorithm) (2)
 - [Zero-Sum Game](#zero-sum-game) (1)
-- [Uncategorized](#uncategorized) (33)
+- [Uncategorized](#uncategorized) (34)
 - [All Problems](#all-problems)
 
 ## Algorithm X
@@ -893,6 +893,7 @@
 | 101178 | [Number of Intersecting Interval Pairs I](./101178-number-of-intersecting-interval-pairs-i/) | Easy | java |
 | 101178 | [Number of Intersecting Interval Pairs I](./101178-number-of-intersecting-interval-pairs-ii/) | Easy | java |
 | 101181 | [Minimum Queen Moves to Reach Target](./101181-minimum-queen-moves-to-reach-target/) | Easy | java |
+| 101181 | [Minimum Queen Moves to Reach Target](./101181-transform-array-using-pair-operations/) | Easy | java |
 
 ## All Problems
 
@@ -1062,6 +1063,7 @@
 | 101178 | [Number of Intersecting Interval Pairs I](./101178-number-of-intersecting-interval-pairs-i/) | Easy | - | java |
 | 101178 | [Number of Intersecting Interval Pairs I](./101178-number-of-intersecting-interval-pairs-ii/) | Easy | - | java |
 | 101181 | [Minimum Queen Moves to Reach Target](./101181-minimum-queen-moves-to-reach-target/) | Easy | - | java |
+| 101181 | [Minimum Queen Moves to Reach Target](./101181-transform-array-using-pair-operations/) | Easy | - | java |
 
 ---
 
