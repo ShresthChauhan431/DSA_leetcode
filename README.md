@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **166** problems solved
+> **167** problems solved
 
 ## Topics
 
@@ -13,6 +13,7 @@
 - [Bit Manipulation](#bit-manipulation) (28)
 - [Bitmask](#bitmask) (5)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
+- [Bracket Sequences](#bracket-sequences) (1)
 - [Breadth-First Search](#breadth-first-search) (8)
 - [Counting](#counting) (5)
 - [Counting Sort](#counting-sort) (1)
@@ -60,8 +61,8 @@
 - [Sliding Window](#sliding-window) (9)
 - [Sorting](#sorting) (19)
 - [Sqrt Decomposition](#sqrt-decomposition) (1)
-- [Stack](#stack) (2)
-- [String](#string) (31)
+- [Stack](#stack) (3)
+- [String](#string) (32)
 - [Suffix Array](#suffix-array) (1)
 - [Suffix Automaton](#suffix-automaton) (1)
 - [Suffix Tree](#suffix-tree) (1)
@@ -252,6 +253,12 @@
 |---|-------|------------|----------|
 | 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | java |
 | 1044 | [Longest Duplicate Substring](./1044-longest-duplicate-substring/) | Hard | java |
+
+## Bracket Sequences
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](./1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium | java |
 
 ## Breadth-First Search
 
@@ -741,6 +748,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](./1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
 | 2645 | [Minimum Additions to Make Valid String](./2645-minimum-additions-to-make-valid-string/) | Medium | java |
 
@@ -763,6 +771,7 @@
 | 784 | [Letter Case Permutation](./784-letter-case-permutation/) | Medium | java |
 | 1044 | [Longest Duplicate Substring](./1044-longest-duplicate-substring/) | Hard | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](./1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium | java |
 | 1401 | [Circle and Rectangle Overlapping](./1401-maximum-number-of-non-overlapping-substrings/) | Medium | java |
 | 1446 | [Consecutive Characters](./1446-consecutive-characters/) | Easy | java |
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | java |
@@ -967,6 +976,7 @@
 | 994 | [Rotting Oranges](./994-rotting-oranges/) | Medium | Array, Breadth-First Search, Matrix | java |
 | 1044 | [Longest Duplicate Substring](./1044-longest-duplicate-substring/) | Hard | String, Binary Search, Sliding Window, Rolling Hash, Suffix Array, Hash Function, Suffix Automaton, Suffix Tree, Z Algorithm, Boyer–Moore String-Search Algorithm | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting | java |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](./1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium | String, Stack, Bracket Sequences | java |
 | 1306 | [Jump Game III](./1306-beautiful-arrangement/) | Medium | Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask | java |
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | Array, Matrix, Prefix Sum | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory | java |
