@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **167** problems solved
+> **168** problems solved
 
 ## Topics
 
@@ -73,7 +73,7 @@
 - [Union-Find](#union-find) (4)
 - [Z Algorithm](#z-algorithm) (2)
 - [Zero-Sum Game](#zero-sum-game) (1)
-- [Uncategorized](#uncategorized) (35)
+- [Uncategorized](#uncategorized) (36)
 - [All Problems](#all-problems)
 
 ## Algorithm X
@@ -879,6 +879,7 @@
 | 4043 | [Count Rotations With Exactly K Equal Adjacent Pairs](./4043-count-robot-groups/) | Easy | java |
 | 4043 | [Count Rotations With Exactly K Equal Adjacent Pairs](./4043-count-rotations-with-exactly-k-equal-adjacent-pairs/) | Easy | java |
 | 4050 | [Minimum Days to Score Exactly N Points](./4050-minimum-days-to-score-exactly-n-points/) | Medium | java |
+| 4065 | [Rearrange Array by Removing Distinct Values](./4065-rearrange-array-by-removing-distinct-values/) | Easy | java |
 | 101110 | [Minimum Initial Strength to Defeat All Monsters](./101110-minimum-initial-strength-to-defeat-all-monsters/) | Medium | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-aggregate-two-time-series/) | Easy | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-count-valid-sequences/) | Easy | java |
@@ -1051,6 +1052,7 @@
 | 4043 | [Count Rotations With Exactly K Equal Adjacent Pairs](./4043-count-robot-groups/) | Easy | - | java |
 | 4043 | [Count Rotations With Exactly K Equal Adjacent Pairs](./4043-count-rotations-with-exactly-k-equal-adjacent-pairs/) | Easy | - | java |
 | 4050 | [Minimum Days to Score Exactly N Points](./4050-minimum-days-to-score-exactly-n-points/) | Medium | - | java |
+| 4065 | [Rearrange Array by Removing Distinct Values](./4065-rearrange-array-by-removing-distinct-values/) | Easy | - | java |
 | 101110 | [Minimum Initial Strength to Defeat All Monsters](./101110-minimum-initial-strength-to-defeat-all-monsters/) | Medium | - | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-aggregate-two-time-series/) | Easy | - | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-count-valid-sequences/) | Easy | - | java |
