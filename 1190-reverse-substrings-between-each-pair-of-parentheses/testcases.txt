@@ -1,0 +1,11 @@
+Example 1:
+Input: s = "(abcd)"
+Output: "dcba"
+
+Example 2:
+Input: s = "(u(love)i)"
+Output: "iloveu"
+
+Example 3:
+Input: s = "(ed(et(oc))el)"
+Output: "leetcode"
