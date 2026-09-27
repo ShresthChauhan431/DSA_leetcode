@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **168** problems solved
+> **169** problems solved
 
 ## Topics
 
@@ -73,7 +73,7 @@
 - [Union-Find](#union-find) (4)
 - [Z Algorithm](#z-algorithm) (2)
 - [Zero-Sum Game](#zero-sum-game) (1)
-- [Uncategorized](#uncategorized) (36)
+- [Uncategorized](#uncategorized) (37)
 - [All Problems](#all-problems)
 
 ## Algorithm X
@@ -880,6 +880,7 @@
 | 4043 | [Count Rotations With Exactly K Equal Adjacent Pairs](./4043-count-rotations-with-exactly-k-equal-adjacent-pairs/) | Easy | java |
 | 4050 | [Minimum Days to Score Exactly N Points](./4050-minimum-days-to-score-exactly-n-points/) | Medium | java |
 | 4065 | [Rearrange Array by Removing Distinct Values](./4065-rearrange-array-by-removing-distinct-values/) | Easy | java |
+| 4066 | [Maximum Equal Adjacent Pairs After at Most One Replacement](./4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium | java |
 | 101110 | [Minimum Initial Strength to Defeat All Monsters](./101110-minimum-initial-strength-to-defeat-all-monsters/) | Medium | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-aggregate-two-time-series/) | Easy | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-count-valid-sequences/) | Easy | java |
@@ -1053,6 +1054,7 @@
 | 4043 | [Count Rotations With Exactly K Equal Adjacent Pairs](./4043-count-rotations-with-exactly-k-equal-adjacent-pairs/) | Easy | - | java |
 | 4050 | [Minimum Days to Score Exactly N Points](./4050-minimum-days-to-score-exactly-n-points/) | Medium | - | java |
 | 4065 | [Rearrange Array by Removing Distinct Values](./4065-rearrange-array-by-removing-distinct-values/) | Easy | - | java |
+| 4066 | [Maximum Equal Adjacent Pairs After at Most One Replacement](./4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium | - | java |
 | 101110 | [Minimum Initial Strength to Defeat All Monsters](./101110-minimum-initial-strength-to-defeat-all-monsters/) | Medium | - | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-aggregate-two-time-series/) | Easy | - | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-count-valid-sequences/) | Easy | - | java |
