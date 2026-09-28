@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **169** problems solved
+> **170** problems solved
 
 ## Topics
 
@@ -13,7 +13,7 @@
 - [Bit Manipulation](#bit-manipulation) (28)
 - [Bitmask](#bitmask) (5)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
-- [Bracket Sequences](#bracket-sequences) (1)
+- [Bracket Sequences](#bracket-sequences) (2)
 - [Breadth-First Search](#breadth-first-search) (8)
 - [Counting](#counting) (5)
 - [Counting Sort](#counting-sort) (1)
@@ -61,8 +61,8 @@
 - [Sliding Window](#sliding-window) (9)
 - [Sorting](#sorting) (19)
 - [Sqrt Decomposition](#sqrt-decomposition) (1)
-- [Stack](#stack) (3)
-- [String](#string) (32)
+- [Stack](#stack) (4)
+- [String](#string) (33)
 - [Suffix Array](#suffix-array) (1)
 - [Suffix Automaton](#suffix-automaton) (1)
 - [Suffix Tree](#suffix-tree) (1)
@@ -259,6 +259,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium | java |
+| 1614 | [Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/) | Easy | java |
 
 ## Breadth-First Search
 
@@ -749,6 +750,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium | java |
+| 1614 | [Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/) | Easy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
 | 2645 | [Minimum Additions to Make Valid String](./2645-minimum-additions-to-make-valid-string/) | Medium | java |
 
@@ -774,6 +776,7 @@
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium | java |
 | 1401 | [Circle and Rectangle Overlapping](./1401-maximum-number-of-non-overlapping-substrings/) | Medium | java |
 | 1446 | [Consecutive Characters](./1446-consecutive-characters/) | Easy | java |
+| 1614 | [Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/) | Easy | java |
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | java |
 | 1807 | [Evaluate the Bracket Pairs of a String](./1807-evaluate-the-bracket-pairs-of-a-string/) | Medium | java |
 | 2213 | [Longest Substring of One Repeating Character](./2213-longest-substring-of-one-repeating-character/) | Hard | java |
@@ -988,6 +991,7 @@
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | Array, Sorting, Heap (Priority Queue) | java |
 | 1563 | [Stone Game V](./1563-stone-game-v/) | Hard | Array, Math, Dynamic Programming, Game Theory | java |
 | 1601 | [Maximum Number of Achievable Transfer Requests](./1601-maximum-number-of-achievable-transfer-requests/) | Hard | Array, Backtracking, Bit Manipulation, Enumeration | java |
+| 1614 | [Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/) | Easy | String, Stack, Bracket Sequences | java |
 | 1658 | [Minimum Operations to Reduce X to Zero](./1658-minimum-operations-to-reduce-x-to-zero/) | Medium | Array, Hash Table, Binary Search, Sliding Window, Prefix Sum | java |
 | 1683 | [Invalid Tweets](./1683-invalid-tweets/) | Easy | Database | mysql |
 | 1685 | [Sum of Absolute Differences in a Sorted Array](./1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium | Array, Math, Prefix Sum | java |
