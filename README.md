@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **170** problems solved
+> **171** problems solved
 
 ## Topics
 
@@ -14,28 +14,28 @@
 - [Bitmask](#bitmask) (5)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
 - [Bracket Sequences](#bracket-sequences) (2)
-- [Breadth-First Search](#breadth-first-search) (8)
+- [Breadth-First Search](#breadth-first-search) (9)
 - [Counting](#counting) (5)
 - [Counting Sort](#counting-sort) (1)
 - [Dancing Links](#dancing-links) (1)
 - [Data Stream](#data-stream) (1)
 - [Database](#database) (3)
-- [Depth-First Search](#depth-first-search) (9)
+- [Depth-First Search](#depth-first-search) (10)
 - [Design](#design) (5)
 - [Dijkstra's Algorithm](#dijkstra-s-algorithm) (1)
 - [Divide and Conquer](#divide-and-conquer) (5)
 - [Doubly-Linked List](#doubly-linked-list) (2)
 - [DP on Trees](#dp-on-trees) (2)
-- [Dynamic Programming](#dynamic-programming) (30)
+- [Dynamic Programming](#dynamic-programming) (31)
 - [Enumeration](#enumeration) (5)
 - [Floyd's Cycle Finding Algorithm](#floyd-s-cycle-finding-algorithm) (1)
 - [Game Theory](#game-theory) (4)
 - [Geometry](#geometry) (2)
-- [Graph Theory](#graph-theory) (4)
+- [Graph Theory](#graph-theory) (5)
 - [Greedy](#greedy) (12)
 - [Hash Function](#hash-function) (2)
 - [Hash Table](#hash-table) (34)
-- [Heap (Priority Queue)](#heap-priority-queue) (7)
+- [Heap (Priority Queue)](#heap-priority-queue) (8)
 - [Linked List](#linked-list) (4)
 - [Manacher](#manacher) (1)
 - [Math](#math) (23)
@@ -55,7 +55,7 @@
 - [Reservoir Sampling](#reservoir-sampling) (1)
 - [Rolling Hash](#rolling-hash) (2)
 - [Segment Tree](#segment-tree) (4)
-- [Shortest Path](#shortest-path) (1)
+- [Shortest Path](#shortest-path) (2)
 - [Sieve Theory](#sieve-theory) (1)
 - [Simulation](#simulation) (4)
 - [Sliding Window](#sliding-window) (9)
@@ -267,6 +267,7 @@
 |---|-------|------------|----------|
 | 637 | [Average of Levels in Binary Tree](./637-average-of-levels-in-binary-tree/) | Easy | java |
 | 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
+| 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | java |
 | 994 | [Rotting Oranges](./994-as-far-from-land-as-possible/) | Medium | java |
 | 994 | [Rotting Oranges](./994-rotting-oranges/) | Medium | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
@@ -319,6 +320,7 @@
 | 637 | [Average of Levels in Binary Tree](./637-average-of-levels-in-binary-tree/) | Easy | java |
 | 687 | [Longest Univalue Path](./687-longest-univalue-path/) | Medium | java |
 | 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
+| 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
 | 2265 | [Count Nodes Equal to Average of Subtree](./2265-count-nodes-equal-to-average-of-subtree/) | Medium | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | java |
@@ -385,6 +387,7 @@
 | 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | java |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
+| 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | java |
 | 875 | [Koko Eating Bananas](./875-split-array-largest-sum/) | Medium | java |
 | 877 | [Stone Game](./877-stone-game/) | Medium | java |
 | 983 | [Minimum Cost For Tickets](./983-minimum-cost-for-tickets/) | Medium | java |
@@ -436,6 +439,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
+| 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | java |
 | 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | Medium | java |
@@ -512,6 +516,7 @@
 | 355 | [Design Twitter](./355-design-twitter/) | Medium | java |
 | 480 | [Sliding Window Median](./480-sliding-window-median/) | Hard | java |
 | 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
+| 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | java |
 | 2402 | [Meeting Rooms III](./2402-meeting-rooms-iii/) | Hard | java |
 
@@ -685,6 +690,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
+| 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | java |
 
 ## Sieve Theory
 
@@ -971,6 +977,7 @@
 | 784 | [Letter Case Permutation](./784-maximum-xor-for-each-query/) | Medium | Array, Bit Manipulation, Prefix Sum | java |
 | 784 | [Letter Case Permutation](./784-subsets-ii/) | Medium | Array, Backtracking, Bit Manipulation | java |
 | 784 | [Letter Case Permutation](./784-xor-queries-of-a-subarray/) | Medium | Array, Bit Manipulation, Prefix Sum | java |
+| 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory, Heap (Priority Queue), Shortest Path | java |
 | 835 | [Image Overlap](./835-image-overlap/) | Medium | Array, Matrix | java |
 | 836 | [Rectangle Overlap](./836-rectangle-overlap/) | Easy | Math, Geometry | cpp |
 | 875 | [Koko Eating Bananas](./875-split-array-largest-sum/) | Medium | Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum | java |
