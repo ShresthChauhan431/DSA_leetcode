@@ -1,17 +1,18 @@
 # LeetCode Solutions
 
-> **173** problems solved
+> **174** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (71)
+- [Array](#array) (72)
 - [Backtracking](#backtracking) (13)
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (5)
 - [Binary Tree](#binary-tree) (4)
 - [Bit Manipulation](#bit-manipulation) (28)
 - [Bitmask](#bitmask) (5)
+- [Borůvka's Algorithm](#bor-vka-s-algorithm) (1)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
 - [Bracket Sequences](#bracket-sequences) (4)
 - [Breadth-First Search](#breadth-first-search) (9)
@@ -31,11 +32,12 @@
 - [Floyd's Cycle Finding Algorithm](#floyd-s-cycle-finding-algorithm) (1)
 - [Game Theory](#game-theory) (4)
 - [Geometry](#geometry) (2)
-- [Graph Theory](#graph-theory) (5)
+- [Graph Theory](#graph-theory) (6)
 - [Greedy](#greedy) (12)
 - [Hash Function](#hash-function) (2)
 - [Hash Table](#hash-table) (34)
 - [Heap (Priority Queue)](#heap-priority-queue) (8)
+- [Kruskal's Algorithm](#kruskal-s-algorithm) (1)
 - [Linked List](#linked-list) (4)
 - [Manacher](#manacher) (1)
 - [Math](#math) (23)
@@ -44,10 +46,12 @@
 - [Memoization](#memoization) (1)
 - [Merge Sort](#merge-sort) (1)
 - [Minimax](#minimax) (1)
+- [Minimum Spanning Tree](#minimum-spanning-tree) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
 - [Number Theory](#number-theory) (1)
 - [Ordered Set](#ordered-set) (4)
 - [Prefix Sum](#prefix-sum) (9)
+- [Prim's Algorithm](#prim-s-algorithm) (1)
 - [Primality Test](#primality-test) (1)
 - [Prime Number Sieve](#prime-number-sieve) (1)
 - [Randomized](#randomized) (1)
@@ -70,7 +74,7 @@
 - [Treap](#treap) (2)
 - [Tree](#tree) (4)
 - [Two Pointers](#two-pointers) (9)
-- [Union-Find](#union-find) (4)
+- [Union-Find](#union-find) (5)
 - [Z Algorithm](#z-algorithm) (2)
 - [Zero-Sum Game](#zero-sum-game) (1)
 - [Uncategorized](#uncategorized) (37)
@@ -128,6 +132,7 @@
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | java |
 | 1563 | [Stone Game V](./1563-stone-game-v/) | Hard | java |
+| 1584 | [Min Cost to Connect All Points](./1584-min-cost-to-connect-all-points/) | Medium | java |
 | 1601 | [Maximum Number of Achievable Transfer Requests](./1601-maximum-number-of-achievable-transfer-requests/) | Hard | java |
 | 1658 | [Minimum Operations to Reduce X to Zero](./1658-minimum-operations-to-reduce-x-to-zero/) | Medium | java |
 | 1685 | [Sum of Absolute Differences in a Sorted Array](./1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium | java |
@@ -247,6 +252,12 @@
 | 1306 | [Jump Game III](./1306-beautiful-arrangement/) | Medium | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | java |
+
+## Borůvka's Algorithm
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 1584 | [Min Cost to Connect All Points](./1584-min-cost-to-connect-all-points/) | Medium | java |
 
 ## Boyer–Moore String-Search Algorithm
 
@@ -445,6 +456,7 @@
 | 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
 | 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
+| 1584 | [Min Cost to Connect All Points](./1584-min-cost-to-connect-all-points/) | Medium | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | java |
 | 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | Medium | java |
 
@@ -523,6 +535,12 @@
 | 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | java |
 | 2402 | [Meeting Rooms III](./2402-meeting-rooms-iii/) | Hard | java |
+
+## Kruskal's Algorithm
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 1584 | [Min Cost to Connect All Points](./1584-min-cost-to-connect-all-points/) | Medium | java |
 
 ## Linked List
 
@@ -607,6 +625,12 @@
 |---|-------|------------|----------|
 | 877 | [Stone Game](./877-stone-game/) | Medium | java |
 
+## Minimum Spanning Tree
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 1584 | [Min Cost to Connect All Points](./1584-min-cost-to-connect-all-points/) | Medium | java |
+
 ## Monotonic Stack
 
 | # | Title | Difficulty | Language |
@@ -641,6 +665,12 @@
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-find-the-longest-substring-containing-vowels-in-even-counts/) | Hard | java |
 | 3903 | [Smallest Stable Index I](./3903-smallest-stable-index-i/) | Easy | java |
 | 3904 | [Smallest Stable Index II](./3904-smallest-stable-index-ii/) | Medium | java |
+
+## Prim's Algorithm
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 1584 | [Min Cost to Connect All Points](./1584-min-cost-to-connect-all-points/) | Medium | java |
 
 ## Primality Test
 
@@ -865,6 +895,7 @@
 |---|-------|------------|----------|
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
+| 1584 | [Min Cost to Connect All Points](./1584-min-cost-to-connect-all-points/) | Medium | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | java |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](./2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium | java |
 
@@ -1005,6 +1036,7 @@
 | 1446 | [Consecutive Characters](./1446-consecutive-characters/) | Easy | String | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | Array, Sorting, Heap (Priority Queue) | java |
 | 1563 | [Stone Game V](./1563-stone-game-v/) | Hard | Array, Math, Dynamic Programming, Game Theory | java |
+| 1584 | [Min Cost to Connect All Points](./1584-min-cost-to-connect-all-points/) | Medium | Array, Union-Find, Graph Theory, Minimum Spanning Tree, Prim's Algorithm, Kruskal's Algorithm, Borůvka's Algorithm | java |
 | 1601 | [Maximum Number of Achievable Transfer Requests](./1601-maximum-number-of-achievable-transfer-requests/) | Hard | Array, Backtracking, Bit Manipulation, Enumeration | java |
 | 1614 | [Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/) | Easy | String, Stack, Bracket Sequences | java |
 | 1658 | [Minimum Operations to Reduce X to Zero](./1658-minimum-operations-to-reduce-x-to-zero/) | Medium | Array, Hash Table, Binary Search, Sliding Window, Prefix Sum | java |
