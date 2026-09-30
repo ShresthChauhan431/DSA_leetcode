@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **174** problems solved
+> **175** problems solved
 
 ## Topics
 
@@ -15,13 +15,13 @@
 - [Borůvka's Algorithm](#bor-vka-s-algorithm) (1)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
 - [Bracket Sequences](#bracket-sequences) (4)
-- [Breadth-First Search](#breadth-first-search) (9)
+- [Breadth-First Search](#breadth-first-search) (10)
 - [Counting](#counting) (5)
 - [Counting Sort](#counting-sort) (1)
 - [Dancing Links](#dancing-links) (1)
 - [Data Stream](#data-stream) (1)
 - [Database](#database) (3)
-- [Depth-First Search](#depth-first-search) (10)
+- [Depth-First Search](#depth-first-search) (11)
 - [Design](#design) (5)
 - [Dijkstra's Algorithm](#dijkstra-s-algorithm) (1)
 - [Divide and Conquer](#divide-and-conquer) (5)
@@ -32,7 +32,7 @@
 - [Floyd's Cycle Finding Algorithm](#floyd-s-cycle-finding-algorithm) (1)
 - [Game Theory](#game-theory) (4)
 - [Geometry](#geometry) (2)
-- [Graph Theory](#graph-theory) (6)
+- [Graph Theory](#graph-theory) (7)
 - [Greedy](#greedy) (12)
 - [Hash Function](#hash-function) (2)
 - [Hash Table](#hash-table) (34)
@@ -74,7 +74,7 @@
 - [Treap](#treap) (2)
 - [Tree](#tree) (4)
 - [Two Pointers](#two-pointers) (9)
-- [Union-Find](#union-find) (5)
+- [Union-Find](#union-find) (6)
 - [Z Algorithm](#z-algorithm) (2)
 - [Zero-Sum Game](#zero-sum-game) (1)
 - [Uncategorized](#uncategorized) (37)
@@ -279,6 +279,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 547 | [Number of Provinces](./547-number-of-provinces/) | Medium | java |
 | 637 | [Average of Levels in Binary Tree](./637-average-of-levels-in-binary-tree/) | Easy | java |
 | 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
 | 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | java |
@@ -331,6 +332,7 @@
 |---|-------|------------|----------|
 | 79 | [Word Search](./79-word-search/) | Medium | java |
 | 124 | [Binary Tree Maximum Path Sum](./124-binary-tree-maximum-path-sum/) | Hard | java |
+| 547 | [Number of Provinces](./547-number-of-provinces/) | Medium | java |
 | 637 | [Average of Levels in Binary Tree](./637-average-of-levels-in-binary-tree/) | Easy | java |
 | 687 | [Longest Univalue Path](./687-longest-univalue-path/) | Medium | java |
 | 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
@@ -453,6 +455,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 547 | [Number of Provinces](./547-number-of-provinces/) | Medium | java |
 | 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
 | 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
@@ -894,6 +897,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | java |
+| 547 | [Number of Provinces](./547-number-of-provinces/) | Medium | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
 | 1584 | [Min Cost to Connect All Points](./1584-min-cost-to-connect-all-points/) | Medium | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | java |
@@ -1002,6 +1006,7 @@
 | 491 | [Non-decreasing Subsequences](./491-non-decreasing-subsequences/) | Medium | Array, Hash Table, Backtracking, Bit Manipulation | java |
 | 516 | [Longest Palindromic Subsequence](./516-longest-palindromic-subsequence/) | Medium | String, Dynamic Programming | java |
 | 518 | [Coin Change II](./518-coin-change-ii/) | Medium | Array, Dynamic Programming | java |
+| 547 | [Number of Provinces](./547-number-of-provinces/) | Medium | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory | java |
 | 577 | [Employee Bonus](./577-employee-bonus/) | Easy | Database | mysql |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | Array, Math, Sorting | java |
 | 637 | [Average of Levels in Binary Tree](./637-average-of-levels-in-binary-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | java |
