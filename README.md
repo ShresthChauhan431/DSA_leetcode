@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **175** problems solved
+> **176** problems solved
 
 ## Topics
 
@@ -15,13 +15,13 @@
 - [Borůvka's Algorithm](#bor-vka-s-algorithm) (1)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
 - [Bracket Sequences](#bracket-sequences) (4)
-- [Breadth-First Search](#breadth-first-search) (10)
+- [Breadth-First Search](#breadth-first-search) (11)
 - [Counting](#counting) (5)
 - [Counting Sort](#counting-sort) (1)
 - [Dancing Links](#dancing-links) (1)
 - [Data Stream](#data-stream) (1)
 - [Database](#database) (3)
-- [Depth-First Search](#depth-first-search) (11)
+- [Depth-First Search](#depth-first-search) (12)
 - [Design](#design) (5)
 - [Dijkstra's Algorithm](#dijkstra-s-algorithm) (1)
 - [Divide and Conquer](#divide-and-conquer) (5)
@@ -32,7 +32,7 @@
 - [Floyd's Cycle Finding Algorithm](#floyd-s-cycle-finding-algorithm) (1)
 - [Game Theory](#game-theory) (4)
 - [Geometry](#geometry) (2)
-- [Graph Theory](#graph-theory) (7)
+- [Graph Theory](#graph-theory) (8)
 - [Greedy](#greedy) (12)
 - [Hash Function](#hash-function) (2)
 - [Hash Table](#hash-table) (34)
@@ -74,7 +74,7 @@
 - [Treap](#treap) (2)
 - [Tree](#tree) (4)
 - [Two Pointers](#two-pointers) (9)
-- [Union-Find](#union-find) (6)
+- [Union-Find](#union-find) (7)
 - [Z Algorithm](#z-algorithm) (2)
 - [Zero-Sum Game](#zero-sum-game) (1)
 - [Uncategorized](#uncategorized) (37)
@@ -286,6 +286,7 @@
 | 994 | [Rotting Oranges](./994-as-far-from-land-as-possible/) | Medium | java |
 | 994 | [Rotting Oranges](./994-rotting-oranges/) | Medium | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
+| 1584 | [Min Cost to Connect All Points](./1584-redundant-connection/) | Medium | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | java |
 | 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | Medium | java |
 | 3568 | [Minimum Moves to Clean the Classroom](./3568-minimum-moves-to-clean-the-classroom/) | Medium | java |
@@ -338,6 +339,7 @@
 | 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
 | 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
+| 1584 | [Min Cost to Connect All Points](./1584-redundant-connection/) | Medium | java |
 | 2265 | [Count Nodes Equal to Average of Subtree](./2265-count-nodes-equal-to-average-of-subtree/) | Medium | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | java |
 | 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | Medium | java |
@@ -460,6 +462,7 @@
 | 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
 | 1584 | [Min Cost to Connect All Points](./1584-min-cost-to-connect-all-points/) | Medium | java |
+| 1584 | [Min Cost to Connect All Points](./1584-redundant-connection/) | Medium | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | java |
 | 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | Medium | java |
 
@@ -900,6 +903,7 @@
 | 547 | [Number of Provinces](./547-number-of-provinces/) | Medium | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
 | 1584 | [Min Cost to Connect All Points](./1584-min-cost-to-connect-all-points/) | Medium | java |
+| 1584 | [Min Cost to Connect All Points](./1584-redundant-connection/) | Medium | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | java |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](./2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium | java |
 
@@ -1042,6 +1046,7 @@
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | Array, Sorting, Heap (Priority Queue) | java |
 | 1563 | [Stone Game V](./1563-stone-game-v/) | Hard | Array, Math, Dynamic Programming, Game Theory | java |
 | 1584 | [Min Cost to Connect All Points](./1584-min-cost-to-connect-all-points/) | Medium | Array, Union-Find, Graph Theory, Minimum Spanning Tree, Prim's Algorithm, Kruskal's Algorithm, Borůvka's Algorithm | java |
+| 1584 | [Min Cost to Connect All Points](./1584-redundant-connection/) | Medium | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory | java |
 | 1601 | [Maximum Number of Achievable Transfer Requests](./1601-maximum-number-of-achievable-transfer-requests/) | Hard | Array, Backtracking, Bit Manipulation, Enumeration | java |
 | 1614 | [Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/) | Easy | String, Stack, Bracket Sequences | java |
 | 1658 | [Minimum Operations to Reduce X to Zero](./1658-minimum-operations-to-reduce-x-to-zero/) | Medium | Array, Hash Table, Binary Search, Sliding Window, Prefix Sum | java |
