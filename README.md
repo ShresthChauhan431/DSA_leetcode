@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **176** problems solved
+> **177** problems solved
 
 ## Topics
 
@@ -14,7 +14,7 @@
 - [Bitmask](#bitmask) (5)
 - [Borůvka's Algorithm](#bor-vka-s-algorithm) (1)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
-- [Bracket Sequences](#bracket-sequences) (4)
+- [Bracket Sequences](#bracket-sequences) (5)
 - [Breadth-First Search](#breadth-first-search) (11)
 - [Counting](#counting) (5)
 - [Counting Sort](#counting-sort) (1)
@@ -65,8 +65,8 @@
 - [Sliding Window](#sliding-window) (9)
 - [Sorting](#sorting) (19)
 - [Sqrt Decomposition](#sqrt-decomposition) (1)
-- [Stack](#stack) (5)
-- [String](#string) (34)
+- [Stack](#stack) (6)
+- [String](#string) (35)
 - [Suffix Array](#suffix-array) (1)
 - [Suffix Automaton](#suffix-automaton) (1)
 - [Suffix Tree](#suffix-tree) (1)
@@ -270,6 +270,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 20 | [Valid Parentheses](./20-valid-parentheses/) | Easy | java |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | java |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium | java |
 | 1614 | [Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/) | Easy | java |
@@ -796,6 +797,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 20 | [Valid Parentheses](./20-valid-parentheses/) | Easy | java |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | java |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium | java |
 | 1614 | [Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/) | Easy | java |
@@ -810,6 +812,7 @@
 | 5 | [Longest Palindromic Substring](./5-longest-palindromic-substring/) | Medium | java |
 | 5 | [Longest Palindromic Substring](./5-minimum-insertion-steps-to-make-a-string-palindrome/) | Medium | java |
 | 5 | [Longest Palindromic Substring](./5-palindrome-partitioning/) | Medium | java |
+| 20 | [Valid Parentheses](./20-valid-parentheses/) | Easy | java |
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | java |
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | java |
 | 79 | [Word Search](./79-word-search/) | Medium | java |
@@ -971,6 +974,7 @@
 | 5 | [Longest Palindromic Substring](./5-longest-palindromic-substring/) | Medium | Two Pointers, String, Dynamic Programming, Manacher | java |
 | 5 | [Longest Palindromic Substring](./5-minimum-insertion-steps-to-make-a-string-palindrome/) | Medium | String, Dynamic Programming | java |
 | 5 | [Longest Palindromic Substring](./5-palindrome-partitioning/) | Medium | String, Dynamic Programming, Backtracking | java |
+| 20 | [Valid Parentheses](./20-valid-parentheses/) | Easy | String, Stack, Bracket Sequences | java |
 | 36 | [Valid Sudoku](./36-valid-sudoku/) | Medium | Array, Hash Table, Matrix | java |
 | 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | Array, Hash Table, Backtracking, Matrix, Algorithm X, Dancing Links | java |
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | Array, Hash Table, String, Sorting | java |
