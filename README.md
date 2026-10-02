@@ -1,13 +1,13 @@
 # LeetCode Solutions
 
-> **180** problems solved
+> **181** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (72)
+- [Array](#array) (73)
 - [Backtracking](#backtracking) (14)
-- [Bellman–Ford Algorithm](#bellman-ford-algorithm) (1)
+- [Bellman–Ford Algorithm](#bellman-ford-algorithm) (2)
 - [Biconnected Component](#biconnected-component) (1)
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (5)
@@ -17,14 +17,14 @@
 - [Borůvka's Algorithm](#bor-vka-s-algorithm) (1)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
 - [Bracket Sequences](#bracket-sequences) (6)
-- [Breadth-First Search](#breadth-first-search) (11)
+- [Breadth-First Search](#breadth-first-search) (12)
 - [Bridge (Graph)](#bridge-graph) (1)
 - [Counting](#counting) (5)
 - [Counting Sort](#counting-sort) (1)
 - [Dancing Links](#dancing-links) (1)
 - [Data Stream](#data-stream) (1)
 - [Database](#database) (3)
-- [Depth-First Search](#depth-first-search) (13)
+- [Depth-First Search](#depth-first-search) (14)
 - [Design](#design) (5)
 - [Dijkstra's Algorithm](#dijkstra-s-algorithm) (2)
 - [Divide and Conquer](#divide-and-conquer) (5)
@@ -32,11 +32,11 @@
 - [DP on Trees](#dp-on-trees) (2)
 - [Dynamic Programming](#dynamic-programming) (34)
 - [Enumeration](#enumeration) (5)
-- [Floyd–Warshall Algorithm](#floyd-warshall-algorithm) (1)
+- [Floyd–Warshall Algorithm](#floyd-warshall-algorithm) (2)
 - [Floyd's Cycle Finding Algorithm](#floyd-s-cycle-finding-algorithm) (1)
 - [Game Theory](#game-theory) (4)
 - [Geometry](#geometry) (2)
-- [Graph Theory](#graph-theory) (10)
+- [Graph Theory](#graph-theory) (11)
 - [Greedy](#greedy) (12)
 - [Hash Function](#hash-function) (2)
 - [Hash Table](#hash-table) (34)
@@ -63,14 +63,14 @@
 - [Reservoir Sampling](#reservoir-sampling) (1)
 - [Rolling Hash](#rolling-hash) (2)
 - [Segment Tree](#segment-tree) (4)
-- [Shortest Path](#shortest-path) (3)
+- [Shortest Path](#shortest-path) (4)
 - [Sieve Theory](#sieve-theory) (1)
 - [Simulation](#simulation) (4)
 - [Sliding Window](#sliding-window) (9)
 - [Sorting](#sorting) (19)
 - [Sqrt Decomposition](#sqrt-decomposition) (1)
 - [Stack](#stack) (6)
-- [String](#string) (36)
+- [String](#string) (37)
 - [Suffix Array](#suffix-array) (1)
 - [Suffix Automaton](#suffix-automaton) (1)
 - [Suffix Tree](#suffix-tree) (1)
@@ -78,7 +78,7 @@
 - [Treap](#treap) (2)
 - [Tree](#tree) (4)
 - [Two Pointers](#two-pointers) (9)
-- [Union-Find](#union-find) (7)
+- [Union-Find](#union-find) (8)
 - [Z Algorithm](#z-algorithm) (2)
 - [Zero-Sum Game](#zero-sum-game) (1)
 - [Uncategorized](#uncategorized) (37)
@@ -134,6 +134,7 @@
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 1306 | [Jump Game III](./1306-beautiful-arrangement/) | Medium | java |
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | java |
+| 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1334-evaluate-division/) | Medium | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | java |
 | 1563 | [Stone Game V](./1563-stone-game-v/) | Hard | java |
 | 1584 | [Min Cost to Connect All Points](./1584-min-cost-to-connect-all-points/) | Medium | java |
@@ -192,6 +193,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1334-evaluate-division/) | Medium | java |
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium | java |
 
 ## Biconnected Component
@@ -305,6 +307,7 @@
 | 994 | [Rotting Oranges](./994-as-far-from-land-as-possible/) | Medium | java |
 | 994 | [Rotting Oranges](./994-rotting-oranges/) | Medium | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
+| 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1334-evaluate-division/) | Medium | java |
 | 1584 | [Min Cost to Connect All Points](./1584-redundant-connection/) | Medium | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | java |
 | 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | Medium | java |
@@ -365,6 +368,7 @@
 | 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | java |
 | 1192 | [Critical Connections in a Network](./1192-critical-connections-in-a-network/) | Hard | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
+| 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1334-evaluate-division/) | Medium | java |
 | 1584 | [Min Cost to Connect All Points](./1584-redundant-connection/) | Medium | java |
 | 2265 | [Count Nodes Equal to Average of Subtree](./2265-count-nodes-equal-to-average-of-subtree/) | Medium | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | java |
@@ -464,6 +468,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1334-evaluate-division/) | Medium | java |
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium | java |
 
 ## Floyd's Cycle Finding Algorithm
@@ -497,6 +502,7 @@
 | 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | java |
 | 1192 | [Critical Connections in a Network](./1192-critical-connections-in-a-network/) | Hard | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
+| 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1334-evaluate-division/) | Medium | java |
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium | java |
 | 1584 | [Min Cost to Connect All Points](./1584-min-cost-to-connect-all-points/) | Medium | java |
 | 1584 | [Min Cost to Connect All Points](./1584-redundant-connection/) | Medium | java |
@@ -769,6 +775,7 @@
 |---|-------|------------|----------|
 | 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
 | 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | java |
+| 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1334-evaluate-division/) | Medium | java |
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium | java |
 
 ## Sieve Theory
@@ -864,6 +871,7 @@
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | java |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium | java |
+| 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1334-evaluate-division/) | Medium | java |
 | 1401 | [Circle and Rectangle Overlapping](./1401-maximum-number-of-non-overlapping-substrings/) | Medium | java |
 | 1446 | [Consecutive Characters](./1446-consecutive-characters/) | Easy | java |
 | 1614 | [Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/) | Easy | java |
@@ -943,6 +951,7 @@
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence/) | Medium | java |
 | 547 | [Number of Provinces](./547-number-of-provinces/) | Medium | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
+| 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1334-evaluate-division/) | Medium | java |
 | 1584 | [Min Cost to Connect All Points](./1584-min-cost-to-connect-all-points/) | Medium | java |
 | 1584 | [Min Cost to Connect All Points](./1584-redundant-connection/) | Medium | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | java |
@@ -1084,6 +1093,7 @@
 | 1306 | [Jump Game III](./1306-beautiful-arrangement/) | Medium | Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask | java |
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | Array, Matrix, Prefix Sum | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory | java |
+| 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1334-evaluate-division/) | Medium | Array, String, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory, Shortest Path, Bellman–Ford Algorithm, Floyd–Warshall Algorithm | java |
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium | Dynamic Programming, Graph Theory, Shortest Path, Dijkstra's Algorithm, Bellman–Ford Algorithm, Floyd–Warshall Algorithm | java |
 | 1401 | [Circle and Rectangle Overlapping](./1401-circle-and-rectangle-overlapping/) | Medium | Math, Geometry | java |
 | 1401 | [Circle and Rectangle Overlapping](./1401-maximum-number-of-non-overlapping-substrings/) | Medium | Hash Table, String, Greedy, Sorting | java |
