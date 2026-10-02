@@ -1,12 +1,13 @@
 # LeetCode Solutions
 
-> **178** problems solved
+> **179** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
 - [Array](#array) (72)
 - [Backtracking](#backtracking) (14)
+- [Biconnected Component](#biconnected-component) (1)
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (5)
 - [Binary Tree](#binary-tree) (4)
@@ -16,12 +17,13 @@
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
 - [Bracket Sequences](#bracket-sequences) (6)
 - [Breadth-First Search](#breadth-first-search) (11)
+- [Bridge (Graph)](#bridge-graph) (1)
 - [Counting](#counting) (5)
 - [Counting Sort](#counting-sort) (1)
 - [Dancing Links](#dancing-links) (1)
 - [Data Stream](#data-stream) (1)
 - [Database](#database) (3)
-- [Depth-First Search](#depth-first-search) (12)
+- [Depth-First Search](#depth-first-search) (13)
 - [Design](#design) (5)
 - [Dijkstra's Algorithm](#dijkstra-s-algorithm) (1)
 - [Divide and Conquer](#divide-and-conquer) (5)
@@ -32,7 +34,7 @@
 - [Floyd's Cycle Finding Algorithm](#floyd-s-cycle-finding-algorithm) (1)
 - [Game Theory](#game-theory) (4)
 - [Geometry](#geometry) (2)
-- [Graph Theory](#graph-theory) (8)
+- [Graph Theory](#graph-theory) (9)
 - [Greedy](#greedy) (12)
 - [Hash Function](#hash-function) (2)
 - [Hash Table](#hash-table) (34)
@@ -184,6 +186,12 @@
 | 1306 | [Jump Game III](./1306-beautiful-arrangement/) | Medium | java |
 | 1601 | [Maximum Number of Achievable Transfer Requests](./1601-maximum-number-of-achievable-transfer-requests/) | Hard | java |
 
+## Biconnected Component
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 1192 | [Critical Connections in a Network](./1192-critical-connections-in-a-network/) | Hard | java |
+
 ## Binary Indexed Tree
 
 | # | Title | Difficulty | Language |
@@ -294,6 +302,12 @@
 | 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | Medium | java |
 | 3568 | [Minimum Moves to Clean the Classroom](./3568-minimum-moves-to-clean-the-classroom/) | Medium | java |
 
+## Bridge (Graph)
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 1192 | [Critical Connections in a Network](./1192-critical-connections-in-a-network/) | Hard | java |
+
 ## Counting
 
 | # | Title | Difficulty | Language |
@@ -341,6 +355,7 @@
 | 687 | [Longest Univalue Path](./687-longest-univalue-path/) | Medium | java |
 | 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
 | 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | java |
+| 1192 | [Critical Connections in a Network](./1192-critical-connections-in-a-network/) | Hard | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
 | 1584 | [Min Cost to Connect All Points](./1584-redundant-connection/) | Medium | java |
 | 2265 | [Count Nodes Equal to Average of Subtree](./2265-count-nodes-equal-to-average-of-subtree/) | Medium | java |
@@ -464,6 +479,7 @@
 | 547 | [Number of Provinces](./547-number-of-provinces/) | Medium | java |
 | 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
 | 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | java |
+| 1192 | [Critical Connections in a Network](./1192-critical-connections-in-a-network/) | Hard | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | java |
 | 1584 | [Min Cost to Connect All Points](./1584-min-cost-to-connect-all-points/) | Medium | java |
 | 1584 | [Min Cost to Connect All Points](./1584-redundant-connection/) | Medium | java |
@@ -1046,6 +1062,7 @@
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting | java |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | String, Stack, Bracket Sequences | java |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium | String, Stack, Bracket Sequences | java |
+| 1192 | [Critical Connections in a Network](./1192-critical-connections-in-a-network/) | Hard | Depth-First Search, Graph Theory, Biconnected Component, Bridge (Graph) | java |
 | 1306 | [Jump Game III](./1306-beautiful-arrangement/) | Medium | Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask | java |
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum/) | Medium | Array, Matrix, Prefix Sum | java |
 | 1319 | [Number of Operations to Make Network Connected](./1319-number-of-operations-to-make-network-connected/) | Medium | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory | java |
