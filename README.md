@@ -1,12 +1,12 @@
 # LeetCode Solutions
 
-> **177** problems solved
+> **178** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
 - [Array](#array) (72)
-- [Backtracking](#backtracking) (13)
+- [Backtracking](#backtracking) (14)
 - [Binary Indexed Tree](#binary-indexed-tree) (3)
 - [Binary Search](#binary-search) (5)
 - [Binary Tree](#binary-tree) (4)
@@ -14,7 +14,7 @@
 - [Bitmask](#bitmask) (5)
 - [Borůvka's Algorithm](#bor-vka-s-algorithm) (1)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
-- [Bracket Sequences](#bracket-sequences) (5)
+- [Bracket Sequences](#bracket-sequences) (6)
 - [Breadth-First Search](#breadth-first-search) (11)
 - [Counting](#counting) (5)
 - [Counting Sort](#counting-sort) (1)
@@ -27,7 +27,7 @@
 - [Divide and Conquer](#divide-and-conquer) (5)
 - [Doubly-Linked List](#doubly-linked-list) (2)
 - [DP on Trees](#dp-on-trees) (2)
-- [Dynamic Programming](#dynamic-programming) (32)
+- [Dynamic Programming](#dynamic-programming) (33)
 - [Enumeration](#enumeration) (5)
 - [Floyd's Cycle Finding Algorithm](#floyd-s-cycle-finding-algorithm) (1)
 - [Game Theory](#game-theory) (4)
@@ -66,7 +66,7 @@
 - [Sorting](#sorting) (19)
 - [Sqrt Decomposition](#sqrt-decomposition) (1)
 - [Stack](#stack) (6)
-- [String](#string) (35)
+- [String](#string) (36)
 - [Suffix Array](#suffix-array) (1)
 - [Suffix Automaton](#suffix-automaton) (1)
 - [Suffix Tree](#suffix-tree) (1)
@@ -170,6 +170,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 5 | [Longest Palindromic Substring](./5-palindrome-partitioning/) | Medium | java |
+| 22 | [Generate Parentheses](./22-generate-parentheses/) | Medium | java |
 | 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | java |
 | 51 | [N-Queens](./51-n-queens/) | Hard | java |
 | 52 | [N-Queens II](./52-n-queens-ii/) | Hard | java |
@@ -271,6 +272,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 20 | [Valid Parentheses](./20-valid-parentheses/) | Easy | java |
+| 22 | [Generate Parentheses](./22-generate-parentheses/) | Medium | java |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | java |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium | java |
 | 1614 | [Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/) | Easy | java |
@@ -392,6 +394,7 @@
 | 5 | [Longest Palindromic Substring](./5-longest-palindromic-substring/) | Medium | java |
 | 5 | [Longest Palindromic Substring](./5-minimum-insertion-steps-to-make-a-string-palindrome/) | Medium | java |
 | 5 | [Longest Palindromic Substring](./5-palindrome-partitioning/) | Medium | java |
+| 22 | [Generate Parentheses](./22-generate-parentheses/) | Medium | java |
 | 55 | [Jump Game](./55-jump-game/) | Medium | java |
 | 55 | [Jump Game](./55-jump-game-ii/) | Medium | java |
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | java |
@@ -813,6 +816,7 @@
 | 5 | [Longest Palindromic Substring](./5-minimum-insertion-steps-to-make-a-string-palindrome/) | Medium | java |
 | 5 | [Longest Palindromic Substring](./5-palindrome-partitioning/) | Medium | java |
 | 20 | [Valid Parentheses](./20-valid-parentheses/) | Easy | java |
+| 22 | [Generate Parentheses](./22-generate-parentheses/) | Medium | java |
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | java |
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | java |
 | 79 | [Word Search](./79-word-search/) | Medium | java |
@@ -975,6 +979,7 @@
 | 5 | [Longest Palindromic Substring](./5-minimum-insertion-steps-to-make-a-string-palindrome/) | Medium | String, Dynamic Programming | java |
 | 5 | [Longest Palindromic Substring](./5-palindrome-partitioning/) | Medium | String, Dynamic Programming, Backtracking | java |
 | 20 | [Valid Parentheses](./20-valid-parentheses/) | Easy | String, Stack, Bracket Sequences | java |
+| 22 | [Generate Parentheses](./22-generate-parentheses/) | Medium | String, Dynamic Programming, Backtracking, Bracket Sequences | java |
 | 36 | [Valid Sudoku](./36-valid-sudoku/) | Medium | Array, Hash Table, Matrix | java |
 | 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | Array, Hash Table, Backtracking, Matrix, Algorithm X, Dancing Links | java |
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | Array, Hash Table, String, Sorting | java |
