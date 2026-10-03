@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **181** problems solved
+> **182** problems solved
 
 ## Topics
 
@@ -16,7 +16,7 @@
 - [Bitmask](#bitmask) (5)
 - [Borůvka's Algorithm](#bor-vka-s-algorithm) (1)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
-- [Bracket Sequences](#bracket-sequences) (6)
+- [Bracket Sequences](#bracket-sequences) (7)
 - [Breadth-First Search](#breadth-first-search) (12)
 - [Bridge (Graph)](#bridge-graph) (1)
 - [Counting](#counting) (5)
@@ -30,7 +30,7 @@
 - [Divide and Conquer](#divide-and-conquer) (5)
 - [Doubly-Linked List](#doubly-linked-list) (2)
 - [DP on Trees](#dp-on-trees) (2)
-- [Dynamic Programming](#dynamic-programming) (34)
+- [Dynamic Programming](#dynamic-programming) (35)
 - [Enumeration](#enumeration) (5)
 - [Floyd–Warshall Algorithm](#floyd-warshall-algorithm) (2)
 - [Floyd's Cycle Finding Algorithm](#floyd-s-cycle-finding-algorithm) (1)
@@ -69,8 +69,8 @@
 - [Sliding Window](#sliding-window) (9)
 - [Sorting](#sorting) (19)
 - [Sqrt Decomposition](#sqrt-decomposition) (1)
-- [Stack](#stack) (6)
-- [String](#string) (37)
+- [Stack](#stack) (7)
+- [String](#string) (38)
 - [Suffix Array](#suffix-array) (1)
 - [Suffix Automaton](#suffix-automaton) (1)
 - [Suffix Tree](#suffix-tree) (1)
@@ -291,6 +291,7 @@
 |---|-------|------------|----------|
 | 20 | [Valid Parentheses](./20-valid-parentheses/) | Easy | java |
 | 22 | [Generate Parentheses](./22-generate-parentheses/) | Medium | java |
+| 32 | [Longest Valid Parentheses](./32-longest-valid-parentheses/) | Hard | java |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | java |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium | java |
 | 1614 | [Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/) | Easy | java |
@@ -423,6 +424,7 @@
 | 5 | [Longest Palindromic Substring](./5-minimum-insertion-steps-to-make-a-string-palindrome/) | Medium | java |
 | 5 | [Longest Palindromic Substring](./5-palindrome-partitioning/) | Medium | java |
 | 22 | [Generate Parentheses](./22-generate-parentheses/) | Medium | java |
+| 32 | [Longest Valid Parentheses](./32-longest-valid-parentheses/) | Hard | java |
 | 55 | [Jump Game](./55-jump-game/) | Medium | java |
 | 55 | [Jump Game](./55-jump-game-ii/) | Medium | java |
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | java |
@@ -842,6 +844,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 20 | [Valid Parentheses](./20-valid-parentheses/) | Easy | java |
+| 32 | [Longest Valid Parentheses](./32-longest-valid-parentheses/) | Hard | java |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | java |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium | java |
 | 1614 | [Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/) | Easy | java |
@@ -858,6 +861,7 @@
 | 5 | [Longest Palindromic Substring](./5-palindrome-partitioning/) | Medium | java |
 | 20 | [Valid Parentheses](./20-valid-parentheses/) | Easy | java |
 | 22 | [Generate Parentheses](./22-generate-parentheses/) | Medium | java |
+| 32 | [Longest Valid Parentheses](./32-longest-valid-parentheses/) | Hard | java |
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | java |
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | java |
 | 79 | [Word Search](./79-word-search/) | Medium | java |
@@ -1023,6 +1027,7 @@
 | 5 | [Longest Palindromic Substring](./5-palindrome-partitioning/) | Medium | String, Dynamic Programming, Backtracking | java |
 | 20 | [Valid Parentheses](./20-valid-parentheses/) | Easy | String, Stack, Bracket Sequences | java |
 | 22 | [Generate Parentheses](./22-generate-parentheses/) | Medium | String, Dynamic Programming, Backtracking, Bracket Sequences | java |
+| 32 | [Longest Valid Parentheses](./32-longest-valid-parentheses/) | Hard | String, Dynamic Programming, Stack, Bracket Sequences | java |
 | 36 | [Valid Sudoku](./36-valid-sudoku/) | Medium | Array, Hash Table, Matrix | java |
 | 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | Array, Hash Table, Backtracking, Matrix, Algorithm X, Dancing Links | java |
 | 49 | [Group Anagrams](./49-group-anagrams/) | Medium | Array, Hash Table, String, Sorting | java |
