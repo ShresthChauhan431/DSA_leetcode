@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **183** problems solved
+> **184** problems solved
 
 ## Topics
 
@@ -16,7 +16,7 @@
 - [Bitmask](#bitmask) (5)
 - [Borůvka's Algorithm](#bor-vka-s-algorithm) (1)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
-- [Bracket Sequences](#bracket-sequences) (7)
+- [Bracket Sequences](#bracket-sequences) (8)
 - [Breadth-First Search](#breadth-first-search) (12)
 - [Bridge (Graph)](#bridge-graph) (1)
 - [Counting](#counting) (5)
@@ -30,14 +30,14 @@
 - [Divide and Conquer](#divide-and-conquer) (5)
 - [Doubly-Linked List](#doubly-linked-list) (2)
 - [DP on Trees](#dp-on-trees) (2)
-- [Dynamic Programming](#dynamic-programming) (35)
+- [Dynamic Programming](#dynamic-programming) (36)
 - [Enumeration](#enumeration) (5)
 - [Floyd–Warshall Algorithm](#floyd-warshall-algorithm) (2)
 - [Floyd's Cycle Finding Algorithm](#floyd-s-cycle-finding-algorithm) (1)
 - [Game Theory](#game-theory) (4)
 - [Geometry](#geometry) (2)
 - [Graph Theory](#graph-theory) (11)
-- [Greedy](#greedy) (12)
+- [Greedy](#greedy) (13)
 - [Hash Function](#hash-function) (2)
 - [Hash Table](#hash-table) (34)
 - [Heap (Priority Queue)](#heap-priority-queue) (8)
@@ -69,8 +69,8 @@
 - [Sliding Window](#sliding-window) (9)
 - [Sorting](#sorting) (19)
 - [Sqrt Decomposition](#sqrt-decomposition) (1)
-- [Stack](#stack) (7)
-- [String](#string) (38)
+- [Stack](#stack) (8)
+- [String](#string) (39)
 - [Suffix Array](#suffix-array) (1)
 - [Suffix Automaton](#suffix-automaton) (1)
 - [Suffix Tree](#suffix-tree) (1)
@@ -292,6 +292,7 @@
 | 20 | [Valid Parentheses](./20-valid-parentheses/) | Easy | java |
 | 22 | [Generate Parentheses](./22-generate-parentheses/) | Medium | java |
 | 32 | [Longest Valid Parentheses](./32-longest-valid-parentheses/) | Hard | java |
+| 678 | [Valid Parenthesis String](./678-valid-parenthesis-string/) | Medium | java |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | java |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium | java |
 | 1614 | [Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/) | Easy | java |
@@ -436,6 +437,7 @@
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
 | 516 | [Longest Palindromic Subsequence](./516-longest-palindromic-subsequence/) | Medium | java |
 | 518 | [Coin Change II](./518-coin-change-ii/) | Medium | java |
+| 678 | [Valid Parenthesis String](./678-valid-parenthesis-string/) | Medium | java |
 | 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | java |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | java |
 | 740 | [Delete and Earn](./740-delete-and-earn/) | Medium | java |
@@ -517,6 +519,7 @@
 |---|-------|------------|----------|
 | 55 | [Jump Game](./55-jump-game/) | Medium | java |
 | 55 | [Jump Game](./55-jump-game-ii/) | Medium | java |
+| 678 | [Valid Parenthesis String](./678-valid-parenthesis-string/) | Medium | java |
 | 875 | [Koko Eating Bananas](./875-split-array-largest-sum/) | Medium | java |
 | 1401 | [Circle and Rectangle Overlapping](./1401-maximum-number-of-non-overlapping-substrings/) | Medium | java |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-minimize-xor/) | Hard | java |
@@ -845,6 +848,7 @@
 |---|-------|------------|----------|
 | 20 | [Valid Parentheses](./20-valid-parentheses/) | Easy | java |
 | 32 | [Longest Valid Parentheses](./32-longest-valid-parentheses/) | Hard | java |
+| 678 | [Valid Parenthesis String](./678-valid-parenthesis-string/) | Medium | java |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | java |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium | java |
 | 1614 | [Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/) | Easy | java |
@@ -869,6 +873,7 @@
 | 136 | [Single Number](./136-find-the-difference/) | Easy | java |
 | 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | java |
 | 516 | [Longest Palindromic Subsequence](./516-longest-palindromic-subsequence/) | Medium | java |
+| 678 | [Valid Parenthesis String](./678-valid-parenthesis-string/) | Medium | java |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | java |
 | 784 | [Letter Case Permutation](./784-letter-case-permutation/) | Medium | java |
 | 1044 | [Longest Duplicate Substring](./1044-longest-duplicate-substring/) | Hard | java |
@@ -1072,6 +1077,7 @@
 | 577 | [Employee Bonus](./577-employee-bonus/) | Easy | Database | mysql |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | Array, Math, Sorting | java |
 | 637 | [Average of Levels in Binary Tree](./637-average-of-levels-in-binary-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | java |
+| 678 | [Valid Parenthesis String](./678-valid-parenthesis-string/) | Medium | String, Dynamic Programming, Stack, Greedy, Bracket Sequences | java |
 | 687 | [Longest Univalue Path](./687-longest-univalue-path/) | Medium | Tree, Depth-First Search, Binary Tree, DP on Trees | java |
 | 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | Array, Dynamic Programming, Backtracking, Bit Manipulation, Memoization, Bitmask | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | Hash Table, Linked List, Design, Doubly-Linked List | java |
