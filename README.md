@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **182** problems solved
+> **183** problems solved
 
 ## Topics
 
@@ -81,7 +81,7 @@
 - [Union-Find](#union-find) (8)
 - [Z Algorithm](#z-algorithm) (2)
 - [Zero-Sum Game](#zero-sum-game) (1)
-- [Uncategorized](#uncategorized) (37)
+- [Uncategorized](#uncategorized) (38)
 - [All Problems](#all-problems)
 
 ## Algorithm X
@@ -990,6 +990,7 @@
 | 4050 | [Minimum Days to Score Exactly N Points](./4050-minimum-days-to-score-exactly-n-points/) | Medium | java |
 | 4065 | [Rearrange Array by Removing Distinct Values](./4065-rearrange-array-by-removing-distinct-values/) | Easy | java |
 | 4066 | [Maximum Equal Adjacent Pairs After at Most One Replacement](./4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium | java |
+| 4070 | [Minimum Rotations to Dial a Number I](./4070-minimum-rotations-to-dial-a-number-i/) | Easy | java |
 | 101110 | [Minimum Initial Strength to Defeat All Monsters](./101110-minimum-initial-strength-to-defeat-all-monsters/) | Medium | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-aggregate-two-time-series/) | Easy | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-count-valid-sequences/) | Easy | java |
@@ -1177,6 +1178,7 @@
 | 4050 | [Minimum Days to Score Exactly N Points](./4050-minimum-days-to-score-exactly-n-points/) | Medium | - | java |
 | 4065 | [Rearrange Array by Removing Distinct Values](./4065-rearrange-array-by-removing-distinct-values/) | Easy | - | java |
 | 4066 | [Maximum Equal Adjacent Pairs After at Most One Replacement](./4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium | - | java |
+| 4070 | [Minimum Rotations to Dial a Number I](./4070-minimum-rotations-to-dial-a-number-i/) | Easy | - | java |
 | 101110 | [Minimum Initial Strength to Defeat All Monsters](./101110-minimum-initial-strength-to-defeat-all-monsters/) | Medium | - | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-aggregate-two-time-series/) | Easy | - | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-count-valid-sequences/) | Easy | - | java |
