@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **185** problems solved
+> **186** problems solved
 
 ## Topics
 
@@ -16,7 +16,7 @@
 - [Bitmask](#bitmask) (5)
 - [Borůvka's Algorithm](#bor-vka-s-algorithm) (1)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
-- [Bracket Sequences](#bracket-sequences) (8)
+- [Bracket Sequences](#bracket-sequences) (9)
 - [Breadth-First Search](#breadth-first-search) (13)
 - [Bridge (Graph)](#bridge-graph) (1)
 - [Counting](#counting) (5)
@@ -69,8 +69,8 @@
 - [Sliding Window](#sliding-window) (9)
 - [Sorting](#sorting) (19)
 - [Sqrt Decomposition](#sqrt-decomposition) (1)
-- [Stack](#stack) (8)
-- [String](#string) (39)
+- [Stack](#stack) (9)
+- [String](#string) (40)
 - [Suffix Array](#suffix-array) (1)
 - [Suffix Automaton](#suffix-automaton) (1)
 - [Suffix Tree](#suffix-tree) (1)
@@ -294,6 +294,7 @@
 | 22 | [Generate Parentheses](./22-generate-parentheses/) | Medium | java |
 | 32 | [Longest Valid Parentheses](./32-longest-valid-parentheses/) | Hard | java |
 | 678 | [Valid Parenthesis String](./678-valid-parenthesis-string/) | Medium | java |
+| 856 | [Score of Parentheses](./856-score-of-parentheses/) | Medium | java |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | java |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium | java |
 | 1614 | [Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/) | Easy | java |
@@ -853,6 +854,7 @@
 | 20 | [Valid Parentheses](./20-valid-parentheses/) | Easy | java |
 | 32 | [Longest Valid Parentheses](./32-longest-valid-parentheses/) | Hard | java |
 | 678 | [Valid Parenthesis String](./678-valid-parenthesis-string/) | Medium | java |
+| 856 | [Score of Parentheses](./856-score-of-parentheses/) | Medium | java |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | java |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium | java |
 | 1614 | [Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/) | Easy | java |
@@ -880,6 +882,7 @@
 | 678 | [Valid Parenthesis String](./678-valid-parenthesis-string/) | Medium | java |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | java |
 | 784 | [Letter Case Permutation](./784-letter-case-permutation/) | Medium | java |
+| 856 | [Score of Parentheses](./856-score-of-parentheses/) | Medium | java |
 | 1044 | [Longest Duplicate Substring](./1044-longest-duplicate-substring/) | Hard | java |
 | 1048 | [Longest String Chain](./1048-longest-string-chain/) | Medium | java |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | java |
@@ -1102,6 +1105,7 @@
 | 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory, Heap (Priority Queue), Shortest Path | java |
 | 835 | [Image Overlap](./835-image-overlap/) | Medium | Array, Matrix | java |
 | 836 | [Rectangle Overlap](./836-rectangle-overlap/) | Easy | Math, Geometry | cpp |
+| 856 | [Score of Parentheses](./856-score-of-parentheses/) | Medium | String, Stack, Bracket Sequences | java |
 | 875 | [Koko Eating Bananas](./875-split-array-largest-sum/) | Medium | Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum | java |
 | 877 | [Stone Game](./877-stone-game/) | Medium | Array, Math, Dynamic Programming, Minimax, Game Theory, Zero-Sum Game | java |
 | 983 | [Minimum Cost For Tickets](./983-minimum-cost-for-tickets/) | Medium | Array, Dynamic Programming | java |
