@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **186** problems solved
+> **187** problems solved
 
 ## Topics
 
@@ -16,7 +16,7 @@
 - [Bitmask](#bitmask) (5)
 - [Borůvka's Algorithm](#bor-vka-s-algorithm) (1)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
-- [Bracket Sequences](#bracket-sequences) (9)
+- [Bracket Sequences](#bracket-sequences) (10)
 - [Breadth-First Search](#breadth-first-search) (13)
 - [Bridge (Graph)](#bridge-graph) (1)
 - [Counting](#counting) (5)
@@ -37,7 +37,7 @@
 - [Game Theory](#game-theory) (4)
 - [Geometry](#geometry) (2)
 - [Graph Theory](#graph-theory) (12)
-- [Greedy](#greedy) (13)
+- [Greedy](#greedy) (14)
 - [Hash Function](#hash-function) (2)
 - [Hash Table](#hash-table) (34)
 - [Heap (Priority Queue)](#heap-priority-queue) (8)
@@ -69,8 +69,8 @@
 - [Sliding Window](#sliding-window) (9)
 - [Sorting](#sorting) (19)
 - [Sqrt Decomposition](#sqrt-decomposition) (1)
-- [Stack](#stack) (9)
-- [String](#string) (40)
+- [Stack](#stack) (10)
+- [String](#string) (41)
 - [Suffix Array](#suffix-array) (1)
 - [Suffix Automaton](#suffix-automaton) (1)
 - [Suffix Tree](#suffix-tree) (1)
@@ -293,6 +293,7 @@
 | 20 | [Valid Parentheses](./20-valid-parentheses/) | Easy | java |
 | 22 | [Generate Parentheses](./22-generate-parentheses/) | Medium | java |
 | 32 | [Longest Valid Parentheses](./32-longest-valid-parentheses/) | Hard | java |
+| 301 | [Remove Invalid Parentheses](./301-minimum-add-to-make-parentheses-valid/) | Hard | java |
 | 678 | [Valid Parenthesis String](./678-valid-parenthesis-string/) | Medium | java |
 | 856 | [Score of Parentheses](./856-score-of-parentheses/) | Medium | java |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | java |
@@ -524,6 +525,7 @@
 |---|-------|------------|----------|
 | 55 | [Jump Game](./55-jump-game/) | Medium | java |
 | 55 | [Jump Game](./55-jump-game-ii/) | Medium | java |
+| 301 | [Remove Invalid Parentheses](./301-minimum-add-to-make-parentheses-valid/) | Hard | java |
 | 678 | [Valid Parenthesis String](./678-valid-parenthesis-string/) | Medium | java |
 | 875 | [Koko Eating Bananas](./875-split-array-largest-sum/) | Medium | java |
 | 1401 | [Circle and Rectangle Overlapping](./1401-maximum-number-of-non-overlapping-substrings/) | Medium | java |
@@ -853,6 +855,7 @@
 |---|-------|------------|----------|
 | 20 | [Valid Parentheses](./20-valid-parentheses/) | Easy | java |
 | 32 | [Longest Valid Parentheses](./32-longest-valid-parentheses/) | Hard | java |
+| 301 | [Remove Invalid Parentheses](./301-minimum-add-to-make-parentheses-valid/) | Hard | java |
 | 678 | [Valid Parenthesis String](./678-valid-parenthesis-string/) | Medium | java |
 | 856 | [Score of Parentheses](./856-score-of-parentheses/) | Medium | java |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | java |
@@ -878,6 +881,7 @@
 | 115 | [Distinct Subsequences](./115-distinct-subsequences/) | Hard | java |
 | 136 | [Single Number](./136-find-the-difference/) | Easy | java |
 | 187 | [Repeated DNA Sequences](./187-repeated-dna-sequences/) | Medium | java |
+| 301 | [Remove Invalid Parentheses](./301-minimum-add-to-make-parentheses-valid/) | Hard | java |
 | 516 | [Longest Palindromic Subsequence](./516-longest-palindromic-subsequence/) | Medium | java |
 | 678 | [Valid Parenthesis String](./678-valid-parenthesis-string/) | Medium | java |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](./712-minimum-ascii-delete-sum-for-two-strings/) | Medium | java |
@@ -1074,6 +1078,7 @@
 | 210 | [Course Schedule II](./210-course-schedule-ii/) | Medium | Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort | java |
 | 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Sweep Line, Sorting, Heap (Priority Queue), Ordered Set | java |
 | 295 | [Find Median from Data Stream](./295-find-median-from-data-stream/) | Hard | Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream | java |
+| 301 | [Remove Invalid Parentheses](./301-minimum-add-to-make-parentheses-valid/) | Hard | String, Stack, Greedy, Bracket Sequences | java |
 | 307 | [Range Sum Query - Mutable](./307-range-sum-query-mutable/) | Medium | Array, Divide and Conquer, Design, Binary Indexed Tree, Segment Tree, Sqrt Decomposition | java |
 | 315 | [Count of Smaller Numbers After Self](./315-count-of-smaller-numbers-after-self/) | Hard | Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set, Treap | java |
 | 355 | [Design Twitter](./355-design-twitter/) | Medium | Hash Table, Linked List, Design, Heap (Priority Queue) | java |
