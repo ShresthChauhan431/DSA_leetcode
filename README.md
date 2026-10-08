@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **187** problems solved
+> **188** problems solved
 
 ## Topics
 
@@ -35,7 +35,7 @@
 - [Floyd–Warshall Algorithm](#floyd-warshall-algorithm) (2)
 - [Floyd's Cycle Finding Algorithm](#floyd-s-cycle-finding-algorithm) (1)
 - [Game Theory](#game-theory) (4)
-- [Geometry](#geometry) (2)
+- [Geometry](#geometry) (3)
 - [Graph Theory](#graph-theory) (12)
 - [Greedy](#greedy) (14)
 - [Hash Function](#hash-function) (2)
@@ -44,7 +44,7 @@
 - [Kruskal's Algorithm](#kruskal-s-algorithm) (1)
 - [Linked List](#linked-list) (4)
 - [Manacher](#manacher) (1)
-- [Math](#math) (23)
+- [Math](#math) (24)
 - [Matrix](#matrix) (10)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Memoization](#memoization) (1)
@@ -58,8 +58,9 @@
 - [Prim's Algorithm](#prim-s-algorithm) (1)
 - [Primality Test](#primality-test) (1)
 - [Prime Number Sieve](#prime-number-sieve) (1)
-- [Randomized](#randomized) (1)
+- [Randomized](#randomized) (2)
 - [Recursion](#recursion) (3)
+- [Rejection Sampling](#rejection-sampling) (1)
 - [Reservoir Sampling](#reservoir-sampling) (1)
 - [Rolling Hash](#rolling-hash) (2)
 - [Segment Tree](#segment-tree) (4)
@@ -499,6 +500,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 478 | [Generate Random Point in a Circle](./478-generate-random-point-in-a-circle/) | Medium | java |
 | 836 | [Rectangle Overlap](./836-rectangle-overlap/) | Easy | cpp |
 | 1401 | [Circle and Rectangle Overlapping](./1401-circle-and-rectangle-overlapping/) | Medium | java |
 
@@ -626,6 +628,7 @@
 | 202 | [Happy Number](./202-happy-number/) | Easy | java |
 | 204 | [Count Primes](./204-count-primes/) | Medium | cpp |
 | 398 | [Random Pick Index](./398-random-pick-index/) | Medium | java |
+| 478 | [Generate Random Point in a Circle](./478-generate-random-point-in-a-circle/) | Medium | java |
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
 | 836 | [Rectangle Overlap](./836-rectangle-overlap/) | Easy | cpp |
@@ -750,6 +753,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 398 | [Random Pick Index](./398-random-pick-index/) | Medium | java |
+| 478 | [Generate Random Point in a Circle](./478-generate-random-point-in-a-circle/) | Medium | java |
 
 ## Recursion
 
@@ -758,6 +762,12 @@
 | 136 | [Single Number](./136-power-of-two/) | Easy | java |
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
 | 3483 | [Unique 3-Digit Even Numbers](./3483-unique-3-digit-even-numbers/) | Easy | java |
+
+## Rejection Sampling
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 478 | [Generate Random Point in a Circle](./478-generate-random-point-in-a-circle/) | Medium | java |
 
 ## Reservoir Sampling
 
@@ -1086,6 +1096,7 @@
 | 398 | [Random Pick Index](./398-random-pick-index/) | Medium | Hash Table, Math, Reservoir Sampling, Randomized | java |
 | 460 | [LFU Cache](./460-lfu-cache/) | Hard | Hash Table, Linked List, Design, Doubly-Linked List | java |
 | 473 | [Matchsticks to Square](./473-matchsticks-to-square/) | Medium | Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask | java |
+| 478 | [Generate Random Point in a Circle](./478-generate-random-point-in-a-circle/) | Medium | Math, Geometry, Rejection Sampling, Randomized | java |
 | 480 | [Sliding Window Median](./480-sliding-window-median/) | Hard | Array, Hash Table, Sliding Window, Heap (Priority Queue), Treap | java |
 | 485 | [Max Consecutive Ones](./485-max-consecutive-ones/) | Easy | Array | java |
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | Array, Math, Dynamic Programming, Recursion, Game Theory | java |
