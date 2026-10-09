@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **189** problems solved
+> **190** problems solved
 
 ## Topics
 
@@ -16,7 +16,7 @@
 - [Bitmask](#bitmask) (5)
 - [Borůvka's Algorithm](#bor-vka-s-algorithm) (1)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
-- [Bracket Sequences](#bracket-sequences) (11)
+- [Bracket Sequences](#bracket-sequences) (12)
 - [Breadth-First Search](#breadth-first-search) (13)
 - [Bridge (Graph)](#bridge-graph) (1)
 - [Counting](#counting) (5)
@@ -37,7 +37,7 @@
 - [Game Theory](#game-theory) (4)
 - [Geometry](#geometry) (3)
 - [Graph Theory](#graph-theory) (12)
-- [Greedy](#greedy) (14)
+- [Greedy](#greedy) (15)
 - [Hash Function](#hash-function) (2)
 - [Hash Table](#hash-table) (34)
 - [Heap (Priority Queue)](#heap-priority-queue) (8)
@@ -70,8 +70,8 @@
 - [Sliding Window](#sliding-window) (9)
 - [Sorting](#sorting) (19)
 - [Sqrt Decomposition](#sqrt-decomposition) (1)
-- [Stack](#stack) (11)
-- [String](#string) (42)
+- [Stack](#stack) (12)
+- [String](#string) (43)
 - [Suffix Array](#suffix-array) (1)
 - [Suffix Automaton](#suffix-automaton) (1)
 - [Suffix Tree](#suffix-tree) (1)
@@ -299,6 +299,7 @@
 | 856 | [Score of Parentheses](./856-score-of-parentheses/) | Medium | java |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | java |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium | java |
+| 1541 | [Minimum Insertions to Balance a Parentheses String](./1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium | java |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](./1541-remove-outermost-parentheses/) | Medium | java |
 | 1614 | [Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/) | Easy | java |
 | 2267 | [ Check if There Is a Valid Parentheses String Path](./2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard | java |
@@ -532,6 +533,7 @@
 | 678 | [Valid Parenthesis String](./678-valid-parenthesis-string/) | Medium | java |
 | 875 | [Koko Eating Bananas](./875-split-array-largest-sum/) | Medium | java |
 | 1401 | [Circle and Rectangle Overlapping](./1401-maximum-number-of-non-overlapping-substrings/) | Medium | java |
+| 1541 | [Minimum Insertions to Balance a Parentheses String](./1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium | java |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-minimize-xor/) | Hard | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-container-with-most-water/) | Easy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-distribute-money-to-maximum-children/) | Easy | java |
@@ -871,6 +873,7 @@
 | 856 | [Score of Parentheses](./856-score-of-parentheses/) | Medium | java |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | java |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium | java |
+| 1541 | [Minimum Insertions to Balance a Parentheses String](./1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium | java |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](./1541-remove-outermost-parentheses/) | Medium | java |
 | 1614 | [Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/) | Easy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
@@ -906,6 +909,7 @@
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1334-evaluate-division/) | Medium | java |
 | 1401 | [Circle and Rectangle Overlapping](./1401-maximum-number-of-non-overlapping-substrings/) | Medium | java |
 | 1446 | [Consecutive Characters](./1446-consecutive-characters/) | Easy | java |
+| 1541 | [Minimum Insertions to Balance a Parentheses String](./1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium | java |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](./1541-remove-outermost-parentheses/) | Medium | java |
 | 1614 | [Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/) | Easy | java |
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | java |
@@ -1145,6 +1149,7 @@
 | 1401 | [Circle and Rectangle Overlapping](./1401-maximum-number-of-non-overlapping-substrings/) | Medium | Hash Table, String, Greedy, Sorting | java |
 | 1446 | [Consecutive Characters](./1446-consecutive-characters/) | Easy | String | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | Array, Sorting, Heap (Priority Queue) | java |
+| 1541 | [Minimum Insertions to Balance a Parentheses String](./1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium | String, Stack, Greedy, Bracket Sequences | java |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](./1541-remove-outermost-parentheses/) | Medium | String, Stack, Bracket Sequences | java |
 | 1563 | [Stone Game V](./1563-stone-game-v/) | Hard | Array, Math, Dynamic Programming, Game Theory | java |
 | 1584 | [Min Cost to Connect All Points](./1584-min-cost-to-connect-all-points/) | Medium | Array, Union-Find, Graph Theory, Minimum Spanning Tree, Prim's Algorithm, Kruskal's Algorithm, Borůvka's Algorithm | java |
