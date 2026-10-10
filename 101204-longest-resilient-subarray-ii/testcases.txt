@@ -1,0 +1,11 @@
+Example 1:
+Input: nums = [2,4,6,3], k = 2
+Output: 3
+
+Example 2:
+Input: nums = [1,4,7,1], k = 3
+Output: 4
+
+Example 3:
+Input: nums = [5,5,4,8], k = 4
+Output: 2
