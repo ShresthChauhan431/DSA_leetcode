@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **192** problems solved
+> **193** problems solved
 
 ## Topics
 
@@ -83,7 +83,7 @@
 - [Union-Find](#union-find) (8)
 - [Z Algorithm](#z-algorithm) (2)
 - [Zero-Sum Game](#zero-sum-game) (1)
-- [Uncategorized](#uncategorized) (40)
+- [Uncategorized](#uncategorized) (41)
 - [All Problems](#all-problems)
 
 ## Algorithm X
@@ -1056,6 +1056,7 @@
 | 101181 | [Minimum Queen Moves to Reach Target](./101181-minimum-queen-moves-to-reach-target/) | Easy | java |
 | 101181 | [Minimum Queen Moves to Reach Target](./101181-transform-array-using-pair-operations/) | Easy | java |
 | 101204 | [Maximum Product Pair With Target Sum](./101204-longest-resilient-subarray-i/) | Easy | java |
+| 101204 | [Maximum Product Pair With Target Sum](./101204-longest-resilient-subarray-ii/) | Easy | java |
 | 101204 | [Maximum Product Pair With Target Sum](./101204-maximum-product-pair-with-target-sum/) | Easy | java |
 
 ## All Problems
@@ -1253,6 +1254,7 @@
 | 101181 | [Minimum Queen Moves to Reach Target](./101181-minimum-queen-moves-to-reach-target/) | Easy | - | java |
 | 101181 | [Minimum Queen Moves to Reach Target](./101181-transform-array-using-pair-operations/) | Easy | - | java |
 | 101204 | [Maximum Product Pair With Target Sum](./101204-longest-resilient-subarray-i/) | Easy | - | java |
+| 101204 | [Maximum Product Pair With Target Sum](./101204-longest-resilient-subarray-ii/) | Easy | - | java |
 | 101204 | [Maximum Product Pair With Target Sum](./101204-maximum-product-pair-with-target-sum/) | Easy | - | java |
 
 ---
