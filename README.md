@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **193** problems solved
+> **194** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (73)
+- [Array](#array) (74)
 - [Backtracking](#backtracking) (14)
 - [Bellman–Ford Algorithm](#bellman-ford-algorithm) (2)
 - [Biconnected Component](#biconnected-component) (1)
@@ -31,7 +31,7 @@
 - [Doubly-Linked List](#doubly-linked-list) (2)
 - [DP on Trees](#dp-on-trees) (2)
 - [Dynamic Programming](#dynamic-programming) (36)
-- [Enumeration](#enumeration) (5)
+- [Enumeration](#enumeration) (6)
 - [Floyd–Warshall Algorithm](#floyd-warshall-algorithm) (2)
 - [Floyd's Cycle Finding Algorithm](#floyd-s-cycle-finding-algorithm) (1)
 - [Game Theory](#game-theory) (4)
@@ -155,6 +155,7 @@
 | 2591 | [Distribute Money to Maximum Children](./2591-container-with-most-water/) | Easy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | java |
+| 2897 | [Apply Operations on Array to Maximize Sum of Squares](./2897-sum-of-squares-of-special-elements/) | Hard | java |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](./2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium | java |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium | java |
 | 3069 | [Distribute Elements Into Two Arrays I](./3069-distribute-elements-into-two-arrays-i/) | Easy | java |
@@ -472,6 +473,7 @@
 |---|-------|------------|----------|
 | 204 | [Count Primes](./204-count-primes/) | Medium | cpp |
 | 1601 | [Maximum Number of Achievable Transfer Requests](./1601-maximum-number-of-achievable-transfer-requests/) | Hard | java |
+| 2897 | [Apply Operations on Array to Maximize Sum of Squares](./2897-sum-of-squares-of-special-elements/) | Hard | java |
 | 3345 | [Smallest Divisible Digit Product I](./3345-smallest-divisible-digit-product-i/) | Easy | java |
 | 3483 | [Unique 3-Digit Even Numbers](./3483-unique-3-digit-even-numbers/) | Easy | java |
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](./3720-lexicographically-smallest-permutation-greater-than-target/) | Medium | java |
@@ -1185,6 +1187,7 @@
 | 2645 | [Minimum Additions to Make Valid String](./2645-minimum-additions-to-make-valid-string/) | Medium | String, Dynamic Programming, Stack, Greedy | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | Array, Dynamic Programming | java |
 | 2894 | [Divisible and Non-divisible Sums Difference](./2894-divisible-and-non-divisible-sums-difference/) | Easy | Math | java |
+| 2897 | [Apply Operations on Array to Maximize Sum of Squares](./2897-sum-of-squares-of-special-elements/) | Hard | Array, Enumeration | java |
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](./2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium | String, Sliding Window | java |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](./2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium | Array, Union-Find, Sorting | java |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium | Array, Hash Table, Sliding Window | java |
