@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **196** problems solved
+> **197** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (74)
+- [Array](#array) (75)
 - [Backtracking](#backtracking) (14)
 - [Bellman–Ford Algorithm](#bellman-ford-algorithm) (2)
 - [Biconnected Component](#biconnected-component) (1)
@@ -37,7 +37,7 @@
 - [Game Theory](#game-theory) (4)
 - [Geometry](#geometry) (3)
 - [Graph Theory](#graph-theory) (12)
-- [Greedy](#greedy) (15)
+- [Greedy](#greedy) (16)
 - [Hash Function](#hash-function) (2)
 - [Hash Table](#hash-table) (34)
 - [Heap (Priority Queue)](#heap-priority-queue) (8)
@@ -68,7 +68,7 @@
 - [Sieve Theory](#sieve-theory) (1)
 - [Simulation](#simulation) (4)
 - [Sliding Window](#sliding-window) (9)
-- [Sorting](#sorting) (19)
+- [Sorting](#sorting) (20)
 - [Sqrt Decomposition](#sqrt-decomposition) (1)
 - [Stack](#stack) (12)
 - [String](#string) (43)
@@ -168,6 +168,7 @@
 | 3568 | [Minimum Moves to Clean the Classroom](./3568-minimum-moves-to-clean-the-classroom/) | Medium | java |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](./3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium | java |
 | 3718 | [Smallest Missing Multiple of K](./3718-smallest-missing-multiple-of-k/) | Easy | java |
+| 3727 | [Maximum Alternating Sum of Squares](./3727-maximum-alternating-sum-of-squares/) | Medium | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
 | 3875 | [Construct Uniform Parity Array I](./3875-construct-uniform-parity-array-i/) | Easy | java |
 | 3903 | [Smallest Stable Index I](./3903-smallest-stable-index-i/) | Easy | java |
@@ -544,6 +545,7 @@
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | java |
 | 3107 | [Minimum Operations to Make Median of Array Equal to K](./3107-minimum-operations-to-make-median-of-array-equal-to-k/) | Medium | java |
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](./3720-lexicographically-smallest-permutation-greater-than-target/) | Medium | java |
+| 3727 | [Maximum Alternating Sum of Squares](./3727-maximum-alternating-sum-of-squares/) | Medium | java |
 
 ## Hash Function
 
@@ -856,6 +858,7 @@
 | 3107 | [Minimum Operations to Make Median of Array Equal to K](./3107-minimum-operations-to-make-median-of-array-equal-to-k/) | Medium | java |
 | 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i/) | Medium | java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | java |
+| 3727 | [Maximum Alternating Sum of Squares](./3727-maximum-alternating-sum-of-squares/) | Medium | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
 
 ## Sqrt Decomposition
@@ -1214,6 +1217,7 @@
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](./3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium | Array, Bit Manipulation | java |
 | 3718 | [Smallest Missing Multiple of K](./3718-smallest-missing-multiple-of-k/) | Easy | Array, Hash Table | java |
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](./3720-lexicographically-smallest-permutation-greater-than-target/) | Medium | Hash Table, String, Greedy, Counting, Enumeration | java |
+| 3727 | [Maximum Alternating Sum of Squares](./3727-maximum-alternating-sum-of-squares/) | Medium | Array, Greedy, Sorting | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | Array, Hash Table, Sorting | java |
 | 3870 | [Count Commas in Range](./3870-count-commas-in-range/) | Easy | Math | java |
 | 3871 | [Count Commas in Range II](./3871-count-commas-in-range-ii/) | Medium | Math | java |
