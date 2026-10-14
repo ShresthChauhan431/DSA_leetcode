@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **197** problems solved
+> **198** problems solved
 
 ## Topics
 
@@ -37,14 +37,14 @@
 - [Game Theory](#game-theory) (4)
 - [Geometry](#geometry) (3)
 - [Graph Theory](#graph-theory) (12)
-- [Greedy](#greedy) (16)
+- [Greedy](#greedy) (17)
 - [Hash Function](#hash-function) (2)
 - [Hash Table](#hash-table) (34)
 - [Heap (Priority Queue)](#heap-priority-queue) (8)
 - [Kruskal's Algorithm](#kruskal-s-algorithm) (1)
 - [Linked List](#linked-list) (4)
 - [Manacher](#manacher) (1)
-- [Math](#math) (24)
+- [Math](#math) (25)
 - [Matrix](#matrix) (10)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Memoization](#memoization) (1)
@@ -545,6 +545,7 @@
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | java |
 | 3107 | [Minimum Operations to Make Median of Array Equal to K](./3107-minimum-operations-to-make-median-of-array-equal-to-k/) | Medium | java |
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](./3720-lexicographically-smallest-permutation-greater-than-target/) | Medium | java |
+| 3723 | [Maximize Sum of Squares of Digits](./3723-maximize-sum-of-squares-of-digits/) | Medium | java |
 | 3727 | [Maximum Alternating Sum of Squares](./3727-maximum-alternating-sum-of-squares/) | Medium | java |
 
 ## Hash Function
@@ -652,6 +653,7 @@
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | java |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](./3550-smallest-index-with-digit-sum-equal-to-index/) | Easy | java |
 | 3622 | [Check Divisibility by Digit Sum and Product](./3622-check-divisibility-by-digit-sum-and-product/) | Easy | java |
+| 3723 | [Maximize Sum of Squares of Digits](./3723-maximize-sum-of-squares-of-digits/) | Medium | java |
 | 3870 | [Count Commas in Range](./3870-count-commas-in-range/) | Easy | java |
 | 3871 | [Count Commas in Range II](./3871-count-commas-in-range-ii/) | Medium | java |
 | 3875 | [Construct Uniform Parity Array I](./3875-construct-uniform-parity-array-i/) | Easy | java |
@@ -1217,6 +1219,7 @@
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](./3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium | Array, Bit Manipulation | java |
 | 3718 | [Smallest Missing Multiple of K](./3718-smallest-missing-multiple-of-k/) | Easy | Array, Hash Table | java |
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](./3720-lexicographically-smallest-permutation-greater-than-target/) | Medium | Hash Table, String, Greedy, Counting, Enumeration | java |
+| 3723 | [Maximize Sum of Squares of Digits](./3723-maximize-sum-of-squares-of-digits/) | Medium | Math, Greedy | java |
 | 3727 | [Maximum Alternating Sum of Squares](./3727-maximum-alternating-sum-of-squares/) | Medium | Array, Greedy, Sorting | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | Array, Hash Table, Sorting | java |
 | 3870 | [Count Commas in Range](./3870-count-commas-in-range/) | Easy | Math | java |
