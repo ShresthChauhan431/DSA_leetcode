@@ -1,15 +1,15 @@
 # LeetCode Solutions
 
-> **198** problems solved
+> **199** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (75)
+- [Array](#array) (76)
 - [Backtracking](#backtracking) (14)
 - [Bellman–Ford Algorithm](#bellman-ford-algorithm) (2)
 - [Biconnected Component](#biconnected-component) (1)
-- [Binary Indexed Tree](#binary-indexed-tree) (3)
+- [Binary Indexed Tree](#binary-indexed-tree) (4)
 - [Binary Search](#binary-search) (5)
 - [Binary Tree](#binary-tree) (4)
 - [Bit Manipulation](#bit-manipulation) (28)
@@ -39,7 +39,7 @@
 - [Graph Theory](#graph-theory) (12)
 - [Greedy](#greedy) (17)
 - [Hash Function](#hash-function) (2)
-- [Hash Table](#hash-table) (34)
+- [Hash Table](#hash-table) (35)
 - [Heap (Priority Queue)](#heap-priority-queue) (8)
 - [Kruskal's Algorithm](#kruskal-s-algorithm) (1)
 - [Linked List](#linked-list) (4)
@@ -63,7 +63,7 @@
 - [Rejection Sampling](#rejection-sampling) (1)
 - [Reservoir Sampling](#reservoir-sampling) (1)
 - [Rolling Hash](#rolling-hash) (2)
-- [Segment Tree](#segment-tree) (4)
+- [Segment Tree](#segment-tree) (5)
 - [Shortest Path](#shortest-path) (4)
 - [Sieve Theory](#sieve-theory) (1)
 - [Simulation](#simulation) (4)
@@ -156,6 +156,7 @@
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | java |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](./2897-sum-of-squares-of-special-elements/) | Hard | java |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](./2913-subarrays-distinct-element-sum-of-squares-i/) | Easy | java |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](./2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium | java |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium | java |
 | 3069 | [Distribute Elements Into Two Arrays I](./3069-distribute-elements-into-two-arrays-i/) | Easy | java |
@@ -213,6 +214,7 @@
 | 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | java |
 | 307 | [Range Sum Query - Mutable](./307-range-sum-query-mutable/) | Medium | java |
 | 315 | [Count of Smaller Numbers After Self](./315-count-of-smaller-numbers-after-self/) | Hard | java |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](./2913-subarrays-distinct-element-sum-of-squares-i/) | Easy | java |
 
 ## Binary Search
 
@@ -583,6 +585,7 @@
 | 2402 | [Meeting Rooms III](./2402-meeting-rooms-iii/) | Hard | java |
 | 2423 | [Remove Letter To Equalize Frequency](./2423-remove-letter-to-equalize-frequency/) | Easy | java |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-find-the-longest-substring-containing-vowels-in-even-counts/) | Hard | java |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](./2913-subarrays-distinct-element-sum-of-squares-i/) | Easy | java |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium | java |
 | 3016 | [Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/) | Medium | java |
 | 3090 | [Maximum Length Substring With Two Occurrences](./3090-maximum-length-substring-with-two-occurrences/) | Easy | java |
@@ -799,6 +802,7 @@
 | 307 | [Range Sum Query - Mutable](./307-range-sum-query-mutable/) | Medium | java |
 | 315 | [Count of Smaller Numbers After Self](./315-count-of-smaller-numbers-after-self/) | Hard | java |
 | 2213 | [Longest Substring of One Repeating Character](./2213-longest-substring-of-one-repeating-character/) | Hard | java |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](./2913-subarrays-distinct-element-sum-of-squares-i/) | Easy | java |
 
 ## Shortest Path
 
@@ -1196,6 +1200,7 @@
 | 2894 | [Divisible and Non-divisible Sums Difference](./2894-divisible-and-non-divisible-sums-difference/) | Easy | Math | java |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](./2897-sum-of-squares-of-special-elements/) | Hard | Array, Enumeration | java |
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](./2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium | String, Sliding Window | java |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](./2913-subarrays-distinct-element-sum-of-squares-i/) | Easy | Array, Hash Table, Binary Indexed Tree, Segment Tree | java |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](./2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium | Array, Union-Find, Sorting | java |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium | Array, Hash Table, Sliding Window | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | Math, String, Greedy | java |
