@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **202** problems solved
+> **203** problems solved
 
 ## Topics
 
@@ -83,7 +83,7 @@
 - [Union-Find](#union-find) (8)
 - [Z Algorithm](#z-algorithm) (2)
 - [Zero-Sum Game](#zero-sum-game) (1)
-- [Uncategorized](#uncategorized) (46)
+- [Uncategorized](#uncategorized) (47)
 - [All Problems](#all-problems)
 
 ## Algorithm X
@@ -1043,6 +1043,7 @@
 | 4070 | [Minimum Rotations to Dial a Number I](./4070-minimum-rotations-to-dial-a-number-i/) | Easy | java |
 | 4078 | [Three Fibonacci Sum](./4078-prime-subset-selection-i/) | Easy | java |
 | 4078 | [Three Fibonacci Sum](./4078-three-fibonacci-sum/) | Easy | java |
+| 4086 | [Minimum Interval Selection to Cover Target Intervals](./4086-minimum-interval-selection-to-cover-target-intervals/) | Hard | java |
 | 101110 | [Minimum Initial Strength to Defeat All Monsters](./101110-minimum-initial-strength-to-defeat-all-monsters/) | Medium | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-aggregate-two-time-series/) | Easy | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-count-valid-sequences/) | Easy | java |
@@ -1250,6 +1251,7 @@
 | 4070 | [Minimum Rotations to Dial a Number I](./4070-minimum-rotations-to-dial-a-number-i/) | Easy | - | java |
 | 4078 | [Three Fibonacci Sum](./4078-prime-subset-selection-i/) | Easy | - | java |
 | 4078 | [Three Fibonacci Sum](./4078-three-fibonacci-sum/) | Easy | - | java |
+| 4086 | [Minimum Interval Selection to Cover Target Intervals](./4086-minimum-interval-selection-to-cover-target-intervals/) | Hard | - | java |
 | 101110 | [Minimum Initial Strength to Defeat All Monsters](./101110-minimum-initial-strength-to-defeat-all-monsters/) | Medium | - | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-aggregate-two-time-series/) | Easy | - | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-count-valid-sequences/) | Easy | - | java |
