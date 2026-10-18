@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **199** problems solved
+> **200** problems solved
 
 ## Topics
 
@@ -83,7 +83,7 @@
 - [Union-Find](#union-find) (8)
 - [Z Algorithm](#z-algorithm) (2)
 - [Zero-Sum Game](#zero-sum-game) (1)
-- [Uncategorized](#uncategorized) (43)
+- [Uncategorized](#uncategorized) (44)
 - [All Problems](#all-problems)
 
 ## Algorithm X
@@ -1068,6 +1068,7 @@
 | 101178 | [Number of Intersecting Interval Pairs I](./101178-number-of-intersecting-interval-pairs-ii/) | Easy | java |
 | 101181 | [Minimum Queen Moves to Reach Target](./101181-minimum-queen-moves-to-reach-target/) | Easy | java |
 | 101181 | [Minimum Queen Moves to Reach Target](./101181-transform-array-using-pair-operations/) | Easy | java |
+| 101190 | [Minimum Deletions to Make Array Sharp](./101190-minimum-deletions-to-make-array-sharp/) | Easy | java |
 | 101204 | [Maximum Product Pair With Target Sum](./101204-longest-resilient-subarray-i/) | Easy | java |
 | 101204 | [Maximum Product Pair With Target Sum](./101204-longest-resilient-subarray-ii/) | Easy | java |
 | 101204 | [Maximum Product Pair With Target Sum](./101204-maximum-product-pair-with-target-sum/) | Easy | java |
@@ -1272,6 +1273,7 @@
 | 101178 | [Number of Intersecting Interval Pairs I](./101178-number-of-intersecting-interval-pairs-ii/) | Easy | - | java |
 | 101181 | [Minimum Queen Moves to Reach Target](./101181-minimum-queen-moves-to-reach-target/) | Easy | - | java |
 | 101181 | [Minimum Queen Moves to Reach Target](./101181-transform-array-using-pair-operations/) | Easy | - | java |
+| 101190 | [Minimum Deletions to Make Array Sharp](./101190-minimum-deletions-to-make-array-sharp/) | Easy | - | java |
 | 101204 | [Maximum Product Pair With Target Sum](./101204-longest-resilient-subarray-i/) | Easy | - | java |
 | 101204 | [Maximum Product Pair With Target Sum](./101204-longest-resilient-subarray-ii/) | Easy | - | java |
 | 101204 | [Maximum Product Pair With Target Sum](./101204-maximum-product-pair-with-target-sum/) | Easy | - | java |
