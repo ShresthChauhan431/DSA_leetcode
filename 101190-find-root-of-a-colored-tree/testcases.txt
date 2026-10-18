@@ -1,0 +1,7 @@
+Example 1:
+Input: edges = [[3,1],[3,2],[1,4],[2,0]], colors = "BRRWB"
+Output: 3
+
+Example 2:
+Input: edges = [[0,1],[1,2],[2,3]], colors = "RBRB"
+Output: -1
