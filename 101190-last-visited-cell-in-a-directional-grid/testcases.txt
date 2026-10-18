@@ -1,0 +1,7 @@
+Example 1:
+Input: grid = [["R","D"],["U","L"]]
+Output: [1,0]
+
+Example 2:
+Input: grid = [["R","R","R"]]
+Output: [0,2]
