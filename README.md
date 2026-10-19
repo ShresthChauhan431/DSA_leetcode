@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **204** problems solved
+> **205** problems solved
 
 ## Topics
 
@@ -25,7 +25,7 @@
 - [Data Stream](#data-stream) (1)
 - [Database](#database) (3)
 - [Depth-First Search](#depth-first-search) (15)
-- [Design](#design) (5)
+- [Design](#design) (6)
 - [Dijkstra's Algorithm](#dijkstra-s-algorithm) (2)
 - [Divide and Conquer](#divide-and-conquer) (5)
 - [Doubly-Linked List](#doubly-linked-list) (2)
@@ -36,11 +36,11 @@
 - [Floyd's Cycle Finding Algorithm](#floyd-s-cycle-finding-algorithm) (1)
 - [Game Theory](#game-theory) (4)
 - [Geometry](#geometry) (3)
-- [Graph Theory](#graph-theory) (12)
+- [Graph Theory](#graph-theory) (13)
 - [Greedy](#greedy) (17)
 - [Hash Function](#hash-function) (2)
 - [Hash Table](#hash-table) (35)
-- [Heap (Priority Queue)](#heap-priority-queue) (8)
+- [Heap (Priority Queue)](#heap-priority-queue) (9)
 - [Kruskal's Algorithm](#kruskal-s-algorithm) (1)
 - [Linked List](#linked-list) (4)
 - [Manacher](#manacher) (1)
@@ -64,7 +64,7 @@
 - [Reservoir Sampling](#reservoir-sampling) (1)
 - [Rolling Hash](#rolling-hash) (2)
 - [Segment Tree](#segment-tree) (5)
-- [Shortest Path](#shortest-path) (4)
+- [Shortest Path](#shortest-path) (5)
 - [Sieve Theory](#sieve-theory) (1)
 - [Simulation](#simulation) (4)
 - [Sliding Window](#sliding-window) (9)
@@ -399,6 +399,7 @@
 | 355 | [Design Twitter](./355-design-twitter/) | Medium | java |
 | 460 | [LFU Cache](./460-lfu-cache/) | Hard | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
+| 2642 | [Design Graph With Shortest Path Calculator](./2642-design-graph-with-shortest-path-calculator/) | Hard | java |
 
 ## Dijkstra's Algorithm
 
@@ -528,6 +529,7 @@
 | 1584 | [Min Cost to Connect All Points](./1584-min-cost-to-connect-all-points/) | Medium | java |
 | 1584 | [Min Cost to Connect All Points](./1584-redundant-connection/) | Medium | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | java |
+| 2642 | [Design Graph With Shortest Path Calculator](./2642-design-graph-with-shortest-path-calculator/) | Hard | java |
 | 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | Medium | java |
 
 ## Greedy
@@ -611,6 +613,7 @@
 | 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | java |
 | 2402 | [Meeting Rooms III](./2402-meeting-rooms-iii/) | Hard | java |
+| 2642 | [Design Graph With Shortest Path Calculator](./2642-design-graph-with-shortest-path-calculator/) | Hard | java |
 
 ## Kruskal's Algorithm
 
@@ -814,6 +817,7 @@
 | 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | java |
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1334-evaluate-division/) | Medium | java |
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium | java |
+| 2642 | [Design Graph With Shortest Path Calculator](./2642-design-graph-with-shortest-path-calculator/) | Hard | java |
 
 ## Sieve Theory
 
@@ -1203,6 +1207,7 @@
 | 2591 | [Distribute Money to Maximum Children](./2591-container-with-most-water/) | Easy | Array, Two Pointers, Greedy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-distribute-money-to-maximum-children/) | Easy | Math, Greedy | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack | java |
+| 2642 | [Design Graph With Shortest Path Calculator](./2642-design-graph-with-shortest-path-calculator/) | Hard | Graph Theory, Design, Heap (Priority Queue), Shortest Path | java |
 | 2645 | [Minimum Additions to Make Valid String](./2645-minimum-additions-to-make-valid-string/) | Medium | String, Dynamic Programming, Stack, Greedy | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | Array, Dynamic Programming | java |
 | 2894 | [Divisible and Non-divisible Sums Difference](./2894-divisible-and-non-divisible-sums-difference/) | Easy | Math | java |
