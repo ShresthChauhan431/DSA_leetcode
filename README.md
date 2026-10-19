@@ -1,16 +1,16 @@
 # LeetCode Solutions
 
-> **203** problems solved
+> **204** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (76)
+- [Array](#array) (77)
 - [Backtracking](#backtracking) (14)
 - [Bellman–Ford Algorithm](#bellman-ford-algorithm) (2)
 - [Biconnected Component](#biconnected-component) (1)
 - [Binary Indexed Tree](#binary-indexed-tree) (4)
-- [Binary Search](#binary-search) (5)
+- [Binary Search](#binary-search) (6)
 - [Binary Tree](#binary-tree) (4)
 - [Bit Manipulation](#bit-manipulation) (28)
 - [Bitmask](#bitmask) (5)
@@ -68,7 +68,7 @@
 - [Sieve Theory](#sieve-theory) (1)
 - [Simulation](#simulation) (4)
 - [Sliding Window](#sliding-window) (9)
-- [Sorting](#sorting) (20)
+- [Sorting](#sorting) (21)
 - [Sqrt Decomposition](#sqrt-decomposition) (1)
 - [Stack](#stack) (12)
 - [String](#string) (43)
@@ -145,6 +145,7 @@
 | 1685 | [Sum of Absolute Differences in a Sorted Array](./1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 1807 | [Evaluate the Bracket Pairs of a String](./1807-evaluate-the-bracket-pairs-of-a-string/) | Medium | java |
+| 2089 | [Find Target Indices After Sorting Array](./2089-find-target-indices-after-sorting-array/) | Easy | java |
 | 2213 | [Longest Substring of One Repeating Character](./2213-longest-substring-of-one-repeating-character/) | Hard | java |
 | 2267 | [ Check if There Is a Valid Parentheses String Path](./2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | java |
@@ -224,6 +225,7 @@
 | 875 | [Koko Eating Bananas](./875-split-array-largest-sum/) | Medium | java |
 | 1044 | [Longest Duplicate Substring](./1044-longest-duplicate-substring/) | Hard | java |
 | 1658 | [Minimum Operations to Reduce X to Zero](./1658-minimum-operations-to-reduce-x-to-zero/) | Medium | java |
+| 2089 | [Find Target Indices After Sorting Array](./2089-find-target-indices-after-sorting-array/) | Easy | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | java |
 
 ## Binary Tree
@@ -857,6 +859,7 @@
 | 1401 | [Circle and Rectangle Overlapping](./1401-maximum-number-of-non-overlapping-substrings/) | Medium | java |
 | 1464 | [Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/) | Easy | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
+| 2089 | [Find Target Indices After Sorting Array](./2089-find-target-indices-after-sorting-array/) | Easy | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | java |
 | 2402 | [Meeting Rooms III](./2402-meeting-rooms-iii/) | Hard | java |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](./2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium | java |
@@ -1183,6 +1186,7 @@
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | Hash Table, String | java |
 | 1807 | [Evaluate the Bracket Pairs of a String](./1807-evaluate-the-bracket-pairs-of-a-string/) | Medium | Array, Hash Table, String | java |
 | 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](./2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | Linked List | java |
+| 2089 | [Find Target Indices After Sorting Array](./2089-find-target-indices-after-sorting-array/) | Easy | Array, Binary Search, Sorting | java |
 | 2213 | [Longest Substring of One Repeating Character](./2213-longest-substring-of-one-repeating-character/) | Hard | Array, String, Segment Tree, Ordered Set | java |
 | 2265 | [Count Nodes Equal to Average of Subtree](./2265-count-nodes-equal-to-average-of-subtree/) | Medium | Tree, Depth-First Search, Binary Tree | java |
 | 2267 | [ Check if There Is a Valid Parentheses String Path](./2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard | Array, Dynamic Programming, Matrix, Bracket Sequences | java |
