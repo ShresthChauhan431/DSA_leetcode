@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **205** problems solved
+> **206** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (77)
+- [Array](#array) (78)
 - [Backtracking](#backtracking) (14)
 - [Bellman–Ford Algorithm](#bellman-ford-algorithm) (2)
 - [Biconnected Component](#biconnected-component) (1)
@@ -31,7 +31,7 @@
 - [Doubly-Linked List](#doubly-linked-list) (2)
 - [DP on Trees](#dp-on-trees) (2)
 - [Dynamic Programming](#dynamic-programming) (36)
-- [Enumeration](#enumeration) (6)
+- [Enumeration](#enumeration) (7)
 - [Floyd–Warshall Algorithm](#floyd-warshall-algorithm) (2)
 - [Floyd's Cycle Finding Algorithm](#floyd-s-cycle-finding-algorithm) (1)
 - [Game Theory](#game-theory) (4)
@@ -44,7 +44,7 @@
 - [Kruskal's Algorithm](#kruskal-s-algorithm) (1)
 - [Linked List](#linked-list) (4)
 - [Manacher](#manacher) (1)
-- [Math](#math) (25)
+- [Math](#math) (26)
 - [Matrix](#matrix) (10)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Memoization](#memoization) (1)
@@ -68,7 +68,7 @@
 - [Sieve Theory](#sieve-theory) (1)
 - [Simulation](#simulation) (4)
 - [Sliding Window](#sliding-window) (9)
-- [Sorting](#sorting) (21)
+- [Sorting](#sorting) (22)
 - [Sqrt Decomposition](#sqrt-decomposition) (1)
 - [Stack](#stack) (12)
 - [String](#string) (43)
@@ -173,6 +173,7 @@
 | 3727 | [Maximum Alternating Sum of Squares](./3727-maximum-alternating-sum-of-squares/) | Medium | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
 | 3875 | [Construct Uniform Parity Array I](./3875-construct-uniform-parity-array-i/) | Easy | java |
+| 3886 | [Sum of Sortable Integers](./3886-sum-of-sortable-integers/) | Hard | java |
 | 3903 | [Smallest Stable Index I](./3903-smallest-stable-index-i/) | Easy | java |
 | 3904 | [Smallest Stable Index II](./3904-smallest-stable-index-ii/) | Medium | java |
 
@@ -483,6 +484,7 @@
 | 3345 | [Smallest Divisible Digit Product I](./3345-smallest-divisible-digit-product-i/) | Easy | java |
 | 3483 | [Unique 3-Digit Even Numbers](./3483-unique-3-digit-even-numbers/) | Easy | java |
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](./3720-lexicographically-smallest-permutation-greater-than-target/) | Medium | java |
+| 3886 | [Sum of Sortable Integers](./3886-sum-of-sortable-integers/) | Hard | java |
 
 ## Floyd–Warshall Algorithm
 
@@ -665,6 +667,7 @@
 | 3870 | [Count Commas in Range](./3870-count-commas-in-range/) | Easy | java |
 | 3871 | [Count Commas in Range II](./3871-count-commas-in-range-ii/) | Medium | java |
 | 3875 | [Construct Uniform Parity Array I](./3875-construct-uniform-parity-array-i/) | Easy | java |
+| 3886 | [Sum of Sortable Integers](./3886-sum-of-sortable-integers/) | Hard | java |
 
 ## Matrix
 
@@ -873,6 +876,7 @@
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | java |
 | 3727 | [Maximum Alternating Sum of Squares](./3727-maximum-alternating-sum-of-squares/) | Medium | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
+| 3886 | [Sum of Sortable Integers](./3886-sum-of-sortable-integers/) | Hard | java |
 
 ## Sqrt Decomposition
 
@@ -1243,6 +1247,7 @@
 | 3870 | [Count Commas in Range](./3870-count-commas-in-range/) | Easy | Math | java |
 | 3871 | [Count Commas in Range II](./3871-count-commas-in-range-ii/) | Medium | Math | java |
 | 3875 | [Construct Uniform Parity Array I](./3875-construct-uniform-parity-array-i/) | Easy | Array, Math | java |
+| 3886 | [Sum of Sortable Integers](./3886-sum-of-sortable-integers/) | Hard | Array, Math, Sorting, Enumeration | java |
 | 3903 | [Smallest Stable Index I](./3903-smallest-stable-index-i/) | Easy | Array, Prefix Sum | java |
 | 3904 | [Smallest Stable Index II](./3904-smallest-stable-index-ii/) | Medium | Array, Prefix Sum | java |
 | 4010 | [Maximize Pair Strength Using GCD](./4010-count-subarrays-with-even-odd-ratio-i/) | Easy | - | java |
