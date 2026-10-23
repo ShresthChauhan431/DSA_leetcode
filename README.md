@@ -1,18 +1,18 @@
 # LeetCode Solutions
 
-> **207** problems solved
+> **208** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (79)
+- [Array](#array) (80)
 - [Backtracking](#backtracking) (14)
 - [Bellman–Ford Algorithm](#bellman-ford-algorithm) (2)
 - [Biconnected Component](#biconnected-component) (1)
 - [Binary Indexed Tree](#binary-indexed-tree) (4)
 - [Binary Search](#binary-search) (6)
 - [Binary Tree](#binary-tree) (4)
-- [Bit Manipulation](#bit-manipulation) (28)
+- [Bit Manipulation](#bit-manipulation) (29)
 - [Bitmask](#bitmask) (5)
 - [Borůvka's Algorithm](#bor-vka-s-algorithm) (1)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
@@ -167,6 +167,7 @@
 | 3483 | [Unique 3-Digit Even Numbers](./3483-unique-3-digit-even-numbers/) | Easy | java |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](./3550-smallest-index-with-digit-sum-equal-to-index/) | Easy | java |
 | 3568 | [Minimum Moves to Clean the Classroom](./3568-minimum-moves-to-clean-the-classroom/) | Medium | java |
+| 3644 | [Maximum K to Sort a Permutation](./3644-maximum-k-to-sort-a-permutation/) | Medium | java |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](./3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium | java |
 | 3718 | [Smallest Missing Multiple of K](./3718-smallest-missing-multiple-of-k/) | Easy | java |
 | 3724 | [Minimum Operations to Transform Array](./3724-range-sum-query-mutable/) | Medium | java |
@@ -270,6 +271,7 @@
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-single-number-ii/) | Hard | java |
 | 3158 | [Find the XOR of Numbers Which Appear Twice](./3158-find-the-xor-of-numbers-which-appear-twice/) | Easy | java |
 | 3568 | [Minimum Moves to Clean the Classroom](./3568-minimum-moves-to-clean-the-classroom/) | Medium | java |
+| 3644 | [Maximum K to Sort a Permutation](./3644-maximum-k-to-sort-a-permutation/) | Medium | java |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](./3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium | java |
 
 ## Bitmask
@@ -1238,6 +1240,7 @@
 | 3550 | [Smallest Index With Digit Sum Equal to Index](./3550-smallest-index-with-digit-sum-equal-to-index/) | Easy | Array, Math | java |
 | 3568 | [Minimum Moves to Clean the Classroom](./3568-minimum-moves-to-clean-the-classroom/) | Medium | Array, Hash Table, Bit Manipulation, Breadth-First Search, Matrix | java |
 | 3622 | [Check Divisibility by Digit Sum and Product](./3622-check-divisibility-by-digit-sum-and-product/) | Easy | Math | java |
+| 3644 | [Maximum K to Sort a Permutation](./3644-maximum-k-to-sort-a-permutation/) | Medium | Array, Bit Manipulation | java |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](./3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium | Array, Bit Manipulation | java |
 | 3718 | [Smallest Missing Multiple of K](./3718-smallest-missing-multiple-of-k/) | Easy | Array, Hash Table | java |
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](./3720-lexicographically-smallest-permutation-greater-than-target/) | Medium | Hash Table, String, Greedy, Counting, Enumeration | java |
