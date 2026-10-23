@@ -111,7 +111,6 @@
 | 136 | [Single Number](./136-subsets/) | Easy | java |
 | 204 | [Count Primes](./204-count-primes/) | Medium | cpp |
 | 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | java |
-| 307 | [Range Sum Query - Mutable](./307-range-sum-query-mutable/) | Medium | java |
 | 315 | [Count of Smaller Numbers After Self](./315-count-of-smaller-numbers-after-self/) | Hard | java |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | java |
 | 473 | [Matchsticks to Square](./473-matchsticks-to-square/) | Medium | java |
@@ -170,6 +169,7 @@
 | 3568 | [Minimum Moves to Clean the Classroom](./3568-minimum-moves-to-clean-the-classroom/) | Medium | java |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](./3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium | java |
 | 3718 | [Smallest Missing Multiple of K](./3718-smallest-missing-multiple-of-k/) | Easy | java |
+| 3724 | [Minimum Operations to Transform Array](./3724-range-sum-query-mutable/) | Medium | java |
 | 3727 | [Maximum Alternating Sum of Squares](./3727-maximum-alternating-sum-of-squares/) | Medium | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
 | 3875 | [Construct Uniform Parity Array I](./3875-construct-uniform-parity-array-i/) | Easy | java |
@@ -215,9 +215,9 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | java |
-| 307 | [Range Sum Query - Mutable](./307-range-sum-query-mutable/) | Medium | java |
 | 315 | [Count of Smaller Numbers After Self](./315-count-of-smaller-numbers-after-self/) | Hard | java |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](./2913-subarrays-distinct-element-sum-of-squares-i/) | Easy | java |
+| 3724 | [Minimum Operations to Transform Array](./3724-range-sum-query-mutable/) | Medium | java |
 
 ## Binary Search
 
@@ -397,11 +397,11 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 295 | [Find Median from Data Stream](./295-find-median-from-data-stream/) | Hard | java |
-| 307 | [Range Sum Query - Mutable](./307-range-sum-query-mutable/) | Medium | java |
 | 355 | [Design Twitter](./355-design-twitter/) | Medium | java |
 | 460 | [LFU Cache](./460-lfu-cache/) | Hard | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
 | 2642 | [Design Graph With Shortest Path Calculator](./2642-design-graph-with-shortest-path-calculator/) | Hard | java |
+| 3724 | [Minimum Operations to Transform Array](./3724-range-sum-query-mutable/) | Medium | java |
 
 ## Dijkstra's Algorithm
 
@@ -417,8 +417,8 @@
 | 136 | [Single Number](./136-number-of-1-bits/) | Easy | java |
 | 136 | [Single Number](./136-reverse-bits/) | Easy | java |
 | 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | java |
-| 307 | [Range Sum Query - Mutable](./307-range-sum-query-mutable/) | Medium | java |
 | 315 | [Count of Smaller Numbers After Self](./315-count-of-smaller-numbers-after-self/) | Hard | java |
+| 3724 | [Minimum Operations to Transform Array](./3724-range-sum-query-mutable/) | Medium | java |
 
 ## Doubly-Linked List
 
@@ -808,10 +808,10 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | java |
-| 307 | [Range Sum Query - Mutable](./307-range-sum-query-mutable/) | Medium | java |
 | 315 | [Count of Smaller Numbers After Self](./315-count-of-smaller-numbers-after-self/) | Hard | java |
 | 2213 | [Longest Substring of One Repeating Character](./2213-longest-substring-of-one-repeating-character/) | Hard | java |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](./2913-subarrays-distinct-element-sum-of-squares-i/) | Easy | java |
+| 3724 | [Minimum Operations to Transform Array](./3724-range-sum-query-mutable/) | Medium | java |
 
 ## Shortest Path
 
@@ -883,7 +883,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
-| 307 | [Range Sum Query - Mutable](./307-range-sum-query-mutable/) | Medium | java |
+| 3724 | [Minimum Operations to Transform Array](./3724-range-sum-query-mutable/) | Medium | java |
 
 ## Stack
 
@@ -1128,7 +1128,6 @@
 | 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Sweep Line, Sorting, Heap (Priority Queue), Ordered Set | java |
 | 295 | [Find Median from Data Stream](./295-find-median-from-data-stream/) | Hard | Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream | java |
 | 301 | [Remove Invalid Parentheses](./301-minimum-add-to-make-parentheses-valid/) | Hard | String, Stack, Greedy, Bracket Sequences | java |
-| 307 | [Range Sum Query - Mutable](./307-range-sum-query-mutable/) | Medium | Array, Divide and Conquer, Design, Binary Indexed Tree, Segment Tree, Sqrt Decomposition | java |
 | 315 | [Count of Smaller Numbers After Self](./315-count-of-smaller-numbers-after-self/) | Hard | Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set, Treap | java |
 | 355 | [Design Twitter](./355-design-twitter/) | Medium | Hash Table, Linked List, Design, Heap (Priority Queue) | java |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | Array, Dynamic Programming | java |
@@ -1243,6 +1242,7 @@
 | 3718 | [Smallest Missing Multiple of K](./3718-smallest-missing-multiple-of-k/) | Easy | Array, Hash Table | java |
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](./3720-lexicographically-smallest-permutation-greater-than-target/) | Medium | Hash Table, String, Greedy, Counting, Enumeration | java |
 | 3723 | [Maximize Sum of Squares of Digits](./3723-maximize-sum-of-squares-of-digits/) | Medium | Math, Greedy | java |
+| 3724 | [Minimum Operations to Transform Array](./3724-range-sum-query-mutable/) | Medium | Array, Divide and Conquer, Design, Binary Indexed Tree, Segment Tree, Sqrt Decomposition | java |
 | 3727 | [Maximum Alternating Sum of Squares](./3727-maximum-alternating-sum-of-squares/) | Medium | Array, Greedy, Sorting | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | Array, Hash Table, Sorting | java |
 | 3870 | [Count Commas in Range](./3870-count-commas-in-range/) | Easy | Math | java |
