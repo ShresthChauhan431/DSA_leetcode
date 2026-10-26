@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **210** problems solved
+> **211** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (80)
+- [Array](#array) (81)
 - [Backtracking](#backtracking) (14)
 - [Bellman–Ford Algorithm](#bellman-ford-algorithm) (2)
 - [Biconnected Component](#biconnected-component) (1)
@@ -17,14 +17,14 @@
 - [Borůvka's Algorithm](#bor-vka-s-algorithm) (1)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
 - [Bracket Sequences](#bracket-sequences) (12)
-- [Breadth-First Search](#breadth-first-search) (13)
+- [Breadth-First Search](#breadth-first-search) (14)
 - [Bridge (Graph)](#bridge-graph) (1)
 - [Counting](#counting) (5)
 - [Counting Sort](#counting-sort) (1)
 - [Dancing Links](#dancing-links) (1)
 - [Data Stream](#data-stream) (1)
 - [Database](#database) (3)
-- [Depth-First Search](#depth-first-search) (15)
+- [Depth-First Search](#depth-first-search) (16)
 - [Design](#design) (6)
 - [Dijkstra's Algorithm](#dijkstra-s-algorithm) (2)
 - [Divide and Conquer](#divide-and-conquer) (5)
@@ -45,7 +45,7 @@
 - [Linked List](#linked-list) (4)
 - [Manacher](#manacher) (1)
 - [Math](#math) (26)
-- [Matrix](#matrix) (10)
+- [Matrix](#matrix) (11)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Memoization](#memoization) (1)
 - [Merge Sort](#merge-sort) (1)
@@ -80,7 +80,7 @@
 - [Treap](#treap) (2)
 - [Tree](#tree) (4)
 - [Two Pointers](#two-pointers) (9)
-- [Union-Find](#union-find) (8)
+- [Union-Find](#union-find) (9)
 - [Z Algorithm](#z-algorithm) (2)
 - [Zero-Sum Game](#zero-sum-game) (1)
 - [Uncategorized](#uncategorized) (49)
@@ -167,6 +167,7 @@
 | 3483 | [Unique 3-Digit Even Numbers](./3483-unique-3-digit-even-numbers/) | Easy | java |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](./3550-smallest-index-with-digit-sum-equal-to-index/) | Easy | java |
 | 3568 | [Minimum Moves to Clean the Classroom](./3568-minimum-moves-to-clean-the-classroom/) | Medium | java |
+| 3619 | [Count Islands With Total Value Divisible by K](./3619-count-islands-with-total-value-divisible-by-k/) | Medium | java |
 | 3644 | [Maximum K to Sort a Permutation](./3644-maximum-k-to-sort-a-permutation/) | Medium | java |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](./3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium | java |
 | 3718 | [Smallest Missing Multiple of K](./3718-smallest-missing-multiple-of-k/) | Easy | java |
@@ -331,6 +332,7 @@
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | java |
 | 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | Medium | java |
 | 3568 | [Minimum Moves to Clean the Classroom](./3568-minimum-moves-to-clean-the-classroom/) | Medium | java |
+| 3619 | [Count Islands With Total Value Divisible by K](./3619-count-islands-with-total-value-divisible-by-k/) | Medium | java |
 
 ## Bridge (Graph)
 
@@ -393,6 +395,7 @@
 | 2265 | [Count Nodes Equal to Average of Subtree](./2265-count-nodes-equal-to-average-of-subtree/) | Medium | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | java |
 | 3310 | [Remove Methods From Project](./3310-remove-methods-from-project/) | Medium | java |
+| 3619 | [Count Islands With Total Value Divisible by K](./3619-count-islands-with-total-value-divisible-by-k/) | Medium | java |
 
 ## Design
 
@@ -686,6 +689,7 @@
 | 2267 | [ Check if There Is a Valid Parentheses String Path](./2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard | java |
 | 3148 | [Maximum Difference Score in a Grid](./3148-maximum-difference-score-in-a-grid/) | Medium | java |
 | 3568 | [Minimum Moves to Clean the Classroom](./3568-minimum-moves-to-clean-the-classroom/) | Medium | java |
+| 3619 | [Count Islands With Total Value Divisible by K](./3619-count-islands-with-total-value-divisible-by-k/) | Medium | java |
 
 ## Meet in the Middle
 
@@ -1024,6 +1028,7 @@
 | 1584 | [Min Cost to Connect All Points](./1584-redundant-connection/) | Medium | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | java |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](./2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium | java |
+| 3619 | [Count Islands With Total Value Divisible by K](./3619-count-islands-with-total-value-divisible-by-k/) | Medium | java |
 
 ## Z Algorithm
 
@@ -1241,6 +1246,7 @@
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits/) | Easy | Math, Sorting | java |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](./3550-smallest-index-with-digit-sum-equal-to-index/) | Easy | Array, Math | java |
 | 3568 | [Minimum Moves to Clean the Classroom](./3568-minimum-moves-to-clean-the-classroom/) | Medium | Array, Hash Table, Bit Manipulation, Breadth-First Search, Matrix | java |
+| 3619 | [Count Islands With Total Value Divisible by K](./3619-count-islands-with-total-value-divisible-by-k/) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix | java |
 | 3622 | [Check Divisibility by Digit Sum and Product](./3622-check-divisibility-by-digit-sum-and-product/) | Easy | Math | java |
 | 3644 | [Maximum K to Sort a Permutation](./3644-maximum-k-to-sort-a-permutation/) | Medium | Array, Bit Manipulation | java |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](./3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium | Array, Bit Manipulation | java |
