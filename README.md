@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **211** problems solved
+> **212** problems solved
 
 ## Topics
 
@@ -83,7 +83,7 @@
 - [Union-Find](#union-find) (9)
 - [Z Algorithm](#z-algorithm) (2)
 - [Zero-Sum Game](#zero-sum-game) (1)
-- [Uncategorized](#uncategorized) (49)
+- [Uncategorized](#uncategorized) (50)
 - [All Problems](#all-problems)
 
 ## Algorithm X
@@ -1065,6 +1065,7 @@
 | 4086 | [Minimum Interval Selection to Cover Target Intervals](./4086-minimum-interval-selection-to-cover-target-intervals/) | Hard | java |
 | 4088 | [Difference Between Peaks and Valleys](./4088-count-subarrays-with-loose-bounds/) | Easy | java |
 | 4088 | [Difference Between Peaks and Valleys](./4088-difference-between-peaks-and-valleys/) | Easy | java |
+| 4093 | [Maximize Sum After At Most K Digit Rearrangements](./4093-maximize-sum-after-at-most-k-digit-rearrangements/) | Medium | java |
 | 101110 | [Minimum Initial Strength to Defeat All Monsters](./101110-minimum-initial-strength-to-defeat-all-monsters/) | Medium | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-aggregate-two-time-series/) | Easy | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-count-valid-sequences/) | Easy | java |
@@ -1281,6 +1282,7 @@
 | 4086 | [Minimum Interval Selection to Cover Target Intervals](./4086-minimum-interval-selection-to-cover-target-intervals/) | Hard | - | java |
 | 4088 | [Difference Between Peaks and Valleys](./4088-count-subarrays-with-loose-bounds/) | Easy | - | java |
 | 4088 | [Difference Between Peaks and Valleys](./4088-difference-between-peaks-and-valleys/) | Easy | - | java |
+| 4093 | [Maximize Sum After At Most K Digit Rearrangements](./4093-maximize-sum-after-at-most-k-digit-rearrangements/) | Medium | - | java |
 | 101110 | [Minimum Initial Strength to Defeat All Monsters](./101110-minimum-initial-strength-to-defeat-all-monsters/) | Medium | - | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-aggregate-two-time-series/) | Easy | - | java |
 | 101114 | [Largest Integer With Given Digit Sum](./101114-count-valid-sequences/) | Easy | - | java |
