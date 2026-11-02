@@ -1,19 +1,19 @@
 # LeetCode Solutions
 
-> **214** problems solved
+> **215** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (83)
-- [Backtracking](#backtracking) (14)
+- [Array](#array) (84)
+- [Backtracking](#backtracking) (15)
 - [Bellman–Ford Algorithm](#bellman-ford-algorithm) (2)
 - [Biconnected Component](#biconnected-component) (1)
 - [Binary Indexed Tree](#binary-indexed-tree) (4)
 - [Binary Search](#binary-search) (6)
 - [Binary Tree](#binary-tree) (4)
-- [Bit Manipulation](#bit-manipulation) (29)
-- [Bitmask](#bitmask) (5)
+- [Bit Manipulation](#bit-manipulation) (30)
+- [Bitmask](#bitmask) (6)
 - [Borůvka's Algorithm](#bor-vka-s-algorithm) (1)
 - [Boyer–Moore String-Search Algorithm](#boyer-moore-string-search-algorithm) (2)
 - [Bracket Sequences](#bracket-sequences) (12)
@@ -30,7 +30,7 @@
 - [Divide and Conquer](#divide-and-conquer) (5)
 - [Doubly-Linked List](#doubly-linked-list) (2)
 - [DP on Trees](#dp-on-trees) (2)
-- [Dynamic Programming](#dynamic-programming) (36)
+- [Dynamic Programming](#dynamic-programming) (37)
 - [Enumeration](#enumeration) (7)
 - [Floyd–Warshall Algorithm](#floyd-warshall-algorithm) (2)
 - [Floyd's Cycle Finding Algorithm](#floyd-s-cycle-finding-algorithm) (1)
@@ -146,6 +146,7 @@
 | 1685 | [Sum of Absolute Differences in a Sorted Array](./1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 1807 | [Evaluate the Bracket Pairs of a String](./1807-evaluate-the-bracket-pairs-of-a-string/) | Medium | java |
+| 1986 | [Minimum Number of Work Sessions to Finish the Tasks](./1986-minimum-number-of-work-sessions-to-finish-the-tasks/) | Medium | java |
 | 2089 | [Find Target Indices After Sorting Array](./2089-find-target-indices-after-sorting-array/) | Easy | java |
 | 2213 | [Longest Substring of One Repeating Character](./2213-longest-substring-of-one-repeating-character/) | Hard | java |
 | 2267 | [ Check if There Is a Valid Parentheses String Path](./2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard | java |
@@ -200,6 +201,7 @@
 | 784 | [Letter Case Permutation](./784-subsets-ii/) | Medium | java |
 | 1306 | [Jump Game III](./1306-beautiful-arrangement/) | Medium | java |
 | 1601 | [Maximum Number of Achievable Transfer Requests](./1601-maximum-number-of-achievable-transfer-requests/) | Hard | java |
+| 1986 | [Minimum Number of Work Sessions to Finish the Tasks](./1986-minimum-number-of-work-sessions-to-finish-the-tasks/) | Medium | java |
 
 ## Bellman–Ford Algorithm
 
@@ -265,6 +267,7 @@
 | 1306 | [Jump Game III](./1306-beautiful-arrangement/) | Medium | java |
 | 1601 | [Maximum Number of Achievable Transfer Requests](./1601-maximum-number-of-achievable-transfer-requests/) | Hard | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
+| 1986 | [Minimum Number of Work Sessions to Finish the Tasks](./1986-minimum-number-of-work-sessions-to-finish-the-tasks/) | Medium | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | java |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-find-the-longest-substring-containing-vowels-in-even-counts/) | Hard | java |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-find-xor-sum-of-all-pairs-bitwise-and/) | Hard | java |
@@ -285,6 +288,7 @@
 | 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | java |
 | 1306 | [Jump Game III](./1306-beautiful-arrangement/) | Medium | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
+| 1986 | [Minimum Number of Work Sessions to Finish the Tasks](./1986-minimum-number-of-work-sessions-to-finish-the-tasks/) | Medium | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | java |
 
 ## Borůvka's Algorithm
@@ -475,6 +479,7 @@
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium | java |
 | 1563 | [Stone Game V](./1563-stone-game-v/) | Hard | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
+| 1986 | [Minimum Number of Work Sessions to Finish the Tasks](./1986-minimum-number-of-work-sessions-to-finish-the-tasks/) | Medium | java |
 | 2267 | [ Check if There Is a Valid Parentheses String Path](./2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard | java |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](./2316-partition-array-into-two-arrays-to-minimize-sum-difference/) | Medium | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
@@ -1210,6 +1215,7 @@
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | Array, Two Pointers, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Bitmask | java |
 | 1796 | [Second Largest Digit in a String](./1796-second-largest-digit-in-a-string/) | Easy | Hash Table, String | java |
 | 1807 | [Evaluate the Bracket Pairs of a String](./1807-evaluate-the-bracket-pairs-of-a-string/) | Medium | Array, Hash Table, String | java |
+| 1986 | [Minimum Number of Work Sessions to Finish the Tasks](./1986-minimum-number-of-work-sessions-to-finish-the-tasks/) | Medium | Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask | java |
 | 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](./2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | Linked List | java |
 | 2089 | [Find Target Indices After Sorting Array](./2089-find-target-indices-after-sorting-array/) | Easy | Array, Binary Search, Sorting | java |
 | 2213 | [Longest Substring of One Repeating Character](./2213-longest-substring-of-one-repeating-character/) | Hard | Array, String, Segment Tree, Ordered Set | java |
