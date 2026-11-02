@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **212** problems solved
+> **213** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (81)
+- [Array](#array) (82)
 - [Backtracking](#backtracking) (14)
 - [Bellman–Ford Algorithm](#bellman-ford-algorithm) (2)
 - [Biconnected Component](#biconnected-component) (1)
@@ -44,7 +44,7 @@
 - [Kruskal's Algorithm](#kruskal-s-algorithm) (1)
 - [Linked List](#linked-list) (4)
 - [Manacher](#manacher) (1)
-- [Math](#math) (26)
+- [Math](#math) (27)
 - [Matrix](#matrix) (11)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Memoization](#memoization) (1)
@@ -113,6 +113,7 @@
 | 218 | [The Skyline Problem](./218-the-skyline-problem/) | Hard | java |
 | 315 | [Count of Smaller Numbers After Self](./315-count-of-smaller-numbers-after-self/) | Hard | java |
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | java |
+| 462 | [Minimum Moves to Equal Array Elements II](./462-minimum-moves-to-equal-array-elements/) | Medium | java |
 | 473 | [Matchsticks to Square](./473-matchsticks-to-square/) | Medium | java |
 | 480 | [Sliding Window Median](./480-sliding-window-median/) | Hard | java |
 | 485 | [Max Consecutive Ones](./485-max-consecutive-ones/) | Easy | java |
@@ -652,6 +653,7 @@
 | 202 | [Happy Number](./202-happy-number/) | Easy | java |
 | 204 | [Count Primes](./204-count-primes/) | Medium | cpp |
 | 398 | [Random Pick Index](./398-random-pick-index/) | Medium | java |
+| 462 | [Minimum Moves to Equal Array Elements II](./462-minimum-moves-to-equal-array-elements/) | Medium | java |
 | 478 | [Generate Random Point in a Circle](./478-generate-random-point-in-a-circle/) | Medium | java |
 | 486 | [Predict the Winner](./486-predict-the-winner/) | Medium | java |
 | 628 | [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers/) | Easy | java |
@@ -1143,6 +1145,7 @@
 | 377 | [Combination Sum IV](./377-combination-sum-iv/) | Medium | Array, Dynamic Programming | java |
 | 398 | [Random Pick Index](./398-random-pick-index/) | Medium | Hash Table, Math, Reservoir Sampling, Randomized | java |
 | 460 | [LFU Cache](./460-lfu-cache/) | Hard | Hash Table, Linked List, Design, Doubly-Linked List | java |
+| 462 | [Minimum Moves to Equal Array Elements II](./462-minimum-moves-to-equal-array-elements/) | Medium | Array, Math | java |
 | 473 | [Matchsticks to Square](./473-matchsticks-to-square/) | Medium | Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask | java |
 | 478 | [Generate Random Point in a Circle](./478-generate-random-point-in-a-circle/) | Medium | Math, Geometry, Rejection Sampling, Randomized | java |
 | 480 | [Sliding Window Median](./480-sliding-window-median/) | Hard | Array, Hash Table, Sliding Window, Heap (Priority Queue), Treap | java |
