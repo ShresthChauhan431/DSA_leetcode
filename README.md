@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **215** problems solved
+> **216** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (84)
+- [Array](#array) (85)
 - [Backtracking](#backtracking) (15)
 - [Bellman–Ford Algorithm](#bellman-ford-algorithm) (2)
 - [Biconnected Component](#biconnected-component) (1)
@@ -44,7 +44,7 @@
 - [Kruskal's Algorithm](#kruskal-s-algorithm) (1)
 - [Linked List](#linked-list) (4)
 - [Manacher](#manacher) (1)
-- [Math](#math) (28)
+- [Math](#math) (29)
 - [Matrix](#matrix) (11)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Memoization](#memoization) (1)
@@ -177,6 +177,7 @@
 | 3724 | [Minimum Operations to Transform Array](./3724-range-sum-query-mutable/) | Medium | java |
 | 3727 | [Maximum Alternating Sum of Squares](./3727-maximum-alternating-sum-of-squares/) | Medium | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
+| 3736 | [Minimum Moves to Equal Array Elements III](./3736-minimum-moves-to-equal-array-elements-iii/) | Easy | java |
 | 3875 | [Construct Uniform Parity Array I](./3875-construct-uniform-parity-array-i/) | Easy | java |
 | 3886 | [Sum of Sortable Integers](./3886-sum-of-sortable-integers/) | Hard | java |
 | 3903 | [Smallest Stable Index I](./3903-smallest-stable-index-i/) | Easy | java |
@@ -679,6 +680,7 @@
 | 3550 | [Smallest Index With Digit Sum Equal to Index](./3550-smallest-index-with-digit-sum-equal-to-index/) | Easy | java |
 | 3622 | [Check Divisibility by Digit Sum and Product](./3622-check-divisibility-by-digit-sum-and-product/) | Easy | java |
 | 3723 | [Maximize Sum of Squares of Digits](./3723-maximize-sum-of-squares-of-digits/) | Medium | java |
+| 3736 | [Minimum Moves to Equal Array Elements III](./3736-minimum-moves-to-equal-array-elements-iii/) | Easy | java |
 | 3870 | [Count Commas in Range](./3870-count-commas-in-range/) | Easy | java |
 | 3871 | [Count Commas in Range II](./3871-count-commas-in-range-ii/) | Medium | java |
 | 3875 | [Construct Uniform Parity Array I](./3875-construct-uniform-parity-array-i/) | Easy | java |
@@ -1270,6 +1272,7 @@
 | 3724 | [Minimum Operations to Transform Array](./3724-range-sum-query-mutable/) | Medium | Array, Divide and Conquer, Design, Binary Indexed Tree, Segment Tree, Sqrt Decomposition | java |
 | 3727 | [Maximum Alternating Sum of Squares](./3727-maximum-alternating-sum-of-squares/) | Medium | Array, Greedy, Sorting | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | Array, Hash Table, Sorting | java |
+| 3736 | [Minimum Moves to Equal Array Elements III](./3736-minimum-moves-to-equal-array-elements-iii/) | Easy | Array, Math | java |
 | 3870 | [Count Commas in Range](./3870-count-commas-in-range/) | Easy | Math | java |
 | 3871 | [Count Commas in Range II](./3871-count-commas-in-range-ii/) | Medium | Math | java |
 | 3875 | [Construct Uniform Parity Array I](./3875-construct-uniform-parity-array-i/) | Easy | Array, Math | java |
