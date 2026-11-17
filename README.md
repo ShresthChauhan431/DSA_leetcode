@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **216** problems solved
+> **217** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (85)
+- [Array](#array) (86)
 - [Backtracking](#backtracking) (15)
 - [Bellman–Ford Algorithm](#bellman-ford-algorithm) (2)
 - [Biconnected Component](#biconnected-component) (1)
@@ -30,7 +30,7 @@
 - [Divide and Conquer](#divide-and-conquer) (5)
 - [Doubly-Linked List](#doubly-linked-list) (2)
 - [DP on Trees](#dp-on-trees) (2)
-- [Dynamic Programming](#dynamic-programming) (37)
+- [Dynamic Programming](#dynamic-programming) (38)
 - [Enumeration](#enumeration) (7)
 - [Floyd–Warshall Algorithm](#floyd-warshall-algorithm) (2)
 - [Floyd's Cycle Finding Algorithm](#floyd-s-cycle-finding-algorithm) (1)
@@ -44,7 +44,7 @@
 - [Kruskal's Algorithm](#kruskal-s-algorithm) (1)
 - [Linked List](#linked-list) (4)
 - [Manacher](#manacher) (1)
-- [Math](#math) (29)
+- [Math](#math) (30)
 - [Matrix](#matrix) (11)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Memoization](#memoization) (1)
@@ -54,7 +54,7 @@
 - [Monotonic Stack](#monotonic-stack) (1)
 - [Number Theory](#number-theory) (1)
 - [Ordered Set](#ordered-set) (4)
-- [Prefix Sum](#prefix-sum) (9)
+- [Prefix Sum](#prefix-sum) (10)
 - [Prim's Algorithm](#prim-s-algorithm) (1)
 - [Primality Test](#primality-test) (1)
 - [Prime Number Sieve](#prime-number-sieve) (1)
@@ -159,6 +159,7 @@
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | java |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](./2897-sum-of-squares-of-special-elements/) | Hard | java |
+| 2911 | [Minimum Changes to Make K Semi-palindromes](./2911-number-of-sub-arrays-with-odd-sum/) | Hard | java |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](./2913-subarrays-distinct-element-sum-of-squares-i/) | Easy | java |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](./2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium | java |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium | java |
@@ -486,6 +487,7 @@
 | 2591 | [Distribute Money to Maximum Children](./2591-trapping-rain-water/) | Easy | java |
 | 2645 | [Minimum Additions to Make Valid String](./2645-minimum-additions-to-make-valid-string/) | Medium | java |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](./2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium | java |
+| 2911 | [Minimum Changes to Make K Semi-palindromes](./2911-number-of-sub-arrays-with-odd-sum/) | Hard | java |
 | 3148 | [Maximum Difference Score in a Grid](./3148-maximum-difference-score-in-a-grid/) | Medium | java |
 
 ## Enumeration
@@ -673,6 +675,7 @@
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-find-xor-sum-of-all-pairs-bitwise-and/) | Hard | java |
 | 2591 | [Distribute Money to Maximum Children](./2591-distribute-money-to-maximum-children/) | Easy | java |
 | 2894 | [Divisible and Non-divisible Sums Difference](./2894-divisible-and-non-divisible-sums-difference/) | Easy | java |
+| 2911 | [Minimum Changes to Make K Semi-palindromes](./2911-number-of-sub-arrays-with-odd-sum/) | Hard | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
 | 3222 | [Find the Winning Player in Coin Game](./3222-find-the-winning-player-in-coin-game/) | Easy | java |
 | 3345 | [Smallest Divisible Digit Product I](./3345-smallest-divisible-digit-product-i/) | Easy | java |
@@ -765,6 +768,7 @@
 | 1658 | [Minimum Operations to Reduce X to Zero](./1658-minimum-operations-to-reduce-x-to-zero/) | Medium | java |
 | 1685 | [Sum of Absolute Differences in a Sorted Array](./1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium | java |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-find-the-longest-substring-containing-vowels-in-even-counts/) | Hard | java |
+| 2911 | [Minimum Changes to Make K Semi-palindromes](./2911-number-of-sub-arrays-with-odd-sum/) | Hard | java |
 | 3903 | [Smallest Stable Index I](./3903-smallest-stable-index-i/) | Easy | java |
 | 3904 | [Smallest Stable Index II](./3904-smallest-stable-index-ii/) | Medium | java |
 
@@ -1242,6 +1246,7 @@
 | 2894 | [Divisible and Non-divisible Sums Difference](./2894-divisible-and-non-divisible-sums-difference/) | Easy | Math | java |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](./2897-sum-of-squares-of-special-elements/) | Hard | Array, Enumeration | java |
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](./2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium | String, Sliding Window | java |
+| 2911 | [Minimum Changes to Make K Semi-palindromes](./2911-number-of-sub-arrays-with-odd-sum/) | Hard | Array, Math, Dynamic Programming, Prefix Sum | java |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](./2913-subarrays-distinct-element-sum-of-squares-i/) | Easy | Array, Hash Table, Binary Indexed Tree, Segment Tree | java |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](./2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium | Array, Union-Find, Sorting | java |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](./2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium | Array, Hash Table, Sliding Window | java |
